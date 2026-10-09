@@ -1,0 +1,7 @@
+streamlit>=1.40
+pandas
+plotly>=5.24
+requests
+feedparser
+beautifulsoup4
+lxml

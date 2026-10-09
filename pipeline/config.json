@@ -1,0 +1,240 @@
+{
+  "news_queries": [
+    "foreign university campus India UGC letter of intent",
+    "foreign university campus India letter of approval UGC",
+    "offshore campus India university announces",
+    "international branch campus India GIFT City IFSCA",
+    "UK university India campus",
+    "Australian university India campus",
+    "US university India campus Hyderabad Telangana Future City",
+    "Telangana foreign university campus MoU"
+  ],
+  "rss_feeds": [
+    {
+      "name": "The PIE News",
+      "url": "https://thepienews.com/feed/"
+    },
+    {
+      "name": "University World News",
+      "url": "https://www.universityworldnews.com/rss.php"
+    },
+    {
+      "name": "PIB (Education)",
+      "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3"
+    },
+    {
+      "name": "Times Higher Education",
+      "url": "https://www.timeshighereducation.com/rss"
+    }
+  ],
+  "google_alerts_rss": [],
+  "ugc_fhei_url": "https://www.ugc.gov.in/FHEI",
+  "gdelt_timespan": "14d",
+  "relevance_must_have_any": [
+    "campus*",
+    "branch campus",
+    "offshore",
+    "ibc",
+    "letter of intent",
+    "letter of approval",
+    "ugc"
+  ],
+  "relevance_india_any": [
+    "india",
+    "indian",
+    "ugc",
+    "gift city",
+    "ifsca",
+    "telangana",
+    "hyderabad",
+    "bengaluru",
+    "bangalore",
+    "mumbai",
+    "gurugram",
+    "gurgaon",
+    "chennai",
+    "noida",
+    "delhi"
+  ],
+  "aliases": {
+    "deakin-university": [
+      "deakin"
+    ],
+    "university-of-wollongong": [
+      "wollongong",
+      "uow"
+    ],
+    "queen-s-university-belfast": [
+      "queen's university belfast",
+      "queens university belfast",
+      "qub"
+    ],
+    "coventry-university": [
+      "coventry university"
+    ],
+    "university-of-surrey": [
+      "university of surrey",
+      "surrey university"
+    ],
+    "university-of-southampton": [
+      "university of southampton",
+      "southampton university"
+    ],
+    "university-of-liverpool": [
+      "university of liverpool",
+      "liverpool university"
+    ],
+    "ied": [
+      "istituto europeo di design",
+      "ied group",
+      "ied india",
+      "ied"
+    ],
+    "la-trobe": [
+      "la trobe"
+    ],
+    "university-of-york": [
+      "university of york",
+      "york university"
+    ],
+    "university-of-aberdeen": [
+      "university of aberdeen",
+      "aberdeen university"
+    ],
+    "illinois-institute-of-technology": [
+      "illinois tech",
+      "illinois institute of technology"
+    ],
+    "victoria-university": [
+      "victoria university"
+    ],
+    "university-of-bristol": [
+      "university of bristol",
+      "bristol university"
+    ],
+    "university-of-new-south-wales": [
+      "unsw",
+      "university of new south wales"
+    ],
+    "university-of-western-australia": [
+      "university of western australia",
+      "uwa"
+    ],
+    "western-sydney-university": [
+      "western sydney"
+    ],
+    "lancaster-university": [
+      "lancaster university"
+    ],
+    "birkbeck-university-of-london": [
+      "birkbeck"
+    ],
+    "flinders-university": [
+      "flinders"
+    ],
+    "university-of-sussex": [
+      "university of sussex",
+      "sussex university"
+    ],
+    "icn-international-college-paris": [
+      "icn business school",
+      "icn international"
+    ],
+    "purdue-university": [
+      "purdue"
+    ],
+    "university-of-colorado": [
+      "university of colorado",
+      "cu boulder",
+      "cu denver"
+    ],
+    "university-of-exeter": [
+      "university of exeter",
+      "exeter university"
+    ],
+    "university-of-london": [
+      "university of london"
+    ],
+    "northeastern-university": [
+      "northeastern university"
+    ],
+    "newcastle-university": [
+      "newcastle university"
+    ],
+    "university-of-birmingham": [
+      "university of birmingham",
+      "birmingham university"
+    ]
+  },
+  "event_rules": [
+    {
+      "label": "Letter of Approval",
+      "any": [
+        "letter of approval",
+        "loa",
+        "final approval"
+      ]
+    },
+    {
+      "label": "Letter of Intent",
+      "any": [
+        "letter of intent",
+        "loi"
+      ]
+    },
+    {
+      "label": "MoU / agreement",
+      "any": [
+        "mou",
+        "memorandum",
+        "agreement",
+        "signed"
+      ]
+    },
+    {
+      "label": "Launch / first cohort",
+      "any": [
+        "inaugurat*",
+        "first cohort",
+        "classes begin",
+        "opens its",
+        "officially opened",
+        "campus opens",
+        "welcomes first"
+      ]
+    },
+    {
+      "label": "Leadership",
+      "any": [
+        "appoints",
+        "appointed",
+        "named provost",
+        "named dean",
+        "vice-chancellor",
+        "provost",
+        "chief operating officer"
+      ]
+    },
+    {
+      "label": "Programmes",
+      "any": [
+        "programme*",
+        "program",
+        "course*",
+        "degree",
+        "intake",
+        "admissions open"
+      ]
+    }
+  ],
+  "new_entrant_phrases": [
+    "letter of intent",
+    "loi",
+    "letter of approval",
+    "offshore campus",
+    "branch campus",
+    "set up campus",
+    "open campus",
+    "campus in india"
+  ]
+}
