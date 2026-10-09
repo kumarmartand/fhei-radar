@@ -1,1 +1,40 @@
-{}
+{
+ "UGC FHEI list": {
+  "ok": true,
+  "items": 8,
+  "at": "2026-10-09T06:35:19+00:00",
+  "last_ok": "2026-10-09T06:35:19+00:00",
+  "secs": 2.2
+ },
+ "Google News RSS": {
+  "ok": true,
+  "items": 143,
+  "at": "2026-10-09T06:35:19+00:00",
+  "last_ok": "2026-10-09T06:35:19+00:00",
+  "secs": 3.1
+ },
+ "GDELT": {
+  "ok": false,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%22letter%20of%20intent%22%20university%20india%20campus%20UGC&mo",
+  "at": "2026-10-09T06:35:19+00:00",
+  "last_ok": null
+ },
+ "Trade & gov RSS partial": {
+  "ok": true,
+  "failed_feeds": 2,
+  "of": 4,
+  "at": "2026-10-09T06:35:19+00:00"
+ },
+ "Trade & gov RSS": {
+  "ok": true,
+  "items": 30,
+  "at": "2026-10-09T06:35:19+00:00",
+  "last_ok": "2026-10-09T06:35:19+00:00",
+  "secs": 4.6
+ },
+ "_summary": {
+  "last_run": "2026-10-09T06:35:19+00:00",
+  "raw_items": 173,
+  "new_relevant_items": 61
+ }
+}

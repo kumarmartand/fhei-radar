@@ -1,0 +1,45 @@
+{
+ "fetched": "2026-10-09T06:35:19+00:00",
+ "rows": [
+  {
+   "state": "Haryana",
+   "name": "University of Southampton",
+   "address": "Block III, International Tech Park, Near Sec 59, Off Golf Course Ext Road, Gurugram, Haryana-122101"
+  },
+  {
+   "state": "Haryana",
+   "name": "Victoria University, Melbourne, Australia",
+   "address": "Ground Floor, Building No. 3, Tower A & B, Candor TechSpace, Sector - 21, Dundahera, Gurugram - 122016, Haryana, India"
+  },
+  {
+   "state": "Karnataka",
+   "name": "University of Liverpool, UK",
+   "address": "Alembic City, Kadugodi Rd, Gopalkrishna Nagar, Maithri Layout, Kadugodi, Bengaluru, Karnataka 560067"
+  },
+  {
+   "state": "Karnataka",
+   "name": "University of New South Wales, Australia",
+   "address": "Ground Floor, G1, Mulberry Block,Embassy Manyata Business Park, Bengaluru, Karnataka 560045"
+  },
+  {
+   "state": "Maharashtra",
+   "name": "University of Bristol, UK",
+   "address": "18th Floor, Cignus Powai Mumbai – 400087, Maharashtra"
+  },
+  {
+   "state": "Maharashtra",
+   "name": "University of York, UK",
+   "address": "One Boulevard,3rd & 4th Floor, Hiranandani Gardens, MHADA Colony 19, Powai, Mumbai - 400076"
+  },
+  {
+   "state": "Maharashtra",
+   "name": "University of Aberdeen, Mumbai",
+   "address": "Chromium, Andheri East, Jogeshwari - Vikhroli Link Rd, Powai, Mumbai, Maharashtra 400072"
+  },
+  {
+   "state": "Maharashtra",
+   "name": "Illinois Institute of Technology – Mumbai Campus",
+   "address": "Godrej Business District 06\nVikhroli (West), Mumbai – 400079\nMaharashtra, India"
+  }
+ ]
+}

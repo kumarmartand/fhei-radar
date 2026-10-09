@@ -1,1 +1,1059 @@
-{"fetched": null, "items": []}
+{
+ "fetched": "2026-10-09T06:35:19+00:00",
+ "items": [
+  {
+   "title": "CU Denver targets August 2027 for first Hyderabad campus intake - EdexLive",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk5HcUV0ZmhiekpENTJVUHBEWllWaFJoX0ZidTVheFZZeWY3dU9va0xRdTdBSjB0RnpWNXVMVGNreDJMSHFFNll4QmgwMmNYbG1xYl85Zks3VHA1MzlTMWpUYTBCV0VQT2RMUk5HTTRGQ1REUWNSRmhSNmFTOEl6SGtMWnU1eGtrYV9GODF4SndaX0w5aHQ0btIBpgFBVV95cUxOM2JwM25neE1sdGZnU1g0WW8wNG1VRlI0akNObG9YUGF6Vl9NSERIYmxsQlF0THJ2SGp6cnJIWEpHU3JyQmMxcjZ3ZERmMWxybE5NX2JVRFgwbnQtdU1qLThaNUZNRUt2cWhxVUhDMkpoZGoyclF2WWUwV0F0QlhjUW93TGhSc1BzQjZQcmJxc3ZUeDZWb2NURGlRS0ZjX1NpZWhHN21B?oc=5",
+   "source": "EdexLive",
+   "published": "2026-10-08T14:30:00+00:00",
+   "summary": "CU Denver targets August 2027 for first Hyderabad campus intake EdexLive",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Programmes"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "UGC Clears Colorado Denver Univ's Hyderabad Campus Plan - BW Education",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFdSR0tnOUZXQUtZRXk0TWJPS2swS3BoNGl6ZkVvNUlZZDlUZnRGdHJ1d1AwZlRvcEFLTGRKdFVPMVhsNU5fdDZsUGVIZk8yaGpaSUhSSkcwS1Y4WFBGYUFGY2hJT3dkck9hZU5tSDBzSzR3SWFfVUlQRDRrVng5cFd6NDhQWmpVblJjTjYyNUV1WmhOR1NWcl9DN2Q0UEU?oc=5",
+   "source": "BW Education",
+   "published": "2026-10-08T09:10:37+00:00",
+   "summary": "UGC Clears Colorado Denver Univ's Hyderabad Campus Plan BW Education",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "CU Denver to set up Hyderabad campus, first US public univ with UGC nod - Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR0x1UzlfSFVacVgwTjF5dmhSdnE1YXc0WmdyY2wyR2dZR0RqbzZ3QU10R0dsaTJtVlA4NWk1b1JZZFpGbC0waGZRYV9qZjd3bTVtV1kxSU5iVXNHY1RsbGMySmxHVFNTRjlsdzg3SFNpRUhFUmFBQXZxamUwVzJQRzUzdEppVkR5aEhaaEtiT3Y3Y2JDNnFMNU5OellMekxXQmFXSVlOQlVDVUlJd1RBa3VGcUVESEFYRVBKWngwQVhacjZYSkdtR1FXVTVkaFZfeWZWZENnaGtmMknSAdsBQVVfeXFMUEdMdVM5X0hVWnFYME4xeXZoUnZxNWF3NFpncmNsMkdnWUdEam82d0FNdEdHbGkybVZQODVpNW9SWWRaRmwtMGhmUWFfamY3d201bVdZMUlOYlVzR2NUbGxjMkpsR1RTU0Y5bHc4N0hTaUVIRVJhQUF2cWplMFcyUEc1M3RKaVZEeWhIWmhLYk92N2NiQzZxTDVOTnpZTHpMV0JhV0lZTkJVQ1VJSXdUQWt1RnFFREhBWEVQSlp4MEFYWnI2WEpHbUdRV1U1ZGhWX3lmVmRDZ2hrZjJJ?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-08T09:10:33+00:00",
+   "summary": "CU Denver to set up Hyderabad campus, first US public univ with UGC nod Business Standard",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver to open branch campus in India - Times Higher Education",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTllN1RYUDRhT1pRejB6ckhFeWNtWldQbzNmb2htT09pM19jOGMzOTVESTJXaDNOb2tUREtJT1F2VFJ3Qk1QUHMtR0tsU19DSmZzdzZTd09VbkpqSUs2bmY4UVhmVHNuZ2I1ZUJNX3QtZHV3bFFuWGUwbU44dzFBcGxsaUxRZVZqUG9qUTlpcWtrTVk2clg0Mg?oc=5",
+   "source": "Times Higher Education",
+   "published": "2026-10-08T09:05:00+00:00",
+   "summary": "University of Colorado Denver to open branch campus in India Times Higher Education",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "The University of Western Australia gets UGC approval for Chennai campus, classes to begin from October 19 - The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPaTFTWUM0V0pYaXQ3YkZCU2h6eVFlOWJGMEN5Zl93Q2lRNEw5am9oWUl3d3c4eVpxY2lxYXNkTy13R3NYRmdGWkRkSmFOczJZaWo5UEJPWHhrekZyR2pGLXlsbTliSEk4MGhJZkhVMDkxNXVueHVLVjB2TnhCYVFSRDl1bFNEQURBbmhDNnZHZ0F4dnczQUwza1ZNc3RONl9PQ0h1djFtSTZzeWV1WXlUQVA1UzJ6QVBsM25wcnU5d3hGRlNCdmE5OVdscGdLMDlrelNSdE1lWGtXSmVrSU9DcVVaRkJzUFp0dmtIclo5QTBlbGtsUGotWTB1Vkx3Z2FRQ1cyY0ZRTHd5d9IBjwJBVV95cUxQWTNLaTN2cEJnbmZZWFFVOGFCVEQwTFRpTVI4WVZTdm9LamZOM05wMTY2T1ZVRGtGNy0xaFFONGplaF9vZnBPUW9CWXQzWW8xT0MyT3oxZFpQS3V0YTVNRWtITW5RaVBjdWQyMnIzRmFLakpZRXdLeXpCV3otRU1BQ3laTU52Wi1KUWlPYXU3aXp0elJzdWVueDhQcTNPYVZFdHpOeVlTMWZLUVZLOEpRYzVNRGNjb2VKRXE0X3RzVUozUlh4TTc0WnBUaXpYZ0FqdFY0WUFlUUpvSmx5MHhUTC1MSWZhUGE0SEJSVElTV1dVQnB6M25NSm9ZN0hKQnozUHVTS25zYjRHODFqX3Br?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-10-08T08:31:02+00:00",
+   "summary": "The University of Western Australia gets UGC approval for Chennai campus, classes to begin from October 19 The Economic Times",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University Of Colorado Denver Receives UGC Nod for Hyderabad Campus, First in India for US Public University - Telangana Tribune",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONC1kYjh3c1JxLXpYb1lVbG1sZkNTMWZ1XzZwMHQyb0ZtY3hfRGROZm51NGVyVTVQWFlTc3MtUjZmRDFkVE96RmJhU2hidVdOZlNkcFZ6TnJBcWdOSDJEYzROMkRkQWJCemE0dnhxVllLdE43SzhuSzhpczhPRzNVem9mUmNobHM1aFNOMUJacGQtQ2FDSXJrZTZmeEZnNjIyWW1RMjRWSE5td0lTQWNfWjcwbEtTeUNibUxYOW4zdGpqNGhhSUpyd0owbG9FbGdLWWlVWUtxcDE?oc=5",
+   "source": "Telangana Tribune",
+   "published": "2026-10-08T06:31:32+00:00",
+   "summary": "University Of Colorado Denver Receives UGC Nod for Hyderabad Campus, First in India for US Public University Telangana Tribune",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "CU Denver Hyderabad Campus Gets UGC Approval for 2027 - Urban Acres",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZURsWXZiQ09iNHRMbEplMzhhdHZwQ21ZWU4xbEtPaHFhV0pTdmttZjN5ZDljalJlajZvZG1taU14SWR5TlYtZ3JXdHZpeUkzVlI0elE5YnNWLS1VV29hWnlfREJTaDBCWUFDbzJ6ZUVDZV8yc2M1TzRRemlxazhoQlNCOVNWandGcEE?oc=5",
+   "source": "Urban Acres",
+   "published": "2026-10-08T04:48:16+00:00",
+   "summary": "CU Denver Hyderabad Campus Gets UGC Approval for 2027 Urban Acres",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver to establish India campus in Hyderabad, first cohort in August 2027 - The Indian Express",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLVRGS19wQ05zcURmWFpfMlFrRmFfajNaaVhkRGRTYjNkclJJMUJkV1duYm1WWTQ1WERCTE9fbjlYV0hxZ2p6TmRwNlpBT1dtUll6RXh5MnlxLU96OGxCWEZzS3ZvTTZST3MxZ0sxRWpuTzIwTWllSWdRbTVXZ0lMWWl6eGM4QjdMNl9zMFItZGEwQTBBdEZZX3UwbVVIOVprQTZkSTBfT012SHA2a1NEX1h3THhRaW5wQl9LZ2RIZzBiaHIzWUh3ajdCV3o4ZURobDBhWmZIS0RxSUszalpEZ0UxQ2V3d1HSAe4BQVVfeXFMUGJqMnN4Unk0Ni1zczZQU3pJaHFsWFNILTVkZ28tRGhVTDZsUVhpbjd2a2JCM1JzcGNkUnlGdDI4Nms5ZlUwYzlQeEZqeXF5ZUNZY2ZsYWc1SnJWVG1NVXB1OHZCQ3NTZHI4TDl3R1pWNmNiUzRxVThUc3liMm4zV0V1WUJWUkNYRGRoYXFaQ3hKaTBLWHNJQkRrbkN4LTQ2VjNRQjBuZm5OLTVhdVB5ZU1RU0lXYXZJcnc3SlZuRzJMSzhMMERteXIwNV9JU2pPYjVJWWZCbUJWY0xVZEt2dEVHbFVfUms0Yks3VDZudw?oc=5",
+   "source": "The Indian Express",
+   "published": "2026-10-08T03:43:00+00:00",
+   "summary": "University of Colorado Denver to establish India campus in Hyderabad, first cohort in August 2027 The Indian Express",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Launch / first cohort"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "UWA gets green light for Chennai as two-campus India bet takes shape - The PIE News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzJIUURTeEtIdDFYZENrbmZHVTZyalpvM3BHSXVZVFJFVjRCV2J1dHlkLWVmNEliUm85S2djdGZDX0xPMXZVcnVROVpIR3FnRkxTcGh2cmpNaWVSaGllSHFYOTZLUU8td25ENkxDVEpxNmRSeGJQM040Mm1aRlNMZ2MzSV9hTnRZMmR2OEdVZzRnOU1IbHVB?oc=5",
+   "source": "The PIE News",
+   "published": "2026-10-07T21:30:35+00:00",
+   "summary": "UWA gets green light for Chennai as two-campus India bet takes shape The PIE News",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "CU Denver to set up Hyderabad campus, first cohort likely in August 2027 - Dinamalar",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUk5MR2JjcmJLSTlxUVdTWVZZZUp3UHl5Mm1RNFFvVTh2Ym5QOWJJN1pIQzlMVzdNSnNWdW5kYUdUT0Rxb05QTm5MRGRfNzR4TDlfdldESUpXMkpJLWR5cmRRSUJoUnRzQldicDdiaHlvVXdaSFg3a05qdlZYY21yaklxamlxeUNKa0RKMGFxcDVTTk5LMmlJVFpvRHFQeldSVjgtaEVjTjJwUzQ3ZWhvXzl6RlgyMXdvLTF6VWtJVGJiY0NvOUxjVktTdw?oc=5",
+   "source": "Dinamalar",
+   "published": "2026-10-07T17:14:11+00:00",
+   "summary": "CU Denver to set up Hyderabad campus, first cohort likely in August 2027 Dinamalar",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Launch / first cohort"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Lighthouse Learning partners with Clifton College to establish first India campus - Careers360",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ19QR2JZTmVwOUJvUG5Vd0k2NFA2YXp2Q1k4Mkd1bG8tT2hjN0c1alRmX1FOa0Zjb1plX0V6MGFUVzJITzRoLVEwRUlCTjcxbkZscmhEOS1DNVphYzczdlh4enpRTVRrNktYM1VmU19yT2o2RURwTzJOcTlYb3BYN2phVklXN2tLcTF6bXBJYllPV3JWendZT1hvWGV5ZC1pd3diUFFuTmdNMC1YSHVleE8yVmlpanZNc2VzVVQwV2NGanVWc0tsTlhJMkpiZUxSU0YtZVBxWWVfTi1ESlgxUkxTblczRmR0Q0hYRHgxdXdNTjjSAfMBQVVfeXFMUGdfUEdiWU5lcDlCb1BuVXdJNjRQNmF6dkNZODJHdWxvLU9oYzdHNWpUZl9RTmtGY29aZV9FejBhVFcySE80aC1RMEVJQk43MW5GbHJoRDktQzVaYWM3M3ZYeHp6UU1UazZLWDNVZlNfck9qNkVEcE8yTnE5WG9wWDdqYVZJVzdrS3Exem1wSWJZT1dyVnp3WU9Yb1hleWQtaXd3YlBRbk5nTTAtWEh1ZXhPMlZpaWp2TXNlc1VUMFdjRmp1VnNLbE5YSTJKYmVMUlNGLWVQcVllX04tREpYMVJMU25XM0ZkdENIWER4MXV3TU44?oc=5",
+   "source": "Careers360",
+   "published": "2026-10-07T16:32:33+00:00",
+   "summary": "Lighthouse Learning partners with Clifton College to establish first India campus Careers360",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "CU Denver Hyderabad Campus Gets UGC Nod, Expanding Telangana’s Education Hub - Urban Acres",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWNPOU90V2U3WlNaSXVDMElHM1VaOW1LSUJoTWNWTW9nckZNWURLbHBKeXBKR2c0MW0zbGt0b29rMnFNeTFldm56b0dfcUEwb2Nuc3ZDX01PWTVGR053M0YtSXFLWWpXVk5ZWUFjdl93RVZHSTduVTFxemRmbVl5ZWJpR3JmUkxrLUN4dHh3d3VMZTB3RElaRGtRUVlfZw?oc=5",
+   "source": "Urban Acres",
+   "published": "2026-10-07T16:29:35+00:00",
+   "summary": "CU Denver Hyderabad Campus Gets UGC Nod, Expanding Telangana’s Education Hub Urban Acres",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "CU Denver takes step towards India campus in Hyderabad - The PIE News",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjhyY1I1V3hVazd1eHJqOHFWeWFNWmFzQXpUb0Z4YS04TWR2ZW9KQzc3bWRmVmxIeDRaOHNpVFlyVDF1UE1pSl90SnlfZ3kwMXQtXzZnOEFVNzZHakx5ZmV1SlNXRU91M2N0aWtTMW9GQlZOdUROOUdHSnExT1otenZ5VnM?oc=5",
+   "source": "The PIE News",
+   "published": "2026-10-07T15:32:17+00:00",
+   "summary": "CU Denver takes step towards India campus in Hyderabad The PIE News",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver to establish India campus in Hyderabad - Telangana Today",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0s4aHhBS0dZSHVfYkRtVmozSm04WWljandGWkxrTGdVN2hIbmNhSHJxbEIyZXpPQUhESGxDSzZkTW5DcWZWTUJtZWRndWtXT0JwWE5hZnpDTVAwOHpQc1AwNl9Rak4tUFBWRE9Ua1lDM3ZUenBac3Itd2NRdU5jc0pza21BREVmc1VDcXdaZkRzdHNqQzh0VzN5WQ?oc=5",
+   "source": "Telangana Today",
+   "published": "2026-10-07T14:42:39+00:00",
+   "summary": "University of Colorado Denver to establish India campus in Hyderabad Telangana Today",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver gets UGC approval for Hyderabad campus - Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2hEeVpoYW91MHBST2cwcjNhUV9taG85aE1RYUhndERIbUUtUlNPUFpyb2NRSHNJbG1OQ3RaUm1qbXVCbkNEUkJhdWJNcmhwMnEyOUVJQVNyN1RBaWFCMG5xdGpJRnBkZ25WSC1qX0xWTUhjMWJFLUZzbTdrdEtIWDdfY0dOTlg1NThadm1tS2FKeHZTUkluNURkYTg1MkY0UDFBc3NzNzI3cUNJbEdiVlpzZXNOYzkxdEJDU2FvdXRRa25EamswT1dDeHZCajdUQUJn0gHYAUFVX3lxTE1HdVJPWG1DUXFYZ2cxcWE0ZEpfa1lTcS12d0FLdnZnYTZtU3J6R3Z6dVBmN2JxQlowTWtISVlfMm9KVmUtUjY4MEp2SDFXdTZKcl92TEczeWRpYkQtVWNzRHF0WmttYVp4b2pKRXpGZGo4TVZmaTdzZmVsMzk1RlVqai00U3ZXdzlUdnNmamxubS1CTWQ1Vm9iZC1rc2RaY2JEVVJKWlFwcDNOT2JPSGJ3Rk9GZkdEWlVvb3haMF96Smh2ckNLa1Z6ZXhlb1FjVUYySjZUakc0MQ?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-07T14:31:55+00:00",
+   "summary": "University of Colorado Denver gets UGC approval for Hyderabad campus Business Standard",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "CU Denver Hyderabad Campus Gets UGC Letter of Intent - Urban Acres",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONThXZzdhajFWRl9HOVlJaF9pMVRoR2d4T3RMUk44bHVkTTJKUUVSMW9GZTFXZHZqTEMwZEpGUGVFTkg5aWhrWjhaMjB6ZVJCZlVMUWtQVFFSZjF1TzhTTmstSFZuY2w4cjFCX0QwXzhZU05td2cyb1dEeXhaWWxyMkJpU0l0WGhJYk1JYmJVZURHeGc?oc=5",
+   "source": "Urban Acres",
+   "published": "2026-10-07T14:13:49+00:00",
+   "summary": "CU Denver Hyderabad Campus Gets UGC Letter of Intent Urban Acres",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Letter of Intent"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver to Set Up Campus in Hyderabad - LiveChennai",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QQmhxVjJLXzdVcUJCS25OMExxNUxoQU5oWE5tc3V2YlJiS3RFUXdzdVF4a0ZPdURVeFpieWZaUkxqNTVCOVg4YkdpS1BWRk1TREthZXlSNVFaSjRKWkNIU2w3bDVRWFFqa281ekJqUQ?oc=5",
+   "source": "LiveChennai",
+   "published": "2026-10-07T12:27:57+00:00",
+   "summary": "University of Colorado Denver to Set Up Campus in Hyderabad LiveChennai",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver gets UGC letter of intent for Hyderabad campus - ET Education",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNc0tzbG5WUjNtWTRhSGNjTUtUdWNwaTVJcVpqdFZTcXRVQ2RoNkg2czRSNS1ycXB5YzZSTl9oaDk4RjRMZkZQZl9uSVNvd1NJaUtrVklTTk5KRk16RXB5ai1BcTFSUjVGR1BzVjdObWNVTlJoOVpZTHh6bDJkUEMwQjNROXlLX0lkOUdHdUQwaWdpOE4xRUhwdlRpeHF6RW9oU1RRZFctWTJCRXU4RDlLa3VNRTF4WjhzVk11UHcxM0lobU53MWExZFU3WXdfeVVlSUlhRnBzOVhKLVBwb29mRnNLZ3ZGb1JBWGIyMUdqR0TSAfABQVVfeXFMTXNLc2xuVlIzbVk0YUhjY01LVHVjcGk1SXFaanRWU3F0VUNkaDZINnM0UjUtcnFweWM2Uk5faGg5OEY0TGZGUGZfbklTb3dTSWlLa1ZJU05OSkZNekVweWotQXExUlI1RkdQc1Y3Tm1jVU5SaDlaWUx4emwyZFBDMEIzUTl5S19JZDlHR3VEMGlnaThOMUVIcHZUaXhxekVvaFNUUWRXLVkyQkV1OEQ5S2t1TUUxeFo4c1ZNdVB3MTNJaG1OdzFhMWRVN1l3X3lVZUlJYUZwczlYSi1QcG9vZkZzS2d2Rm9SQVhiMjFHakdE?oc=5",
+   "source": "ET Education",
+   "published": "2026-10-07T11:26:11+00:00",
+   "summary": "University of Colorado Denver gets UGC letter of intent for Hyderabad campus ET Education",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Letter of Intent"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "CU Denver to set up Hyderabad campus, first US public university in India - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS3ptLUpkV0NDMTZ0UnNTVW9WZ2hkWmxuNW91d0w0aTFOOHNzVXIzWUIta3BBUVBrT1g0NWpJMng5VWhVRFMxdzJIeDM0SzJsbVBFc2VQaUg1SEE1MXF1YmZFN1BWS1V5UTNkLWtyUWNLbEh0eDNrSHBkRlhWNFdjaDBNWm9WX2JqX0hTMkdLRkdXb0tkQlRVa25fcEpvZl9Uc09MY0l5WGZpTkpHOVg0cFBOS0IzeGw4c2d6bXdEbi0xVVFYTVU2alZ5WVhLM2NNZ0s5SURfcTVQRmE5dm9OOTg2Z9IB6AFBVV95cUxOWXJETUNjaDhCeTFQY3VmVzF4X1IxWWdPVzA1XzlWQ3NhSk44Uzc5bnp2cHNJM1VBckF1QXduZkVuaGQ5SHl2R3pMLWVzMzFTX045ZndkOW5RLWFlTTNDQTlUQUJQT2ZvZXktUmZPa2todm4yN25mSmR1ckNSeUlYcG5UREVnbEYzcEQxcWtGWGtJM0gtNTNfV3UzbmZfdU9RcEFlQzZObHR3UW55aHJnUnlxRk41N1pSRHJ2elhyMTZDajBBbm1mQUdLNlByZ29TbEtOaVBuNWw0MEh3Z1Nqcmd5T01mSHJB?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-07T10:20:00+00:00",
+   "summary": "CU Denver to set up Hyderabad campus, first US public university in India The Times of India",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver gets UGC nod to set up campus in Hyderabad - Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWjYzUzN0NWpOdzFFTGVuRlpiZGhrTjE3cl9hb0dVOG5wYno4STYtODhzRkVaWHVhemg0c3l5a2hvRmpuSVJ5NG9hRFFvbW5fR1F4VHJfMWhlV3hmX2hQUlVUMEdfWExIMWFJZ3dVcUVFanpHY1hsYU1SbEtEQzF4RFhwOGJzbDdmWl9lVE9CRTI2bXEtX3c3UTdadDBTSFhrNUNFT0taTWRUMmhhWlY3QXZMNkVUWWVWenVqcGR2NEpVV2xIRmxCV1dLcHg4ejZtM3JIZ05Ub2PSAd4BQVVfeXFMUFBnQnVYa2R5a1dCQjRsRXliQ0M0UDdxQWt5aUpqdDdtSGlXenhtU3UyZnZsUWVfalhHcUZTLUhHdDh2R0J1ZTd2NUFLdk04VXAya0hFOXlZcHVXRjJwRTRCVG1HMzFSVGhTb21UZVNiU0p1VnVCSldoQ1BYelpHVFRVc29BdWpRSUZjQTk2eXhWRkVjcDV2Yk5zcklVU19tYjJBS280ZEdGS2lJd2RtZFQxZFpLUkhybmowWnNUeUtiZWFheG5ZdndwVy1XdWRwRlhib1ZQZ2NpT1Y5UC1R?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-07T10:18:44+00:00",
+   "summary": "University of Colorado Denver gets UGC nod to set up campus in Hyderabad Business Standard",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "India to soon get first US public university campus in Hyderabad, receives UGC nod - India Today",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWXc3VHZQOGI2Z1ZzNTg5NzVUbFNtQm5sM2JRU1BiRnExMTI1Y0ZjRDlrUHEyRW5yTUFtSFdIQ3lJX2NISnUzMlVNY2FEcWIxaVhBNFFnNFRKLWctNVZ2ZnAyTnpLZlZ4VTFuekpXXy1wa0hReXFlVE16d0tGMV9sRVBQdXlmS3JQUHc3Ym1UYjhqdk9WRWhRY1QyX2p2QWJYZ2sxNWktcGlra0hKakh2czdGdnVDdE9wV0ZQMTg1MXVNRWw2UFgybFFGcUxqTUxTalNVRTlzZTRnVXhaU2t4MGZfeURoSFBkMDlabk52RWd4YW_SAfgBQVVfeXFMTmg5U2k4ZXVXcDY1RmdQc0ZwZlI0eFFmU1N0Z2V4aXk2SFRMckdGN3FmZ2w1d0NzdlhCT1NBcFVFVmp4WTFUckEtaGJ0ckpxYzlmYUlmTV9ONlM2d1ltVm4wVVJmYW1VSnE4YTl3M3hORkVRLXNYZ2o3c1pfU1FTdDVTYlN6QWhCRE1uZ2pQcGlXX19vZUsya1ZqVDJaWFdxc2dsRjAxdW9QVVpGLTlza0VheGxCNlN3MFM2dFV4Vld2ekhoeFBJQkRDS2FydC1JQWVyMDhSR3B0TzBhUDhsOFZTZE9XSkdWaXlNZkpiZGZaU0VYdjllakU?oc=5",
+   "source": "India Today",
+   "published": "2026-10-07T09:52:08+00:00",
+   "summary": "India to soon get first US public university campus in Hyderabad, receives UGC nod India Today",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver gets UGC nod to set up Hyderabad campus, first US public university to rece - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQnM1UW42ZVVEY3VlRW82ZHlGTlpZYnB2ZDZ1Uy1QaENoSzVoWXdMS3FUbEpVRFZDeWxKWjc4M242WHk0OUU3OHpSOHQ5YTJBeDFtN2J5X25MVVZIOUJzYlNuQ3NOMm9OYXJ6cWpSb0JFd0JMbE0yTWd4bmRydng0RGFXQlpSV1JPZ1ltYjJSZFZzSVhMSUlHUmZTYUozREJmVzAyWGR1ZEZheGMyU0F1LUttZGx1MUJ4WkZZUF9TVEpraE80S0xlLV9fWWJPalZQY09JWTBMNTZFaExCdmFqNmZ0VThuQmpaWEQwMUVWOXktTk9uSFZKZmhHdkpCblpKT1dKOWw3TFhUeTJqS0xVZFJyWVhKX1HSAZwCQVVfeXFMTWtRVEpyUDVmZXJtdzQ0Rl9MdDNpa0hhQ3NVdXh1X1d0S2JRVGF4cUp3UkpuR1lqX2lBeDJXVVlpVEtrS0lqRmRZUnVjcFRFeUtHeFd4SUkzclQwRjZ4QVlBTUVqN0tSbkNOY3oteklWcmJJLW13dm5tNHlDLWk2OGw3ZlJqMGExSnpqVWdqdzBRMThCbnc0YTJxdDc1dk9EWWRIMjRyMmx0eDdRS1hzX0F1UTRIWGZYTUtITzIwRmc3ZXVzUllJRXRKdEdzeDRyNFR3NHVtNlFEUFRnNG12X2JQVEUtTVUwaW5VMnlOZjN6dVlfeTJQeGpXdmU2STRwWUZjQ2xoY3JSSHRtZ2l5dDRlZEtRa29VbUVlSWI?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-07T09:48:00+00:00",
+   "summary": "University of Colorado Denver gets UGC nod to set up Hyderabad campus, first US public university to rece The Times of India",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Colorado’s CU Denver gets UGC nod for Hyderabad campus; first US public university to offer degrees in India - Careers360",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYlNXQ05hVmYxQy04RDR4dlZrNGNGYmhYZV83NGRWa0VrVU43MllaOFl4UlV6ZF8tdjVIcnlfWmdNWGhLSnExN2tYNjFlbmFDVGhfWlUtdDZSNVdNSW9JV0k2TTRScm9lZnpPYTFkWjB5YXJubWRFWTU2VFM5TGs0azd2V0xaWnBOSkZyRnB4YlUxaE5lVl9SYWNvb0k3WEY5QWRreEZKaVo5eTVjVTE5SlpNd2hHOW5WMzdZc1FpQzhtSjJHWXhJSjVXVHdVeGg2N3VsVjhR0gHWAUFVX3lxTE9iU1dDTmFWZjFDLThENHh2Vms0Y0ZiaFhlXzc0ZFZrRWtVTjcyWVo4WXhSVXpkXy12NUhyeV9aZ01YaEtKcTE3a1g2MWVuYUNUaF9aVS10NlI1V01Jb0lXSTZNNFJyb2Vmek9hMWRaMHlhcm5tZEVZNTZUUzlMazRrN3ZXTFpacE5KRnJGcHhiVTFoTmVWX1JhY29vSTdYRjlBZGt4RkppWjl5NWNVMTlKWk13aEc5blYzN1lzUWlDOG1KMkdZeElKNVdUd1V4aDY3dWxWOFE?oc=5",
+   "source": "Careers360",
+   "published": "2026-10-07T09:28:02+00:00",
+   "summary": "Colorado’s CU Denver gets UGC nod for Hyderabad campus; first US public university to offer degrees in India Careers360",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver to set up campus in Hyderabad; first US public university to get UGC nod - Careers360",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3NvT2xxQzlRVk0yTVJxNkZBNFJJSjFaMlZzc3BIb0Z6eDlROTRpTnZQRlZGUXoxYVYxQmJ6M1RHTUh5OUtPaVlWaVNBV2tyYUNKb1JHd2hjazJSYWNxWGhyQUVsWGRmWGw5QXpCWlM5VmI0ZjBXcDI3b0pNblg3cjVIVl9fSklJLXctVkdlczA2T2N4Y1JSWUtQaVlsQkFKbjctMWp0aGw3bVkwYlE1TDhXdFdzYTZTMTZ4bXFtd2hlQTVubnlMSEIxc0NMY0Q30gHWAUFVX3lxTE9iU1dDTmFWZjFDLThENHh2Vms0Y0ZiaFhlXzc0ZFZrRWtVTjcyWVo4WXhSVXpkXy12NUhyeV9aZ01YaEtKcTE3a1g2MWVuYUNUaF9aVS10NlI1V01Jb0lXSTZNNFJyb2Vmek9hMWRaMHlhcm5tZEVZNTZUUzlMazRrN3ZXTFpacE5KRnJGcHhiVTFoTmVWX1JhY29vSTdYRjlBZGt4RkppWjl5NWNVMTlKWk13aEc5blYzN1lzUWlDOG1KMkdZeElKNVdUd1V4aDY3dWxWOFE?oc=5",
+   "source": "Careers360",
+   "published": "2026-10-07T09:28:02+00:00",
+   "summary": "University of Colorado Denver to set up campus in Hyderabad; first US public university to get UGC nod Careers360",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "UGC Approves University of Colorado Denver Campus in Hyderabad; First US University to Get LOI - Telegraph India",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZWdBMzlPSzdrMDR3M0phU2oxUHUwYkF3NDV0NzBlcUNqWjNmY1RUVEtzUWFYUk5SU3lSbHNoSTlGVEpNaEdnbExZbHA1RllpLTNQS3pqckZkSndlY3NyQVI1NmZIWkdOSWM1QnBDZ2NTa2s3TFJhQkFPMGl6TDZjeUFlOHZ6cXliVG1RY2FiaFdfcDNmeVg2U1NrRjZ6N1ZNeElMOHhiNy0tRHpGeHJtYjEtaHhOWVZfNFRKZW95RlB5U0pPbERYM3dKRzI1ZGVyX0w0THliUk01Z3BqM1pSdGtqVkZLaVBzcmfSAeoBQVVfeXFMTWVnQTM5T0s3azA0dzNKYVNqMVB1MGJBdzQ1dDcwZXFDalozZmNUVFRLc1FhWFJOUlN5UmxzaEk5RlRKTWhHZ2xMWWxwNUZZaS0zUEt6anJGZEp3ZWNzckFSNTZmSFpHTkljNUJwQ2djU2trN0xSYUJBTzBpekw2Y3lBZTh2enF5YlRtUWNhYmhXX3AzZnlYNlNTa0Y2ejdWTXhJTDh4YjctLUR6RnhybWIxLWh4TllWXzRUSmVveUZQeVNKT2xEWDN3SkcyNWRlcl9MNEx5YlJNNWdwajNaUnRralZGS2lQc3Jn?oc=5",
+   "source": "Telegraph India",
+   "published": "2026-10-07T09:17:09+00:00",
+   "summary": "UGC Approves University of Colorado Denver Campus in Hyderabad; First US University to Get LOI Telegraph India",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Letter of Intent"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "UGC Approves University of Colorado Denver Campus in Hyderabad - GK Today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTZLRE1pcjJsSzlFMzJFblcyR1g4djdnazhmRHotOTBqc1ZOVV82YjJCWnBzRW5SWkFGRnZ1bC03ZVNNSXV6N2VCS1dxblhER3ZGTmRKNkVBSm1VWnY4RVgzQzR1SEhZQmk2N3Nhclk1YjFCOHRNQ01lc1lweUxPNTR5UFZsS3MxTDJBMnJtaw?oc=5",
+   "source": "GK Today",
+   "published": "2026-10-07T09:16:56+00:00",
+   "summary": "UGC Approves University of Colorado Denver Campus in Hyderabad GK Today",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "CU Denver takes step towards India campus in Hyderabad",
+   "url": "https://thepienews.com/cu-denver-takes-step-towards-india-campus-in-hyderabad/",
+   "source": "The PIE News",
+   "published": "2026-10-07T08:55:39+00:00",
+   "summary": "The university plans to begin teaching in August 2027, with admissions awaiting final UGC approval and its initial location and cohort size still being determined. The post CU Denver takes step towards India campus in Hyderabad appeared first on The PIE News .",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "US' University of Colorado Denver gets UGC nod to set up campus in Hyderabad - The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ3ZJSFotc0hnc2VYT0RwYUIzUzVEQXpRNDZ1ZG9qb2x1V3U2aF8zTVZ2TWRKSjgxTDEzU0dFX3Y1U3ZQSXZDNExUVjVvRWtJcjBvZHFjQUp0ZmNGR2VxU3VnYkZla1JoYzlqU3BLbHhYMHJnbWZLTFgtaUhlZWJDUDU5ZE9ZTDBvekJTY2RQaklTNHliRm1wYVpyQWJfMmYxb1hwZnNHZzFhcGlYdVB2M1lxc09hZGVYb0FrZTkzdzFvZ2VNNWR5MjlfVEJzd2w2NFo2ZVFnOWkwTHPSAdsBQVVfeXFMTmd2SUhaLXNIZ3NlWE9EcGFCM1M1REF6UTQ2dWRvam9sdVd1NmhfM01Wdk1kSko4MUwxM1NHRV92NVN2UEl2QzRMVFY1b0VrSXIwb2RxY0FKdGZjRkdlcVN1Z2JGZWtSaGM5alNwS2x4WDByZ21mS0xYLWlIZWViQ1A1OWRPWUwwb3pCU2NkUGpJUzR5YkZtcGFackFiXzJmMW9YcGZzR2cxYXBpWHVQdjNZcXNPYWRlWG9Ba2U5M3cxb2dlTTVkeTI5X1RCc3dsNjRaNmVRZzlpMExz?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-10-07T08:50:00+00:00",
+   "summary": "US' University of Colorado Denver gets UGC nod to set up campus in Hyderabad The Economic Times",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "UWA gets green light for Chennai as two-campus India bet takes shape",
+   "url": "https://thepienews.com/uwa-gets-green-light-for-chennai-as-two-campus-india-bet-takes-shape/",
+   "source": "The PIE News",
+   "published": "2026-10-07T08:41:13+00:00",
+   "summary": "The Group of Eight university will begin classes in Chennai on October 19, completing the initial launch of an AUD $80m India expansion spanning two cities. The post UWA gets green light for Chennai as two-campus India bet takes shape appeared first on The PIE News .",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver To Open Hyderabad Campus, First US Public University In India - Times Now",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSHlBNVM4WS1zTEdpblBPT0tleUdmcU1jcld2MmRFU0FEQm5odE1PU1N4eVdnVmF1WXhWSVdrV0I3RVpMOHhOYkFTMS1wTTNQTnpROVVyczlHV0d5dTF6eW1sQWZIX2JiMGNLMmxTd3BpQVlzR3MwdmhDbjcxbHozMVNtVGlwZG1HUXdENGQwM1ZYYWoydzJQVk1INjdJeGVSVW5jZ2NZZGdub2JnRDNCTnF4N3JhMkxxb2hiamk0VmU2MTJDRVV1WFJVYl9vNXdOQWJ1Z3FtVk5EbnFZZVFCWFA3Y3N0QdIB5gFBVV95cUxOSHlBNVM4WS1zTEdpblBPT0tleUdmcU1jcld2MmRFU0FEQm5odE1PU1N4eVdnVmF1WXhWSVdrV0I3RVpMOHhOYkFTMS1wTTNQTnpROVVyczlHV0d5dTF6eW1sQWZIX2JiMGNLMmxTd3BpQVlzR3MwdmhDbjcxbHozMVNtVGlwZG1HUXdENGQwM1ZYYWoydzJQVk1INjdJeGVSVW5jZ2NZZGdub2JnRDNCTnF4N3JhMkxxb2hiamk0VmU2MTJDRVV1WFJVYl9vNXdOQWJ1Z3FtVk5EbnFZZVFCWFA3Y3N0QQ?oc=5",
+   "source": "Times Now",
+   "published": "2026-10-07T08:26:36+00:00",
+   "summary": "University of Colorado Denver To Open Hyderabad Campus, First US Public University In India Times Now",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver to Establish India Campus in Hyderabad - Entrepreneur India",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1ZvRGFub3JGZFdTcWxhVVM5M2VhX1FJck42Y2l3aE9Gem52aHdfei1JUGk0SHMwaERpeXd4X180X29Fbm5sNklLZV8wVndVZTNpTWJaRkUyZnAyeU9pUFdKZWZtelFGZHZuSkVNcHRTV2JnOWRSLS15eVBvTFF2dXBUV3YxaFdxakp6czhDU1JxUWZfR01hbjkwMFZEdzg4elVQT2JCR1VwUWM3S1lnM1hWYnB4a0xmcmpkTG1R?oc=5",
+   "source": "Entrepreneur India",
+   "published": "2026-10-07T07:59:50+00:00",
+   "summary": "University of Colorado Denver to Establish India Campus in Hyderabad Entrepreneur India",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver to set up campus in Hyderabad, 1st US public university to do so - The Tribune",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcHhhd2xrR1cwU0JVYTA0RVRaMFRzTWEyM0I5OU1NdzBRRmw5WEZ2REdLSUFrZ2otRTRDRDB4MFRBQjFZTTd1V1pwZ1dwaUZRbm1TSGp5LTdtckpaaThncUZpRWw4WjV2RW5rLVFDeVAzYWF5bjBNWkRGc2I1dERaaTBfRlA2TWlJY01WLXNMdTY0RTVfZWx4VXlrOGdtc0lZaENnX2ZiZXlpVHBkQkp5dGZ3dVVzUVJsRVplLTNxSzRfWjBpczlzMmtmU2tpMVIzSGJn0gHTAUFVX3lxTFBweGF3bGtHVzBTQlVhMDRFVFowVHNNYTIzQjk5TU13MFFGbDlYRnZER0tJQWtnai1FNENEMHgwVEFCMVlNN3VXWnBnV3BpRlFubVNIanktN21ySlppOGdxRmlFbDhaNXZFbmstUUN5UDNhYXluME1aREZzYjV0RFppMF9GUDZNaUljTVYtc0x1NjRFNV9lbHhVeWs4Z21zSVloQ2dfZmJleWlUcGRCSnl0Znd1VXNRUmxFWmUtM3FLNF9aMGlzOXMya2ZTa2kxUjNIYmc?oc=5",
+   "source": "The Tribune",
+   "published": "2026-10-07T07:58:51+00:00",
+   "summary": "University of Colorado Denver to set up campus in Hyderabad, 1st US public university to do so The Tribune",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver To Set Up Campus In India, 'First US Public University' To Do So - News18",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR1dEeEd1dEZOOGllRG9sa2FHYjNxNG9QNkZ1MjNWc0QxaEpJaGJqMXowdk5peXg5RlR0RGsxM3dOcDdMXzFTSnpCRTA5bnE2S01EdUdnSk5tM3EzRVJ6c0hjMkt4bTdrYWEwOEhmUWxnNmNpWWJnaWtLcWszekk4RjJTTWZQbFFEV1h3ZXhpMHpGS2hXMmdYM3Y4Tm5ZdmpCOGVkVHJWMFV2UmFBc05KTzBOazRXaVZvTVNEUER6aS11WFVXekFqdlVzdW1iOTFNZkp5bGZ5eW9RNVp6OXfSAeMBQVVfeXFMTUc0X2VNeDd1dks3aXBPanZsUEFaSFNBdzFBNm5zX19tNGUtT2V5alJaZ1Ywa0FqT1lLSHBuZW1MWEZwaEZtSFI3LS1DLW9EMjJFQkpuME9mOTVZQnNaM0QxYlBpajJUekVWZkxlY2ROc01Zd0toNEp4R2lOY0N6aE95Nno2OUdGUFlyOHFBb1FLTmREeHF0Uk16VTZiYVVsWW1jSkdhb2N4UVZHR3lqSXJTNWlRb0xhcndPa2JVR3Rha01PYVczclE0WU5LcWhDV25IQXdhQU9TT0ZnSkQ2bmFMRWM?oc=5",
+   "source": "News18",
+   "published": "2026-10-07T06:56:11+00:00",
+   "summary": "University of Colorado Denver To Set Up Campus In India, 'First US Public University' To Do So News18",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Western Australia becomes first international university to open campus in Chennai - DT Next",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX01nZTJ5bnhHRTRJbFh1QkpFVGZKekpyeDBsOEIxTUh5OEpaNVBlRlVwOUZQTnlEZVpuNkxCV0EzQl82OE85WmVwNlZ0T2V0LUZHVTExSmNWNjJneTZ4OTViYVZtamdmdFI3bl9SZkkxQlFSODZQcEdWbEl4RzRHa2h1NkQ1QkZPYUstVHBRckZLdGJ1bnc0TTlPVklCa0Q2WWZlbmJRUzAxV1V6UWxhM2NsNmJBcFAtQWcwaGozbjRNbGpvZ1NhMkhwc9IB2AFBVV95cUxOa0x1RDBwU2JBQ3B6ZnRDTTFTWTVJeExQbWpIM0duR3NNeXNFVmNDcjg1aEJGNFJ1M0NJN3B1NThxc09odVoyNmJybFhNb3pBVzFvbnlSS2l0MWw1TlVsVTh1XzJrMjVVM0o0SnREUC1TbGRaaTlHQ0lKei1lMXd1blB6MDd1M2dnZk82bExXWmNiQWNDSWJCaU9FV0Q2a0x3bkdEaEdpUUJhU0NLS05PaDcxekhobXhoNXE5RFBqQWppRVBQRHpzcDduRVpyd2NiTzZzN1loTG8?oc=5",
+   "source": "DT Next",
+   "published": "2026-10-07T02:04:10+00:00",
+   "summary": "University of Western Australia becomes first international university to open campus in Chennai DT Next",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Western Australia Gets UGC Approval for Chennai Campus; First Batch to Begin This Month - Telegraph India",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOODJrQ1hxRXB5VHIzVWhnRVhYX3lEbHpvLW15MUdMRlJaWm1zakh1UjVKWnYzWVp2U1phQmRWbzVESFM2dTR5QlkxR0FmSFFHbVpTakhOYUpHc2ZWSmFvbjhlbnNnSXZoSnk1WGJWaUk0a2lnSG5XQm5YSEFGcF9MWlU0RzdfeERIdlAzTlR3TUczNFJXSml3UW5TMnZkU3FySmMtck83TEJwY0MxRllNajNFUkxicVp4MjR2TGhpUXN4dmJ4UVZIb09zaDBMV3FTa1BldEFlM1FJT295UlRWLUJrU3hHVWI4QlFIY3Nn0gHzAUFVX3lxTE1xX2dQZ3dLZDltdEZTaldHYjhtLWVVMllMWmUwalI4WEhpc2kzUm5IQU1PWnc4MDVtc05fQzRTNUNjeGd0b0hmVjUtYzI1Z0lOcTZzVi1IZ0NuRHkzYXJVYTJlLXdqaVV2Tnl6aFdSV21NY0hyNmhNTWs5aFZvRDdqNFpUMjk1TVVDVkdrRHFfRGZZbzVqa09kY0VJQ2wtQkk1YlFvWklHYWhFZ1lkUFBEb29nendJZTYyV3dTcHQzWGlNVnl6SC1MbDVXbmFFN3FyaExtcWc3V3k5bndOX3dIRUUwcEtDV2dQeXFHM29MYW5MQQ?oc=5",
+   "source": "Telegraph India",
+   "published": "2026-10-06T10:02:53+00:00",
+   "summary": "University of Western Australia Gets UGC Approval for Chennai Campus; First Batch to Begin This Month Telegraph India",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "UWA Boarding Pass To Chennai - Future Campus",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tZ05sNi00bUlhMnJlWlUwZWNqcGNaNWhWR2NwY3ZZcWwxSGJLTHVmN19fSU1fZ0RwZWhBZ014WEFGS0cxcW1qQlJlZHFKclkxR3IyS285OE81NDJrVE9ObExidXBaZnhPR0EtLUlXTC11UE1Xel9J?oc=5",
+   "source": "Future Campus",
+   "published": "2026-10-06T07:49:16+00:00",
+   "summary": "UWA Boarding Pass To Chennai Future Campus",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Telangana to formulate policy for foreign university campuses in 'Future City' - ET Education",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWnN5akNqWlpseTFyME40d3pRb0RwM09BeFl4U1drV1U2Ty1ndkY2M3R6bW51MWM1bTV4emdNU2VNeDZGaS1sdjlYVTFpSWFJVlJqd0hLSFdZQnIxcHlHTFdoOW9zSWxFWFhaMWdSX1pjNHN5UV9jM0U5WjV5bTNqYU0yaGRIX1NqMzN1SUk2MjFjODlSeVV0ckJjSVpZeFR2a1UzbGsyZ2JOLWxUczBTWllXVC15d0dvR2drcGlvZG42bjlXd1luQXpIOExaQnU2cjRkU3o4WnZiQWcyRW9TeHM3X0prZFQxd2Z2ekdWSdIB9AFBVV95cUxOVDk1bU1VRldFazA3WTdZeFhEc0hlQ1MxdjRsOXVHREczMTAzVm52clpwUF9qVTJ3RHpOTmFRMVZkZlZzRjFKQUlvZEl1UWVLU0c4c3d3V1BvQ1Q4OEswMENnbnROR0F0R251enYzNjNObXVVZDROeVZjT3gycHVlOWdubndkZFMydEpjeVpIdVFDZzlQS1BheDFiY2hpREpsVjl1QW10NTAxTDdsU043Zkh6Q2V4SGtYazdLRTVnQmp2RXRkdTd4ZXlGRlJ0U1dyQVl0d1Jia2QxRXNBZ2RIcmozNk4zZV9EanhkanlaVzJGbzdB?oc=5",
+   "source": "ET Education",
+   "published": "2026-10-06T06:00:24+00:00",
+   "summary": "Telangana to formulate policy for foreign university campuses in 'Future City' ET Education",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "UWA Chennai campus receives final approval - The University of Western Australia | UWA",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1JBN2Y0MngteGFoTUF6ZUtESkw1NlphLUJ2OUozZXlsVXFrNWJBd2hKOGc3OHpYZ2pZNWQwWmlpYnNDVmVaYUF6MTZfRjFJV0xVOXlVSkducmhqUElJajc4c0pFY0x0Rm82LTkySnBWRHBfVkVYTDVfZDUzV1lWbmJsT2NwUWx4alRpZzhmdnF0X2hlNWc?oc=5",
+   "source": "The University of Western Australia | UWA",
+   "published": "2026-10-05T14:23:35+00:00",
+   "summary": "UWA Chennai campus receives final approval The University of Western Australia | UWA",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Letter of Approval"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Western Australia receives final UGC approval, classes to begin October 19 - Careers360",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSTRncWI2NW5pUkl1dzh1Y0tjUE5VYUl5WFRYT0pENDh3QW1kempxaTBmVlBvbXFjU0lJMzZkRTlJU1pWZzc5LWVwT0tHbFhrdzFQWTdVTlQxS2JaWVFrWDBGd1FYTnhFcVF3SVlDTHIwTEZYSmlrUTE5SDZSWkRHRGtkY1REa3hUaHJ2ejI4MWJXbmVocldqSE5ZNnJjbFhZc2U5OXNQVFRYTDBmZzVDekhyaVdqVkMzeUZHUNIBwgFBVV95cUxQV1B1SXJ1M09vX0tNVENBbGtjdDJkb0tyYmdUX0Nsb1VkOUpDQS1HTWd6NlF4ZGZ0am1iNWFTVHdnZGR5c1I5WlNnZmgwYVN2cy05MFBDUkJub1hPODA0bUVxLVBTbW92V0lsX2R3MFZCTkk4VHI4VnJIQVZwT2xqWU1xOXVTWWZYUXF0eEVhbXdsZHczOXVOUEFhbGF5d3VpYi1oa0pnSmNHTENCSGFlV0lxQ2M4RVNBNmtaMlU5dnl5dw?oc=5",
+   "source": "Careers360",
+   "published": "2026-10-05T11:13:49+00:00",
+   "summary": "University of Western Australia receives final UGC approval, classes to begin October 19 Careers360",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "UWA Chennai Campus Gets UGC Nod: How Foreign Universities Are Reshaping Higher Education - Jagranjosh.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaFVsSFByWDJwWnMtS2VmRUZYa3JPT3I3MEpoWlBiU29FS0ZxOXJjTThoUFpObkJFTnEwWTJ3SXk5cVRRNkhDM3Q1cnRxOFpFTkhUZEVDcWEtajBKaWIxeW5zZWpubm5JMXgxX1hvYWdVaThrU21Ba0t1ZnZXMmxZTFVZWWxfRkV1OERPc0ZIZXNZS1h4ei1ZOEpzVFVaMmN1X1hlOUVaZDRQTk9VS3UzNlhJMDgtbjRLa3dhOUlsQ082eWQt0gHLAUFVX3lxTFBfYml6Z0d2cXljZV9ua3l0ZHZob2xmaWt5c0lRYjVETkk3NXJYTjlYM1BVTklLSlo4WXRBTmJndTdzMXROdEdhc2NKMVFLaHNxLW5DWm4wcEtoTmtmY0dtZll4aUhDNHBhZklEd0tmeVozRHI0eDRvdFhva3FUMWNOaHBkQnA4TGR2cmVPQnpybG5Qbng5eHFvdGMxUXkyRmZOWjJoU3B5a2U2LW90LW9zZjF2YTVrNXF5RHRscFFZZGZfQ1l4STVOUGI4?oc=5",
+   "source": "Jagranjosh.com",
+   "published": "2026-10-05T11:11:13+00:00",
+   "summary": "UWA Chennai Campus Gets UGC Nod: How Foreign Universities Are Reshaping Higher Education Jagranjosh.com",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Western Australia receives UGC approval for Chennai campus - India Today",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQelVkNE9iUTdveDhGNXR0dnFBTXpSTGdzcTF0U2ZkbmZrTElNa21mRmxVbmVrakptYTZibi0xdU9ORG5jS0EwMW1HS01UYWNTYjc3SHNLc2UtbWk4NkNnRlN4dUxQSXBXSV9EZ21mQkJnTUNZSWlkckRGVkQwQlI5clA0dFZMZHBfNEVQNllUeE5QYlJ5YWlwWEh3QVpyRFozZGE3LXVBdjZfRFJzYVQxQ3IybnZVOXN5NWlUX0R0WXE4WXBlUDJnbUhFOWl2bnZYVFBIaVRKYS12d9IB3wFBVV95cUxOeFM1V1lJV2Z6cFlyWlBEZXhlNFNRSGcyM2JPem1lRVNkUnBUNGRsbVRwaFNYY2ZMUTdDNjNka2xWMHMxNXk5LWZrbWxWeEQtLWdUYUdnb0pWN1RyZG1MdUY3VmMzRGd1NndtVE5oQ19STjduaFN0UE5wOTVQNHdfRER6b1dHQU5QaGk0ODFEVDFtVkJGa1BoNHBJZ0F5QVpjM3BuTjBrMzJJZ29DZFRuMGxPdjQ1ZlE3enBHNFFiRndrWWFHaXB4bl9tUDVySFVndmFEVFhmNk1rTXlQakFN?oc=5",
+   "source": "India Today",
+   "published": "2026-10-05T09:42:08+00:00",
+   "summary": "University of Western Australia receives UGC approval for Chennai campus India Today",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "UWA to open a Chennai university as second campus in India - Business News",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGR6X1dCclBHeVBBLWZiQ0ZTZUFtd25uNl9uZmhhb0Q5ZEV1RndHVDN1ZFhTZmQxb3V4VVFraFZyZ0ZUTDhLdDhaaDRpLXRXcXVDVTZiVkI4cUo3akxoVnE1S0M4cTdwaXhnelBrQjBHRXM5b2o3Q0VXaGwxSmx0ZnQ0TWt3VDVFUTYyTVU0NGYwZzJ2LWp2Q1IydFFrSFk?oc=5",
+   "source": "Business News",
+   "published": "2026-10-05T02:36:42+00:00",
+   "summary": "UWA to open a Chennai university as second campus in India Business News",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Second Campus, Second City: UWA Chennai Gets the Regulator’s Green Light - South Asian Herald",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0NqWnVqTE5TT2w3UzdCdklvX1hlZHoyWVFCcmRuZkxsOVkyaE52eGRmZmlaNUdYbHRFa080WE5rT1BRU0w5ajR5dS1INzh3Qi1GSGtQQ1NrclZ1NDN6Z1BoLWVzREZ5WFFkT1dob1hwQk9vemFxQmJ5LVR6VHB1QUNhaHlpUFhlOTVyLTF0YWkta0wtTTVFWVMyRG16R3c2?oc=5",
+   "source": "South Asian Herald",
+   "published": "2026-10-03T04:01:00+00:00",
+   "summary": "Second Campus, Second City: UWA Chennai Gets the Regulator’s Green Light South Asian Herald",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Letters of Approval handed over in the presence of the Union Education Minister, Shri Dharmendra Pradhan to University of Bristol, University of York and University of New South Wales to set up campuses in India - PIB",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUkJMS1NPNzdINllFMkt1eTQ1dFFtVGtBVC12Y2tHd0lGMnJ6MDY1X3JXbmx0OHI1bUtwMGFpRHN4VDFhc3hqVGxDdmFBa2g5SDFjV05pWkVJTDBzcWdoZ0NwYjBfRWZkNzVScTRwTHRMRF92OTZwVHBiazd1V3V6aA?oc=5",
+   "source": "PIB",
+   "published": "2026-10-03T03:51:02+00:00",
+   "summary": "Letters of Approval handed over in the presence of the Union Education Minister, Shri Dharmendra Pradhan to University of Bristol, University of York and University of New South Wales to set up campuses in India PIB",
+   "institutions": [
+    "university-of-york",
+    "university-of-bristol",
+    "university-of-new-south-wales"
+   ],
+   "matched_in": {
+    "university-of-york": "headline",
+    "university-of-bristol": "headline",
+    "university-of-new-south-wales": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "How UK campuses are changing opportunities for Indian students, British Council Director Education India explains | Hindustan Times - Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQWVFUaExJWV9vSHljampQN0tRSUY2N1ZIVjc5eTlISDZodHRqSmYtcXJXcjZ5VGxGb2ZFY1gzUjBOOEl2MHpyS1QtN21lYWYtLXRmaVQ1czRwekxJbzhXSUNkSnhwTkk3Z0Naem9PUXFmbkNrSkVsOUt0NjNTOTB3Q21EOEo3TmljQ2Z0SW5walp2cExQakVOOVBDVm53YkpiS0NyaTVWOXZHT1EwUjFCVnJWVE13T1RHZkJRTlNBbDdISEo1RVlPM3MzeHM5N0t5MnhtdkM5NndfdWp3V3FQemNMMnF6QUFRdTZDTHNiemN0S2pmZUd3dl8zRVBHOTZ3ZDdGSHcyZDBTVEMtVUk5YtIBlgJBVV95cUxNQU9CanlCcl9mQTVtTEM2TjZVVTUxc2tWVDI2d2Rzc01BLV9rN1Z0UDZTRG8yUTh6SVgyR2Nzc2dvZWo4N3FzdDBza2VNQk82dFk4aEhXR2VybzFmNkh0TzQzbGpJYThmSGpzSFVKNzc0WV9nUmNyMnhId24xUjBMMTNPVzBmeEdRZ2JheE8zRG9rMnFoNi0tbml0OExyZ0tsRGJLbTRDYTVwLUhualVxVFVIV0toVTRPR2lTbWZoZmpyb3plSnotSElYcDF1R0tOQjFzNllXX1VOdDljN1FpYWVuaG9nTU1nV195c1MxTXR3U1IwOTFzQ0VjZnVqS1dVaFh5eFhUUko4S2tISDZ1MGVoNVBJUQ?oc=5",
+   "source": "Hindustan Times",
+   "published": "2026-09-29T07:00:00+00:00",
+   "summary": "How UK campuses are changing opportunities for Indian students, British Council Director Education India explains | Hindustan Times Hindustan Times",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "US Universities to establish physical campuses in India; Trilegal advises - Bar and Bench",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOG5TMWg1a0ZGN08xbHZzUFFnN3RCTUU3czdKajlGN2RLTDN5VjgxaVlzTmd1aTVZdjhzU0RPdlRhX0VFeFFxVXA4Y3RiZ19rVUVpMGhXaWhBOGM5cWNkZU5ZTE9CSTBtQ0dqQnhsV0VRTUdqN3lfb2JQUXZJZTZpWDdWTk8yb3hSYmtUdDF1SWNzc0dITXVyYmpxVC12NG1DZlZJSjFRWjFEX1IzeUtIMHN5M3lIOVgyazNlb2hn0gHLAUFVX3lxTE0yUnVSaFZaZmdOZVpoNkZ1ZWRWUWpUdkhmN2FRVVpSQ1FrZmFWSkpfS0RBQzNsS1ZoZzlQSWdaNGJEenBsTXRpMHZ0VEh6dWlTOENRNHpNSlE0dEdLU2FFNDd6MXVXRFB3aVZUMXFCWW1PLXpQWmFhVi1GcThCSFY3Q1BZOGdxb1J2QzNWU0JCSUJUQ2dhUjlRUXl3d3l6aEJmYnV5RGRoeHB3RmY5MG16Z09TdG43b2xIbzBydWVNOHRZOE9ac3hxbndR?oc=5",
+   "source": "Bar and Bench",
+   "published": "2026-09-25T07:00:00+00:00",
+   "summary": "US Universities to establish physical campuses in India; Trilegal advises Bar and Bench",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of British Columbia: Campuses, Academics, and Indian Student Life - Shiksha.com",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2cyaWRBV3Z1akF5RzZRbDlfTjRuLURQVDdDMlNXTDNwSjdUQXRXWjRrZjMwN3RSSDdTLXp4OWxGVW9PZ1hkNnZPMVgtb3pFd2ZfSVJud1ZHX1h4UVgwZkltQ0dUS2lpT2JFdTN3N0R0RFV0WkxDVGg0amRIanktUG8wWUFlQmVTZHZvWk5wdHYyQWlGeGxJdXNaV05meEdsRUtuaEMtV2tGTGFRNi1QR1RNa2U4U3h0OGFqVk9iNTl3R1VOcDBweDVaclB6cHJhblRUMVcwX1Y?oc=5",
+   "source": "Shiksha.com",
+   "published": "2026-09-21T07:00:00+00:00",
+   "summary": "University of British Columbia: Campuses, Academics, and Indian Student Life Shiksha.com",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Deakin University GIFT City Campus Launches Master of Applied Artificial Intelligence (Professional) for Indian students - TheWire.in",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUXJYeEN6VzNWaWdlSHphRWJ0QnRqQUJzam9VWXNyd3FDRDFpaW94c29qd3NzQjZHOXFIdmVuUEVhak5yUXB4U0toZzUyYTZGdkl2cFI2Mk9KNk5Ja1pSXzJub0laZG5nQzdNdEQzTXI0YTl0SjJHUnZjWG8yVmxaeXVpQnZtWHpfdmF2SXE1UEVWN3A1MVl1S0tVWGxrUTg1U1pXWTdLNUFvZ3RzZWRzNGkzWGpmUGJ4MkNDdHpQZ2hVME9nc25OSnJBbnBSaHZnYTF0ZGgwR245em9KTW9JekZ3clJVY0VtVWh6U2lR0gHzAUFVX3lxTE96bGJuXy1OOWdpT3FpUXFHdWZYYW81QUhMZEswaWw3YUpuLTB1SVJMejhYaVh5RU1ibFhHaDJ6NWpvdzl4MUJvZ0RlQlRIN21pbW1zakdBOFFpeTNJSTlBMFlpU3FQZ0tmemVTR3Y1VkdLbDgwZGpTbF9uYWhuN21RZjA4dVZBZDJOU1Bvc2VFa1h5SG5iYUQwbWNMeDNLRVZ1LVRnQmZWWG5QdU00Sk0xMGphQWJXVkt6Q1VETzdLRHdLeXRqdVMyTTFzUmg4WkNKd082WVFaQ2VSS2FZTE43S1JuZEV5RHdlSlRkUnBnb3ItOA?oc=5",
+   "source": "TheWire.in",
+   "published": "2026-09-21T07:00:00+00:00",
+   "summary": "Deakin University GIFT City Campus Launches Master of Applied Artificial Intelligence (Professional) for Indian students TheWire.in",
+   "institutions": [
+    "deakin-university"
+   ],
+   "matched_in": {
+    "deakin-university": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "UWA Mumbai Campus Boosts WA-India Ties - Mirage News",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uMmY2T2ZwX2l1TkZWTlhid01rM052bUNQT3pzSVhEci1CVnZtU2U4V0QtNk5kSHpGM0xOelo3X1V2elA1TXdQdDRyZG5JY3RfdV93SFRYcW13RHlDdjBPT1I0OXJiQjlQZzBFMG94UmFoVWlpTGRib2lXMjNPZEU?oc=5",
+   "source": "Mirage News",
+   "published": "2026-09-19T07:00:00+00:00",
+   "summary": "UWA Mumbai Campus Boosts WA-India Ties Mirage News",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Four International Universities Set Up Campuses in Mumbai, Expanding India’s Global Education Landscape - Telegraph India",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT1lUQjFpSThCMzVRNVBFbVRHekdqZDlhV2NGVHBTdFRFOXdXcmtXTmVlR2Q0YmVUOEI1dUpNbkxYQWJMUzA4REFXMDI2dWoydHRtcllFWVQya2RQeWR1VTR2NlF6T1lCS3l1S1NWVVZYbW5IdjhwS0NRMGVWRmxNRHkybUJtTzBhamU1LWFXMFZESVN6UlI2czdBWXY5VFJxd1dtVTZhV2s0eTFPdWtVdXJZemdlVUUzT3RtYnZBMlBrRkRkY2p3ZVBUUGozLUZ3RW9FVG1MT1JITHJZakVYMVMtWlB1N0NJazkydnN6cFnSAfYBQVVfeXFMTjlBZGVDNFlRekhaRnFrQUZTSWlSekphU2UwWlVDSXRRUlRQRk52VVpfWEhRUjQ1TDh0TTBQSXN6RmF5SkY3eHZnaU9Ub1JrZFlTemh2X1NuaTA3Z2ZxdXlDMXp1RTlFalNIVjBFUFg5NHVPWEZBVW1kRFNWSHI2T3NvU1hhUzJHS0VYYldxZzhSbjkyOXRhbi1uNDViRkRuX1dnR29KMFZXNWplRk9FYUs3UGN0ZkRmWjBvQmh5ZlpNbWk3QTVicFl2bUhLN2VUenV4ZmJackljVUQwZHlfSlJuSVhpc0wxdU4yUDlkTm1WQ1JDLWR3?oc=5",
+   "source": "Telegraph India",
+   "published": "2026-09-18T07:00:00+00:00",
+   "summary": "Four International Universities Set Up Campuses in Mumbai, Expanding India’s Global Education Landscape Telegraph India",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Mumbai milestone as UWA campus opens for business - University of Western Australia (UWA)",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZEU1RmgzWEh4N3VTSFpMTFFWV1FyWWJPX3VoalJJMnNZNm91aGNjWEZTdGNhREtMRUJVb2wxam9tZDNXVkFKS2JzcmR1MU01RDYxY2lvbUVJeEJqRDFTdkpCVlFNekVPU0NjMktkWUlzcXVla19XdG9GRXE3dmRxNFRWczRZOEp4VUUzcjBfSnVnVWxlbVJYYVhWTmUzdHl6Snc?oc=5",
+   "source": "University of Western Australia (UWA)",
+   "published": "2026-09-18T07:00:00+00:00",
+   "summary": "Mumbai milestone as UWA campus opens for business University of Western Australia (UWA)",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Launch / first cohort"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "UWA opens Mumbai campus, marking new chapter in India-Australia education ties - The Week",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWdLSzVBZE5xMDNSVW1wSU9yMjBwVUVseDdjNlZTVVJGWWZlc3Qwbm42YTNxSkRPY2xYRzRvZV9KRHQ3a2ZfS3ZzTnRiVGpGNzBkWHRnSzY1ZllZR1VuUmNMdzZXOHVfSFlBR2prZTJZNWVEU2xGTHFYU3FJYnVaNzdhcEVQRnd4V0Yxa3dYMnpTSWtTY1BuRVpjUjllZmkxakhnaklCWFozUUltejlaSGE4MXlKTlFRTkYzQ0FrbjM3V0htaDhTQ2tOc9IB0AFBVV95cUxOdEtmMTZ1Tzl3OEphc3Ayb3BrNlNtQ093a0tyRmUyNTl5RGo3ZVVvN3V1Q09TLWxfZWFISloxUnNuUl9QVURxWU1aSE94VEJYNHlySFhNVW9XZDBPR1lQTEgzZFJvc0tKblNJdEJsNGhGajNTOXJUU2tQQmlLYjRTSUdsU3FaMEIwd2k0QU4xS0JlNUlYdGZqM3hjWmhpZjMzMjQzV2V6WmhHSDVjdXhjWTRJeFptT2lFZkdOTHcxQ1JnUlpxazdSVFJDTEpIMzAz?oc=5",
+   "source": "The Week",
+   "published": "2026-09-18T07:00:00+00:00",
+   "summary": "UWA opens Mumbai campus, marking new chapter in India-Australia education ties The Week",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Western Australia’s campus comes up in Mumbai - ThePrint",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVE5ZYnR1OHg3RXdCVjRGVEg5bUhyYW5NV2NYc0Nwd2tvejV3ME8yOV9mbmhYbjFWSG9JbnJrQU4wZEtqUWdHQ2VlRTZWRVV4cDRBNmdvWlBONmh5ZUNwNldpNDJIbmlfNWhlSTZyeDd3b3lraFdyYnRmNGdwbDZRd01Vd3BFVlBWNlJQMThKSGs1RnIyQXFRYtIBngFBVV95cUxNQWgybkJhLXo1YkdQU2w0UkxqZll4REd3TjFMZ2ktVVJIYjdyTDdIWGNNSVR5QU9rX2gyTERWUS1Fa3FyYlJPaUdoanlEQ3AxUUkxUWY2TDhNMzRlVkhoeXdyVC1lMk1OeVhZN2JVT0pncnZ4bkVKM3VPMDFGckNaOERTNW1MeHM4TXVfaGFiU1BkMDFZT2F1NmF2SmE5UQ?oc=5",
+   "source": "ThePrint",
+   "published": "2026-09-18T07:00:00+00:00",
+   "summary": "University of Western Australia’s campus comes up in Mumbai ThePrint",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Maharashtra CM Devendra Fadnavis inaugurates Australian University's first India campus in Mumbai - Mid-Day",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLVE0Z2h2amJtc0JsR1NWMlFkcDJvNllRNUEyX3hGdTlPMXQtdlNPMTlIQm1lTE5aTmxfQm1oZmlRNHRETXoyejZ2aC1XX3RzcmdXeWw3MkliQlQ0OUlmTDJuVEpBd01lN2dzeHdNM0wycTg3XzRhdEdmbDNVMTBXTm1rV3RrN3BFSnJNU21XQTFobmYyWjVVWl9jRjFRUk1CbUdvX3lVdjhFUEhXRU11SFNVTFhpWkxPR0xFcm1PRW96MGEtUXVXMGduM0xpNkJ0M19ZUVRRNTFrdFRGeWhfNTRlcHhUbThRMUsxWdIB8gFBVV95cUxNbWkxZ3FUMDZ3eTZ0Rnp0cEpVbldhcFZ6UXdNMURVTGR2c3B5bGdfVC1EcFh4a2pKQ3lTa0NsMUFNSWR2dW5vYm1mQm1OS1NvTVNLUDZlOFAwNGpwMHpfLTZDY0xTSTlKUnVBUnNxX3NIWmVKOWkzQlRGXzk2RkowM2VfeEowZHBMemZWMmc3YjhmcVlldW8wOWdCeDBZbE9hZ0JybTZQNHpaeUk1cWFDZ0JmTnRWeHhPQzBMTDk5YkIxdnNHdG9sZlpWeDc5aTVxUEVQQWFXQ19VREItVTFScEZJUjdfaWpmZWl2ellidnlmZw?oc=5",
+   "source": "Mid-Day",
+   "published": "2026-09-18T07:00:00+00:00",
+   "summary": "Maharashtra CM Devendra Fadnavis inaugurates Australian University's first India campus in Mumbai Mid-Day",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "Launch / first cohort"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "UWA launches first international campus in India - The West Australian",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMTVhZEdQdlFDUm4tbVppMUlnR05pUGRrdVlHMnVUTUlpSXJXQnVQb25LZlIwU2dvVXVFR1ZTMTRvUXZmU2RIdURpZWR5eldPdTNReklkTGtNS0xNeWpDRHctZi1tNlBIODl2ZFBLSnlHN0c4cVJyR3c2V0xhc0J6WFlZalZGeFlwbGxEZlgzWnlJaWxRR21DT0JxYmk1LTJOMkl0LUlUV0lnZVE?oc=5",
+   "source": "The West Australian",
+   "published": "2026-09-18T07:00:00+00:00",
+   "summary": "UWA launches first international campus in India The West Australian",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Why Bristol chose Mumbai for its first campus outside England - The Financial Express",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnBTWm1XMVNXSi1VWm5kN0VMVXVjZlZfbTNMSGk1VTFnb3IxNTg3dU8tbFd5dDFmMkJEbjdOX3haMTJXZHdsRDFtbnFPTmZRdVFrcjNwV2daQkE4WDRzSDktQVd2Y2FCRmpsaE9sa2tVaXVXNzNuUGNwcTBKX0Q1X2xlaXFlQkpKQ3F0X2VuLWxLanlCdlhPSFlBUk1RbzVMSEZWTTcyOUxfb01qSGstWjdqOTJsREdrQllDR0k1NXZEdmvSAcoBQVVfeXFMTWJyalVLb09Oak5LbGdWc3lNcXpkMkE3NmJQbjgzb2FrY3ZvRk1vUVV3U3RaalRwZE5DdUtEeDhvemVPeGRleGpsSWFYWEVQV1o4c0lubEp6RFhkaWxOSDROMFo4YXdhWHFNaFkxSVA1NTM0cFdVcy1qRFQ0MDNPdjVQX3JZSEFRbUdxdnRIeUs0WEhJNDBpRUM5aEFVdVN3LXNkZW9TWkxzUWdkaVBMTlNTVm95OW1ET0Y2S091ZWRxbGtoRVpEZ1c4UQ?oc=5",
+   "source": "The Financial Express",
+   "published": "2026-09-14T07:00:00+00:00",
+   "summary": "Why Bristol chose Mumbai for its first campus outside England The Financial Express",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Branch campuses in India will fail if they get pricing wrong - Times Higher Education",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSHBId2FSM29PUWhzckliU0FkQ3YtdmFuR3dienJkWTZRS3gtbDdDN2tqWTBBNjhvZFVBOXVSWW1YRTlUWjgyNXhBbXpoRmQwMWEyREFYN3d4WXJkNUNSODlrTFkyU19kRXhhODdrMXE3R2EyOUoxT09Db2tUS1ZfOXlSdHp4M3hTVWl2RHdJYlVWc1dXNUpjZXkzU1hfVERVZUE?oc=5",
+   "source": "Times Higher Education",
+   "published": "2026-09-14T07:00:00+00:00",
+   "summary": "Branch campuses in India will fail if they get pricing wrong Times Higher Education",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University Of Bristol Opens First International Campus In Mumbai With Data Science & Finance Programmes - Free Press Journal",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcWtDUENYbjEzbzRTSTIyUXk1TmdCTDBPZk9yb2JZOC1QTW10czc1ZFh6bmhiWmFqZFI2MENhaW82WEJFbmUtMWNJdERCM3VIcHRhQ2Jmdk9oektOTGpNTU5jVUUybG1oUGN5TDc3d1FhMDFtX2I0bnFudTNxeC1SY1BHbTBlT3JuVVNRSGZiYmczY19LNkw3bFdtTldTdi1HRTl5MXJOVjZ0V1dVbjYycTlZRGJZXzhsYUZubVdXNVY2ZUhoc1pUOHJoLTB5TElqQ2dkTHR2TmJ6Z0nSAeABQVVfeXFMT1BjMXBfZTI1aWJjYzlRZ1E2MnNZODdhYkhhN2xfSlNITW9oOE9Uc3BYZFk2MXhPZTFBU1JxTXFVTXJhNnI0WG9YUXM1bHlrTXdDa1hlVEZHM0wtZldpRDl3OHJvUm8zRkRROHZFSC1rX0FHZUZaSFdSWE81VUJuak9mSjRDel94T25HbWI4YVpNSjFsR0FBNXZwdm5SM1BmN19aNlQzNEJCZzlGeTM1alFtXzhXaGxCZjhKOThySzJDMkc0VlR3SUdIZmJUNDNmYkY5dTA1Y1RIbk5hY2wtVDU?oc=5",
+   "source": "Free Press Journal",
+   "published": "2026-09-13T07:00:00+00:00",
+   "summary": "University Of Bristol Opens First International Campus In Mumbai With Data Science & Finance Programmes Free Press Journal",
+   "institutions": [
+    "university-of-bristol"
+   ],
+   "matched_in": {
+    "university-of-bristol": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Programmes"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University Of Bristol Opens Mumbai Campus With Data Science, Finance Courses - NDTV",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRnF6MmoyN3RBZTNMWGw3QTR2elYtQllkcmxFcHNZNWtlTVhGb2dCckw0MUhsa250M0Y4TUVMUGRfR2ZhZjVoTEFhcTFramR4RkxJTi03Z2loRGF6NU1IMGJnUk1ITFJFNUtQQ0RyOWQyQXR5TnNvbGlXOGlCVlhKcTVBOGE1aHF4d3JQeGZMRkNrUGZuNi1Mem96Yl9wejVYMlQwb0VqVVhVSE9YVmdHRnRGcDZpZ9IBvgFBVV95cUxQUk9pWTNfOUxrbHMxNnZoSVFYVmZHcmpWVE5IRWVBdFRPMi1wOUpyTXE3Z2hTZWVmTGpBTmJxUzVobTQ3UXhpbjk3cVdCc3FTdXNsaW1TazRjNUR6X1FORnZqY1dwSWpfWHRsc1J3TXFPbkJqRGZaT0dMd3V5Q1NTSTg0X19la2hOU1RRZjIyWU1NQWI0cVRhNURWcW9iQURHbXBBcVNFMjBxSzljWm9yNkkzQ1ROamhCWkYxQmJ3?oc=5",
+   "source": "NDTV",
+   "published": "2026-09-13T07:00:00+00:00",
+   "summary": "University Of Bristol Opens Mumbai Campus With Data Science, Finance Courses NDTV",
+   "institutions": [
+    "university-of-bristol"
+   ],
+   "matched_in": {
+    "university-of-bristol": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Programmes"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Bristol opens first campus in Mumbai as foreign universities expand - Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWnA5ZTdGM3U1ZlhaTzlUTVRhSU5TVTh1S0pZZjVRLUpiU2pGTmljaW1Hbkp6QW44UkdFVUlLRHRqRWpOU1NWYkVVLUtVQ3J0Rkp6V19IQnFJMEtVUkxsNklUSFR5NGZlMkhDamdiREVwdUVYSWh5WVB2V0NrNkdTOWM2VEJ4ZDhuenVfWHRVRjQ5SHZZZVhNZ3YxVF93ZXBSODk4UHRCc2Ffamt5QkNUVHctbFRsVy1KNjhEeWNmd1JsLWFIT2JxdU1OX2E5bTVvMTM00gHYAUFVX3lxTE50WVEtbno3ZzRsWlhLQmZOZDdybHY5azZXeVNySG5xR3pxMTR5SV9uSW5MWVNFOGRKUWRYUG00dWJmQ1ppSHNvRTBlZzNTZFpWSTZVckVvMDIxb3ZldTNVbzBZbTM1LXBEU01rek5tcFNrSDVPWVBINDZQTnlWMmhoWWZDV3JtNnBoREJIaGZScnpNS1k5cnRzWUhyMWVsVlJiSW5idnl5Y1dCNlJBTTVZb1pwXy1NVkF1d0tWR19XQzBiUmVUQWdhdDUtdzdtVk91TFIzRWNzVg?oc=5",
+   "source": "Business Standard",
+   "published": "2026-09-11T07:00:00+00:00",
+   "summary": "Bristol opens first campus in Mumbai as foreign universities expand Business Standard",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University Of Bristol Opens Mumbai Campus, Welcomes First Batch Of Students - News18",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT19zUkxZNnk2MzlpbXhQaWRvRVpaRDFmcjZhYTlDSDJiMkRZMzZGZkI0aDM3RWMyWGhVSzgxOGJnUzgtZzN1Zy15Vk92eG10YXpMVFJmbkRxdTNtTUVPRlRqRkFpc210NmV0NUw3bk9oRmN4TnlFT2twWDFZbExCclREcmlEckt3aHd2em9zZ1FRUnBOV1JzaXlhOEhqYzNHX09obEduTUx3S2otYUV2TGFkWkVpWHZ3a19HQXF0Q0VuS2Y0em800gHMAUFVX3lxTE5oYmtnMmMxLVo2cnNsN1NScmFNZV9zYTNuM3hJZzVnb1RjdlRZQ21BXzAyX21XSGRzMUFzU0tsRC1OazgzTG5XTnRpZ181OW5MbG5CUGIzWHVOR0p6OWttdmxHbzBXZUhDTzM2TUgtbUpVNlZrVVVFZ3g2VTJNOVJKTWgzMWp4c1l0TFdyaU9mSHlhNjE4Uk84MEt3eXd2cHo2MzdLMXBtNWFDN1lTT1BjV25pTmNUbzhxUzBmYmVIdzMxakZTQnowa0Z6YQ?oc=5",
+   "source": "News18",
+   "published": "2026-09-11T07:00:00+00:00",
+   "summary": "University Of Bristol Opens Mumbai Campus, Welcomes First Batch Of Students News18",
+   "institutions": [
+    "university-of-bristol"
+   ],
+   "matched_in": {
+    "university-of-bristol": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Launch / first cohort"
+   ],
+   "first_seen": "2026-10-09T06:35:19+00:00"
+  }
+ ]
+}
