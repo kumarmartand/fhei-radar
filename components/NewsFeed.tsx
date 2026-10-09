@@ -13,14 +13,13 @@ export default function NewsFeed({ items, names }: { items: NewsItem[]; names: R
   const shown = items.filter((n) =>
     (sector || n.confidence !== 'sector') && (ev === 'all' || n.events.includes(ev)) && (who === 'all' || n.institutions.includes(who)) &&
     (!needle || (n.title + ' ' + n.summary).toLowerCase().includes(needle))).slice(0, 200);
-  const sel = { minHeight: 44, borderRadius: 999, padding: '0 16px', background: 'rgba(7,11,26,.5)', color: '#fff', border: '1px solid rgba(255,255,255,.2)', fontFamily: 'inherit', fontSize: 15 } as const;
   return (
     <>
-      <div className="glass bar" style={{ marginTop: 28 }}>
+      <div className="bar" style={{ marginTop: 28 }}>
         <div className="chips">
-          <select aria-label="Event type" value={ev} onChange={(e) => setEv(e.target.value)} style={sel}><option value="all">All events</option>{events.map((e) => <option key={e}>{e}</option>)}</select>
-          <select aria-label="University" value={who} onChange={(e) => setWho(e.target.value)} style={sel}><option value="all">All universities</option>{Object.entries(names).sort((a, b) => a[1].localeCompare(b[1])).map(([id, n]) => <option key={id} value={id}>{n}</option>)}</select>
-          <button className="pill" aria-pressed={sector} onClick={() => setSector(!sector)}>Include sector news</button>
+          <select aria-label="Event type" value={ev} onChange={(e) => setEv(e.target.value)} className="sel"><option value="all">All events</option>{events.map((e) => <option key={e}>{e}</option>)}</select>
+          <select aria-label="University" value={who} onChange={(e) => setWho(e.target.value)} className="sel"><option value="all">All universities</option>{Object.entries(names).sort((a, b) => a[1].localeCompare(b[1])).map(([id, n]) => <option key={id} value={id}>{n}</option>)}</select>
+          <button className="btn chip" aria-pressed={sector} onClick={() => setSector(!sector)}>Include sector news</button>
         </div>
         <input className="q" type="search" placeholder="Search headlines" aria-label="Search headlines" value={q} onChange={(e) => setQ(e.target.value)} />
       </div>

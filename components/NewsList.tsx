@@ -8,7 +8,7 @@ export default function NewsList({ items, names }: { items: NewsItem[]; names?: 
   return (
     <div className="news">
       {items.map((n) => (
-        <article className="glass item" key={n.url}>
+        <article className="item" key={n.url}>
           <a className="t" href={n.url} target="_blank" rel="noopener noreferrer">{n.title}</a>
           <div className="m">
             <span>{n.source}</span><span>{day(n.published)}</span>

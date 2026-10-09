@@ -1,11 +1,10 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import Background from '@/components/Background';
 import Nav from '@/components/Nav';
 import Freshness from '@/components/Freshness';
 import { getHealth, fmtDate } from '@/lib/data';
 
-export const metadata: Metadata = { title: 'IBC in India', description: 'International branch campuses in India: where each foreign university comes from, where its campus is, and its approval status.' };
+export const metadata: Metadata = { title: 'IBCs in India', description: 'International branch campuses (IBCs) in India: where each foreign university comes from, where its campus is, and its approval status.' };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const health = getHealth();
@@ -14,16 +13,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   const failed = srcs.filter(([, v]) => v.ok === false).map(([k]) => k);
   return (
     <html lang="en">
-      <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
-        <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Hanken+Grotesk:wght@400;500;600&display=swap" rel="stylesheet" />
-      </head>
       <body>
-        <Background />
         <div className="shell">
+          <div className="topbar" />
           <Nav />
-          <div className="wrap"><Freshness lastRun={lastRun} label={fmtDate(lastRun)} ok={srcs.length - failed.length} total={srcs.length} failed={failed} /></div>
+          <div className="stampbar"><Freshness lastRun={lastRun} label={fmtDate(lastRun)} ok={srcs.length - failed.length} total={srcs.length} failed={failed} /></div>
           {children}
           <div className="wrap">
             <footer className="f">

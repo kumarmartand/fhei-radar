@@ -12,7 +12,7 @@ export default function Freshness({ lastRun, label, ok, total, failed }: { lastR
     setStale(mins > 18 * 60);
     setAgo(mins < 1 ? 'just now' : mins < 60 ? `${mins} min ago` : mins < 48 * 60 ? `${Math.round(mins / 60)} h ago` : `${Math.round(mins / 1440)} days ago`);
   }, [lastRun]);
-  if (!lastRun) return <div className="banner" role="status">No automated refresh has completed yet. The first run happens within six hours of deployment; until then the news feed is empty. Last refresh: never.</div>;
+  if (!lastRun) return <div className="stamp" role="status"><span className="dot warn" aria-hidden="true" />No automated refresh has completed yet. The first run happens within six hours of deployment; until then the news feed is empty. Last refresh: never.</div>;
   return (
     <>
       <div className="stamp" role="status"><span className={stale ? 'dot warn' : 'dot'} aria-hidden="true" />

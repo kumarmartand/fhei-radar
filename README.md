@@ -1,6 +1,6 @@
-# IBC in India
+# IBCs in India
 
-Dashboard of international branch campuses (foreign higher-education institutions) entering India. The home page is a world globe that zooms into India. Next.js frontend on Vercel (free tier), data pipeline on GitHub Actions (free), no database, no API keys.
+Dashboard of international branch campuses (foreign higher-education institutions) entering India. Three pages: Overview (home: status table and directory), Map (a world globe that zooms into India) and News. Next.js frontend on Vercel (free tier), data pipeline on GitHub Actions (free), no database, no API keys.
 
 ## How it runs with no human involved
 1. `.github/workflows/refresh.yml` runs every 6 hours: offline tests, then `pipeline/refresh.py`, then commits `data/*.json`.

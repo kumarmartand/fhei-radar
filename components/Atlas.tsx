@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import LAND from '@/lib/land.json';
 import { AtlasInst, MAXK, MINK, D2R, R0, REGIONS, W, arcPath, buildScene, clamp, gratPath, landPath, mkCam, normLon } from '@/lib/atlas';
-import { CATS, CatKey, ORDER, catLook } from '@/lib/stages';
+import { CATS, CatKey, MAPC, ORDER, mapLook } from '@/lib/stages';
 import Crest from './Crest';
 import StatusIcon from './StatusIcon';
 
@@ -11,7 +11,6 @@ type Cats = Record<CatKey, boolean>;
 type Props = { insts: AtlasInst[]; cats: Cats; onToggleCat: (k: CatKey) => void; sel: string | null; onSel: (id: string | null) => void; focus: { id: string; n: number } | null };
 const LVL = ['', 'Level 1 · Global overview', 'Level 2 · Regional overview', 'Level 3 · Country overview', 'Level 4 · City detail'];
 const world = LAND.world as number[][], india = LAND.india as number[][];
-const pillStyle = (on = false): React.CSSProperties => ({ borderColor: on ? 'var(--gold)' : undefined });
 
 export default function Atlas({ insts, cats, onToggleCat, sel, onSel, focus }: Props) {
   const [cam, setCam] = useState({ lon: 20, lat: 20, k: 1 });
@@ -19,7 +18,6 @@ export default function Atlas({ insts, cats, onToggleCat, sel, onSel, focus }: P
   const [spin, setSpin] = useState(true);
   const [hov, setHov] = useState('');
   const [selCamp, setSelCamp] = useState(0);
-  const [legendOpen, setLegendOpen] = useState(true);
   const stage = useRef<HTMLDivElement>(null);
   const camRef = useRef(cam); camRef.current = cam;
   const drag = useRef<{ x: number; y: number; lon: number; lat: number; moved: boolean } | null>(null);
@@ -58,7 +56,7 @@ export default function Atlas({ insts, cats, onToggleCat, sel, onSel, focus }: P
   const zoomBy = (f: number) => { cancelAnimationFrame(raf.current); flying.current = false; setSpin(false); setCam((c) => ({ ...c, k: clamp(c.k * f, MINK, MAXK) })); };
   const pick = (id: string, locIdx: number) => { onSel(id); setSelCamp(locIdx); setHov(''); };
 
-  // "Show on the globe" from a university page
+  // "Show on the map" from a university page
   useEffect(() => {
     if (!focus) return; const i = byId.get(focus.id); if (!i) return;
     setSelCamp(0);
@@ -112,36 +110,30 @@ export default function Atlas({ insts, cats, onToggleCat, sel, onSel, focus }: P
   const mates = selI && campNow ? insts.flatMap((o) => o.id === selI.id ? [] : o.indiaLocs.map((l, n) => ({ o, l, n })).filter((x) => x.l.city === campNow.city)) : [];
 
   return (
-    <section className="wrap" aria-label="Globe atlas" style={{ paddingTop: 26 }}>
-      <div className="glass" style={{ padding: 18 }}>
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, alignItems: 'center', marginBottom: 16 }}>
-          <span className="muted" style={{ fontSize: 14, marginRight: 4 }}>Go to</span>
-          {REGIONS.map(([l, t]) => <button key={l} className="pill" style={{ fontSize: 14 }} onClick={() => fly(t, 1400)}>{l}</button>)}
-          <button className="pill" style={{ fontSize: 14, ...pillStyle(spin) }} aria-pressed={spin} onClick={() => setSpin((v) => !v)}>{spin ? 'Pause rotation' : 'Rotate'}</button>
+    <section className="wrap" aria-label="Globe" style={{ paddingTop: 24, paddingBottom: 64 }}>
+      <div>
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8, alignItems: 'center', marginBottom: 14 }}>
+          <span style={{ fontSize: 15, fontWeight: 600, color: 'var(--text2)', marginRight: 6 }}>Go to</span>
+          {REGIONS.map(([l, t]) => <button key={l} className="btn chip" onClick={() => fly(t, 1400)}>{l}</button>)}
         </div>
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 22, alignItems: 'flex-start' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 24, alignItems: 'flex-start' }}>
           <div style={{ flex: '1 1 520px', minWidth: 0 }}>
             <div ref={stage} id="ibc-stage" className="stage" tabIndex={0} aria-label="Interactive globe of foreign university campuses. Drag to rotate, plus and minus keys to zoom, arrow keys to turn."
               onPointerDown={onDown} onPointerMove={onMove} onPointerUp={onUp} onPointerCancel={onUp} onKeyDown={onKey}
               onClick={() => { if (!swallow.current && hov) setHov(''); }}>
               <svg viewBox="0 0 720 720" aria-hidden="true">
-                <defs>
-                  <radialGradient id="ocean" cx="42%" cy="38%" r="75%"><stop offset="0" stopColor="#1B3470" /><stop offset=".6" stopColor="#0C1A40" /><stop offset="1" stopColor="#070E26" /></radialGradient>
-                  <radialGradient id="atmo" cx="50%" cy="50%" r="50%"><stop offset=".9" stopColor="rgba(120,160,255,0)" /><stop offset="1" stopColor="rgba(120,160,255,.28)" /></radialGradient>
-                </defs>
-                <circle cx="360" cy="360" r={R} fill={cam.k < 2.5 ? 'url(#ocean)' : '#0C1A40'} />
-                <path d={gratPath(c3)} fill="none" stroke="rgba(150,175,255,.16)" strokeWidth=".7" />
+                <circle cx="360" cy="360" r={R} fill="#0F2755" stroke="#3A66B5" strokeWidth="1" />
+                <path d={gratPath(c3)} fill="none" stroke="rgba(150,185,255,.2)" strokeWidth=".7" />
                 <g opacity={cam.k < 4.5 ? 1 : clamp(1 - (cam.k - 4.5) / 1.5, 0, 1)}>
-                  <path d={lw.fill} fill="rgba(122,150,205,.24)" />
-                  <path d={lw.line} fill="none" stroke="rgba(196,214,255,.55)" strokeWidth=".8" strokeLinejoin="round" />
+                  <path d={lw.fill} fill="#26437C" />
+                  <path d={lw.line} fill="none" stroke="#8FB0EA" strokeWidth=".8" strokeLinejoin="round" />
                 </g>
                 {li && <g opacity={clamp((cam.k - 2.6) / 1.4, 0, 1)}>
-                  <path d={li.fill} fill="rgba(122,150,205,.26)" />
-                  <path d={li.line} fill="none" stroke="rgba(196,214,255,.65)" strokeWidth="1" strokeLinejoin="round" />
+                  <path d={li.fill} fill="#2F4F8E" />
+                  <path d={li.line} fill="none" stroke="#BBD2FF" strokeWidth="1" strokeLinejoin="round" />
                 </g>}
-                {cam.k < 2.5 && <circle cx="360" cy="360" r={R} fill="url(#atmo)" pointerEvents="none" />}
-                <path d={arc} fill="none" stroke="#D9C28E" strokeWidth="2" strokeDasharray="2 5" strokeLinecap="round" />
-                {scene.lines.map((l, i) => <line key={i} x1={l.x1} y1={l.y1} x2={l.x2} y2={l.y2} stroke="rgba(255,255,255,.55)" strokeWidth="1" />)}
+                <path d={arc} fill="none" stroke="#E8C98A" strokeWidth="2" strokeDasharray="2 5" strokeLinecap="round" />
+                {scene.lines.map((l, i) => <line key={i} x1={l.x1} y1={l.y1} x2={l.x2} y2={l.y2} stroke="#9DB6E6" strokeWidth="1" />)}
               </svg>
 
               {scene.cityLabels.map((c) => <span key={c.text} className="clab" style={{ left: pct(c.left), top: pct(c.top), opacity: scene.ia }}>{c.text}</span>)}
@@ -150,15 +142,15 @@ export default function Atlas({ insts, cats, onToggleCat, sel, onSel, focus }: P
                 const op = e.kind === 'in' ? scene.ia : 1, pe = op < 0.3 ? 'none' : 'auto';
                 if (e.type === 'pin') {
                   const it = e.items[0], d = byId.get(it.id); if (!d) return null;
-                  const on = it.id === sel, look = catLook(e.cat), sz = (e.spider ? scene.size + 2 : scene.size) + (on ? 6 : 0);
+                  const on = it.id === sel, look = mapLook(e.cat), sz = (e.spider ? scene.size + 2 : scene.size) + (on ? 6 : 0);
                   return (
                     <button key={e.key} className="mk" aria-pressed={on} aria-label={`${d.name}, ${e.kind === 'home' ? 'home campus, ' + d.homeCity : 'India campus, ' + it.city}, ${CATS[e.cat].label}`}
-                      style={{ left: pct(e.x), top: pct(e.y), width: sz, height: sz, opacity: op, pointerEvents: pe, zIndex: on ? 4 : 2, ...(on ? { borderRadius: '50%', boxShadow: '0 0 0 3px rgba(5,8,19,.9),0 0 0 5px #fff' } : {}) }}
+                      style={{ left: pct(e.x), top: pct(e.y), width: sz, height: sz, opacity: op, pointerEvents: pe, zIndex: on ? 4 : 2, ...(on ? { borderRadius: '50%', boxShadow: '0 0 0 3px #06142F,0 0 0 5px #fff' } : {}) }}
                       onClick={(ev) => { ev.stopPropagation(); if (touch.current) { onSel(it.id); setSelCamp(e.kind === 'in' ? it.locIdx : 0); setHov(e.key); } else pick(it.id, e.kind === 'in' ? it.locIdx : 0); }}
                       onMouseEnter={() => enter(e.key)} onMouseLeave={leave} onFocus={() => enter(e.key)} onBlur={leave}>
                       <svg viewBox="0 0 20 20" aria-hidden="true">
-                        <path d={CATS[e.cat].shape} fill="none" stroke="#050813" strokeWidth="5.5" strokeLinejoin="round" />
-                        <path d={CATS[e.cat].shape} fill={look.fill} stroke={look.stroke} strokeWidth="2" strokeLinejoin="round" strokeDasharray={look.dash} />
+                        <path d={CATS[e.cat].shape} fill="none" stroke="#06142F" strokeWidth="5.5" strokeLinejoin="round" />
+                        <path d={CATS[e.cat].shape} fill={look.fill} stroke={look.stroke} strokeWidth="2.2" strokeLinejoin="round" strokeDasharray={look.dash} />
                       </svg>
                     </button>
                   );
@@ -169,17 +161,17 @@ export default function Atlas({ insts, cats, onToggleCat, sel, onSel, focus }: P
                     style={{ left: pct(e.x), top: pct(e.y), width: sz, height: sz, opacity: op, pointerEvents: pe, zIndex: 3 }}
                     onClick={(ev) => { ev.stopPropagation(); fly({ lon: e.items.reduce((t, o) => t + o.lon, 0) / e.items.length, lat: e.items.reduce((t, o) => t + o.lat, 0) / e.items.length, k: clamp(cam.k * 2.4, 1, MAXK) }, 900); }}
                     onMouseEnter={() => enter(e.key)} onMouseLeave={leave} onFocus={() => enter(e.key)} onBlur={leave}>
-                    <span className="clus" style={{ borderColor: CATS[e.cat].color }}>{e.items.length}</span>
+                    <span className="clus" style={{ borderColor: MAPC[e.cat] }}>{e.items.length}</span>
                   </button>
                 );
               })}
 
               {scene.labels.map((l) => {
-                const d = byId.get(l.id); if (!d) return null; const look = catLook(l.cat);
+                const d = byId.get(l.id); if (!d) return null; const look = mapLook(l.cat);
                 return (
                   <button key={l.id + l.kind + l.locIdx} className="lab" tabIndex={-1} aria-hidden="true" style={{ left: pct(l.left), top: pct(l.top), opacity: l.kind === 'in' ? scene.ia : 1, zIndex: l.selected ? 5 : 3 }}
                     onClick={(ev) => { ev.stopPropagation(); pick(l.id, l.kind === 'in' ? l.locIdx : 0); }}>
-                    <Crest logo={d.logo} mono={d.mono} size={20} color={CATS[l.cat].color} />
+                    <Crest logo={d.logo} mono={d.mono} h={20} maxW={64} dark color={MAPC[l.cat]} />
                     <span>{l.text}</span>
                     <svg viewBox="0 0 20 20" width="10" height="10" aria-hidden="true"><path d={CATS[l.cat].shape} fill={look.fill} stroke={look.stroke} strokeWidth="3" strokeLinejoin="round" /></svg>
                   </button>
@@ -191,36 +183,37 @@ export default function Atlas({ insts, cats, onToggleCat, sel, onSel, focus }: P
                   {hovI ? (
                     <>
                       <div style={{ display: 'flex', gap: 12, alignItems: 'center' }}>
-                        <Crest logo={hovI.logo} mono={hovI.mono} size={48} color={CATS[hovI.cat].color} />
+                        <Crest logo={hovI.logo} mono={hovI.mono} h={44} maxW={96} color={CATS[hovI.cat].color} />
                         <div style={{ minWidth: 0 }}>
-                          <div style={{ fontWeight: 600, fontSize: 16, lineHeight: 1.25 }}>{hovI.name}</div>
-                          <div style={{ display: 'flex', alignItems: 'center', gap: 7, marginTop: 5, fontSize: 13, color: '#C9D5EA' }}>{hovI.flag && <img src={hovI.flag} alt="" width={20} height={15} style={{ borderRadius: 2, objectFit: 'cover' }} />}<span>{hovI.country}</span></div>
+                          <div style={{ fontWeight: 700, fontSize: 16, lineHeight: 1.25 }}>{hovI.name}</div>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: 7, marginTop: 5, fontSize: 13, color: 'var(--text2)' }}>{hovI.flag && <img className="flag" src={hovI.flag} alt="" width={20} height={15} />}<span>{hovI.country}</span></div>
                         </div>
                       </div>
-                      <div style={{ marginTop: 12, fontSize: 13, lineHeight: 1.5, color: '#D9DEE8' }}>
-                        <span style={{ color: '#8FA0BA' }}>Home campus</span> {hovI.homeCity}<br />
-                        <span style={{ color: '#8FA0BA' }}>Indian campus</span> {hovI.indiaLocs.length ? hovI.indiaLocs.map((c) => c.city + (c.state ? ', ' + c.state : '')).join(' and ') : hovI.indiaNote ? 'No campus city verified' : 'No India city published'}
+                      <div style={{ marginTop: 12, fontSize: 13, lineHeight: 1.55, color: 'var(--ink)' }}>
+                        <span style={{ color: 'var(--muted)' }}>Home campus:</span> {hovI.homeCity}<br />
+                        <span style={{ color: 'var(--muted)' }}>Indian campus:</span> {hovI.indiaLocs.length ? hovI.indiaLocs.map((c) => c.city + (c.state ? ', ' + c.state : '')).join(' and ') : hovI.indiaNote ? 'No campus city verified' : 'No India city published'}
                       </div>
-                      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 10, fontSize: 13, fontWeight: 600 }}><StatusIcon cat={hovI.cat} />{CATS[hovI.cat].long}</div>
-                      <Link href={`/university/${hovI.id}`} className="vlink">View institution &rarr;</Link>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 10, fontSize: 13, fontWeight: 700 }}><StatusIcon cat={hovI.cat} />{CATS[hovI.cat].long}</div>
+                      <Link href={`/university/${hovI.id}`} className="vlink">View institution</Link>
                     </>
                   ) : (
                     <>
-                      <div style={{ fontWeight: 600, fontSize: 15 }}>{hovEl.kind === 'home' ? `${hovEl.items.length} universities with home campuses here` : `${hovEl.items.length} campuses${hovEl.city ? ' in ' + hovEl.city : ''}`}</div>
-                      <ul style={{ margin: '8px 0 0', paddingLeft: 18, fontSize: 13, lineHeight: 1.6, color: '#D9DEE8' }}>
+                      <div style={{ fontWeight: 700, fontSize: 15 }}>{hovEl.kind === 'home' ? `${hovEl.items.length} universities with home campuses here` : `${hovEl.items.length} campuses${hovEl.city ? ' in ' + hovEl.city : ''}`}</div>
+                      <ul style={{ margin: '8px 0 0', paddingLeft: 18, fontSize: 13, lineHeight: 1.6, color: 'var(--ink)' }}>
                         {hovEl.items.slice(0, 8).map((o) => <li key={o.id + o.locIdx}>{byId.get(o.id)?.name}</li>)}
                         {hovEl.items.length > 8 && <li>and {hovEl.items.length - 8} more</li>}
                       </ul>
-                      <div style={{ marginTop: 8, fontSize: 12, color: '#8FA0BA' }}>Select to zoom in.</div>
+                      <div style={{ marginTop: 8, fontSize: 12, color: 'var(--muted)' }}>Select to zoom in.</div>
                     </>
                   )}
                 </div>
               )}
 
               <div className="lvl">{LVL[scene.lvl]}</div>
-              <div className="zoomc">
-                <button className="zb" aria-label="Zoom in" onClick={() => zoomBy(1.6)}>+</button>
-                <button className="zb" aria-label="Zoom out" onClick={() => zoomBy(1 / 1.6)}>&minus;</button>
+              <button className="btn dk rotb" aria-pressed={spin} onClick={(e) => { e.stopPropagation(); setSpin((v) => !v); }} onPointerDown={(e) => e.stopPropagation()}>{spin ? 'Pause rotation' : 'Rotate'}</button>
+              <div className="zoomc" onPointerDown={(e) => e.stopPropagation()}>
+                <button className="zb dk" aria-label="Zoom in" onClick={() => zoomBy(1.6)}>+</button>
+                <button className="zb dk" aria-label="Zoom out" onClick={() => zoomBy(1 / 1.6)}>&minus;</button>
               </div>
               {cam.k < 1.2 && <div className="hint">Drag to rotate. Use + and &minus; to zoom.</div>}
             </div>
@@ -229,71 +222,63 @@ export default function Atlas({ insts, cats, onToggleCat, sel, onSel, focus }: P
 
           <aside style={{ flex: '1 1 320px', maxWidth: 420, minWidth: 0, display: 'flex', flexDirection: 'column', gap: 16 }}>
             {selI ? (
-              <div className="glass panelx" key={selI.id}>
+              <div className="panelx" key={selI.id}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 10 }}>
                   <div style={{ display: 'flex', gap: 14, alignItems: 'center', minWidth: 0 }}>
-                    <Crest logo={selI.logo} mono={selI.mono} size={72} color={CATS[selI.cat].color} />
+                    <Crest logo={selI.logo} mono={selI.mono} h={60} maxW={130} color={CATS[selI.cat].color} />
                     <div style={{ minWidth: 0 }}>
-                      <div style={{ fontFamily: 'var(--serif)', fontSize: 28, lineHeight: 1.1, color: 'var(--ivory)' }}>{selI.name}</div>
-                      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 6, fontSize: 14, color: '#C9D5EA' }}>{selI.flag && <img src={selI.flag} alt="" width={22} height={16} style={{ borderRadius: 2, objectFit: 'cover' }} />}<span>{selI.country}</span></div>
+                      <div style={{ fontWeight: 700, fontSize: 24, lineHeight: 1.15, color: 'var(--navy)' }}>{selI.name}</div>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 6, fontSize: 14, color: 'var(--text2)' }}>{selI.flag && <img className="flag" src={selI.flag} alt="" width={22} height={16} />}<span>{selI.country}</span></div>
                     </div>
                   </div>
-                  <button className="zb" aria-label="Clear selection" style={{ flex: 'none', fontSize: 20 }} onClick={() => { onSel(null); setHov(''); }}>&times;</button>
+                  <button className="zb" aria-label="Clear selection" style={{ flex: 'none', fontSize: 20, boxShadow: 'none' }} onClick={() => { onSel(null); setHov(''); }}>&times;</button>
                 </div>
-                <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 14, fontSize: 14, fontWeight: 600 }}><StatusIcon cat={selI.cat} size={16} />{CATS[selI.cat].long} ({selI.stage})</div>
-                {!cats[selI.cat] && <div style={{ marginTop: 8, fontSize: 13, color: '#E3C58A' }}>Hidden on the globe by the current filter.</div>}
+                <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 14, fontSize: 14, fontWeight: 700 }}><StatusIcon cat={selI.cat} size={16} />{CATS[selI.cat].long} ({selI.stage})</div>
+                {!cats[selI.cat] && <div style={{ marginTop: 8, fontSize: 13, color: '#7A4B00' }}>Hidden on the globe by the current filter.</div>}
                 <div style={{ marginTop: 16, display: 'grid', gap: 10 }}>
                   <div className="blk"><div className="bk">Home campus</div><div style={{ marginTop: 4, fontSize: 15 }}>{selI.homeCity}, {selI.country}. City-level position of the main campus.</div></div>
-                  <div className="blk gold"><div className="bk" style={{ color: 'var(--gold)' }}>Indian campus</div>
+                  <div className="blk navy"><div className="bk" style={{ color: 'var(--navy)' }}>Indian campus</div>
                     {camps.length ? camps.map((c, n) => (
                       <div key={c.city + n} style={{ marginTop: 6, fontSize: 15, lineHeight: 1.5 }}>{c.city}{c.state ? ', ' + c.state : ''}{c.note && c.note !== c.city ? ' — ' + c.note : ''}
-                        <div className="muted" style={{ fontSize: 13 }}>{selI.cat === 'pl' ? 'Proposed city only. No campus site has been announced.' : 'City-level position on the globe. Site coordinates are not verified.'}</div></div>
-                    )) : <div style={{ marginTop: 6, fontSize: 15, lineHeight: 1.5 }}>{selI.indiaNote ? 'No campus city verified' : 'No India city published'}<div className="muted" style={{ fontSize: 13 }}>Nothing is placed on the India map for this institution.</div></div>}
+                        <div style={{ fontSize: 13, color: 'var(--text3)' }}>{selI.cat === 'pl' ? 'Proposed city only. No campus site has been announced.' : 'City-level position on the globe. Site coordinates are not verified.'}</div></div>
+                    )) : <div style={{ marginTop: 6, fontSize: 15, lineHeight: 1.5 }}>{selI.indiaNote ? 'No campus city verified' : 'No India city published'}<div style={{ fontSize: 13, color: 'var(--text3)' }}>Nothing is placed on the India map for this institution.</div></div>}
                   </div>
                 </div>
-                <div style={{ marginTop: 14, fontSize: 14, lineHeight: 1.55, color: '#D9DEE8' }}><span style={{ color: '#8FA0BA' }}>QS 2027</span> {selI.qs} &nbsp;&middot;&nbsp; <span style={{ color: '#8FA0BA' }}>Founded</span> {selI.founded} &nbsp;&middot;&nbsp; <span style={{ color: '#8FA0BA' }}>India launch</span> {selI.launch}</div>
-                <div style={{ marginTop: 12, paddingTop: 12, borderTop: '1px solid rgba(255,255,255,.1)' }}>
+                <div style={{ marginTop: 14, fontSize: 14, lineHeight: 1.6, color: 'var(--ink)' }}><span style={{ color: 'var(--muted)' }}>QS 2027:</span> {selI.qs} &nbsp;&middot;&nbsp; <span style={{ color: 'var(--muted)' }}>Founded:</span> {selI.founded} &nbsp;&middot;&nbsp; <span style={{ color: 'var(--muted)' }}>India launch:</span> {selI.launch}</div>
+                <div style={{ marginTop: 12, paddingTop: 12, borderTop: '1px solid var(--line)' }}>
                   <div className="bk">Contacts and leadership</div>
-                  <div style={{ marginTop: 6, fontSize: 14, lineHeight: 1.55, whiteSpace: 'pre-line', color: '#D9DEE8' }}>{selI.leadership}</div>
-                  <div style={{ marginTop: 6, fontSize: 12, color: '#8FA0BA' }}>No phone numbers or email addresses are recorded in the workbook.</div>
+                  <div style={{ marginTop: 6, fontSize: 14, lineHeight: 1.55, whiteSpace: 'pre-line', color: 'var(--ink)' }}>{selI.leadership}</div>
+                  <div style={{ marginTop: 6, fontSize: 12, color: 'var(--muted)' }}>No phone numbers or email addresses are recorded in the workbook.</div>
                 </div>
                 <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, marginTop: 16 }}>
-                  {camps.length > 0 && <button className="pill gold" onClick={() => campNow && fly({ lon: campNow.lon, lat: campNow.lat, k: 11 }, 1500)}>{selI.cat === 'pl' ? 'Show proposed city' : 'Explore in India'}</button>}
-                  <Link href={`/university/${selI.id}`} className="pill">View institution</Link>
+                  {camps.length > 0 && <button className="btn primary" onClick={() => campNow && fly({ lon: campNow.lon, lat: campNow.lat, k: 11 }, 1500)}>{selI.cat === 'pl' ? 'Show proposed city' : 'Explore in India'}</button>}
+                  <Link href={`/university/${selI.id}`} className="btn">View institution</Link>
                 </div>
                 {mates.length > 0 && (
-                  <div style={{ marginTop: 16, paddingTop: 12, borderTop: '1px solid rgba(255,255,255,.1)' }}>
+                  <div style={{ marginTop: 16, paddingTop: 12, borderTop: '1px solid var(--line)' }}>
                     <div className="bk">Also in {campNow?.city}</div>
-                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8, marginTop: 8 }}>{mates.map((m) => <button key={m.o.id} className="pill" style={{ fontSize: 13, padding: '0 14px' }} onClick={() => pick(m.o.id, m.n)}>{m.o.name}</button>)}</div>
+                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8, marginTop: 8 }}>{mates.map((m) => <button key={m.o.id} className="btn chip" onClick={() => pick(m.o.id, m.n)}>{m.o.name}</button>)}</div>
                   </div>
                 )}
-                {!selI.logo && <div style={{ marginTop: 12, fontSize: 12, color: '#8FA0BA' }}>Official logo not yet added. Initials are shown until a verified logo file is supplied.</div>}
+                {!selI.logo && <div style={{ marginTop: 12, fontSize: 12, color: 'var(--muted)' }}>Logo not yet added. Initials are shown instead.</div>}
               </div>
             ) : <div className="emptybox">Select a marker to see the institution: its home campus, its Indian campus, status, contacts and sources. Hover or focus a marker for a quick preview.</div>}
 
-            <div className="glass" style={{ padding: 18 }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 10 }}>
-                <h2 style={{ fontSize: 24 }}>Legend and filters</h2>
-                <button className="pill" style={{ fontSize: 14 }} aria-expanded={legendOpen} onClick={() => setLegendOpen((v) => !v)}>{legendOpen ? 'Collapse' : 'Expand'}</button>
+            <div style={{ paddingTop: 6 }}>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+                {ORDER.map((k) => {
+                  const nI = insts.filter((i) => i.cat === k).length, nL = insts.reduce((t, i) => t + (i.cat === k ? i.indiaLocs.length : 0), 0), on = cats[k];
+                  return (
+                    <button key={k} className="lrow" aria-pressed={on} onClick={() => onToggleCat(k)} style={{ borderColor: on ? 'var(--navy)' : undefined, opacity: on ? 1 : 0.55 }}>
+                      <span className="chipicon"><StatusIcon cat={k} size={20} map /></span>
+                      <span style={{ flex: 1, minWidth: 0 }}><span style={{ display: 'block', fontSize: 15, fontWeight: 700 }}>{CATS[k].label}</span><span style={{ display: 'block', fontSize: 12.5, color: 'var(--text3)', lineHeight: 1.4 }}>{CATS[k].note}</span></span>
+                      <span style={{ fontSize: 13, textAlign: 'right', color: 'var(--ink)', whiteSpace: 'nowrap' }}>{nI} {nI === 1 ? 'institution' : 'institutions'}<br />{nL ? `${nL} India ${nL === 1 ? 'location' : 'locations'}` : 'no India location'}</span>
+                    </button>
+                  );
+                })}
               </div>
-              {legendOpen && (
-                <>
-                  <div style={{ display: 'flex', flexDirection: 'column', gap: 8, marginTop: 12 }}>
-                    {ORDER.map((k) => {
-                      const nI = insts.filter((i) => i.cat === k).length, nL = insts.reduce((t, i) => t + (i.cat === k ? i.indiaLocs.length : 0), 0), on = cats[k];
-                      return (
-                        <button key={k} className="lrow" aria-pressed={on} onClick={() => onToggleCat(k)} style={{ borderColor: on ? CATS[k].color : undefined, opacity: on ? 1 : 0.55 }}>
-                          <StatusIcon cat={k} size={22} />
-                          <span style={{ flex: 1, minWidth: 0 }}><span style={{ display: 'block', fontSize: 15, fontWeight: 600 }}>{CATS[k].label}</span><span style={{ display: 'block', fontSize: 12, color: 'var(--muted)', lineHeight: 1.4 }}>{CATS[k].note}</span></span>
-                          <span style={{ fontSize: 13, textAlign: 'right', color: '#D9DEE8', whiteSpace: 'nowrap' }}>{nI} {nI === 1 ? 'institution' : 'institutions'}<br />{nL ? `${nL} India ${nL === 1 ? 'location' : 'locations'}` : 'no India location'}</span>
-                        </button>
-                      );
-                    })}
-                  </div>
-                  <div className="muted" style={{ marginTop: 12, fontSize: 13, lineHeight: 1.55 }}>Showing {instCount} of {insts.length} institutions and {locCount} of {locAll} India locations.</div>
-                  <div style={{ marginTop: 6, fontSize: 12, lineHeight: 1.5, color: '#8FA0BA' }}>Shape and colour both carry the status. An institution is counted once, even when it has more than one Indian campus.</div>
-                </>
-              )}
+              <div style={{ marginTop: 12, fontSize: 14, lineHeight: 1.55 }}>Showing {instCount} of {insts.length} institutions and {locCount} of {locAll} India locations.</div>
+              <div style={{ marginTop: 6, fontSize: 12.5, lineHeight: 1.5, color: 'var(--muted)' }}>Shape and colour both carry the status. An institution is counted once, even when it has more than one Indian campus.</div>
             </div>
           </aside>
         </div>

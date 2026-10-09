@@ -3,13 +3,15 @@ export type Cat = { label: string; long: string; note: string; color: string; sh
 // One status definition shared by the globe, the legend, the filters and the directory.
 // Colour and shape both carry the status, so it never depends on colour alone.
 export const CATS: Record<CatKey, Cat> = {
-  tc: { label: 'Teaching', long: 'Open and teaching', note: 'Already teaching: on the UGC list or registered in GIFT City.', color: '#8FD3B6', shape: 'M10 1.8A8.2 8.2 0 1 1 9.99 1.8Z', solid: true, dash: 'none' },
-  ap: { label: 'Approved', long: 'Approved', note: 'Approved in principle, or approved but not yet on the UGC list.', color: '#8DB0FF', shape: 'M10 1.2L18.8 10L10 18.8L1.2 10Z', solid: true, dash: 'none' },
-  loi: { label: 'Letter of Intent', long: 'Letter of Intent', note: 'UGC has issued a letter of intent.', color: '#E8C98A', shape: 'M10 2L19 17.5H1L10 2Z', solid: true, dash: 'none' },
-  pl: { label: 'Proposed or in talks', long: 'Proposed or in talks', note: 'State talks, an application or reported intent. No approval yet.', color: '#C9A8E6', shape: 'M3.2 3.2H16.8V16.8H3.2Z', solid: false, dash: 'none' },
-  ot: { label: 'Other', long: 'Other or not progressing', note: 'Discontinued, or no India campus plan found.', color: '#9AA6B8', shape: 'M10 3A7 7 0 1 1 9.99 3Z', solid: false, dash: '3 2.5' },
+  tc: { label: 'Teaching', long: 'Open and teaching', note: 'Already teaching: on the UGC list or registered in GIFT City.', color: '#1B7F5C', shape: 'M10 1.8A8.2 8.2 0 1 1 9.99 1.8Z', solid: true, dash: 'none' },
+  ap: { label: 'Approved', long: 'Approved', note: 'Approved in principle, or approved but not yet on the UGC list.', color: '#2457B8', shape: 'M10 1.2L18.8 10L10 18.8L1.2 10Z', solid: true, dash: 'none' },
+  loi: { label: 'Letter of Intent', long: 'Letter of Intent', note: 'UGC has issued a letter of intent.', color: '#B26A00', shape: 'M10 2L19 17.5H1L10 2Z', solid: true, dash: 'none' },
+  pl: { label: 'Proposed or in talks', long: 'Proposed or in talks', note: 'State talks, an application or reported intent. No approval yet.', color: '#7B4BA8', shape: 'M3.2 3.2H16.8V16.8H3.2Z', solid: false, dash: 'none' },
+  ot: { label: 'Other', long: 'Other or not progressing', note: 'Discontinued, or no India campus plan found.', color: '#5F6B7A', shape: 'M10 3A7 7 0 1 1 9.99 3Z', solid: false, dash: '3 2.5' },
 };
 export const GROUPS = CATS;
+// Colours used on the dark map only (the light-theme colours above are too dark against navy).
+export const MAPC: Record<CatKey, string> = { tc: '#8FD3B6', ap: '#8DB0FF', loi: '#E8C98A', pl: '#C9A8E6', ot: '#B4BFD0' };
 export const ORDER: CatKey[] = ['tc', 'ap', 'loi', 'pl', 'ot'];
 export function groupOf(stage: string): CatKey {
   if (stage === 'Operating') return 'tc';
@@ -19,6 +21,7 @@ export function groupOf(stage: string): CatKey {
   return 'pl';
 }
 export const catLook = (k: CatKey) => { const c = CATS[k]; return { shape: c.shape, fill: c.solid ? c.color : c.color + '33', stroke: c.color, dash: c.dash }; };
+export const mapLook = (k: CatKey) => { const c = CATS[k], m = MAPC[k]; return { shape: c.shape, fill: c.solid ? m : m + '40', stroke: m, dash: c.dash }; };
 export const LADDER = ['Reported intent', 'State talks', 'Letter of Intent', 'Approved', 'Open and teaching'];
 export const LADDER_INDEX: Record<string, number> = {
   'Reported intent': 0, 'State talks': 1, 'Application / state talks': 1, 'Letter of Intent': 2,

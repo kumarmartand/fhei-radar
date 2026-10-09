@@ -1,4 +1,32 @@
-// Verified official logo files. To add one: put the file in public/logos/ and add a line, e.g.
-//   'deakin-university': '/logos/deakin-university.svg',
-// Only add a logo you have checked against the institution's own brand page. Until then the app shows initials.
-export const LOGOS: Record<string, string> = {};
+// Logo files in public/logos/, keyed by institution id. Sourced from each institution's Wikipedia infobox (logos remain the property of their owners;
+// confirm usage rights before external or commercial use). Institutions without an entry show initials instead.
+export const LOGOS: Record<string, string> = {
+  'birkbeck-university-of-london': '/logos/birkbeck-university-of-london.png',
+  'coventry-university': '/logos/coventry-university.png',
+  'deakin-university': '/logos/deakin-university.png',
+  'flinders-university': '/logos/flinders-university.png',
+  'ied': '/logos/ied.png',
+  'illinois-institute-of-technology': '/logos/illinois-institute-of-technology.png',
+  'la-trobe': '/logos/la-trobe.png',
+  'lancaster-university': '/logos/lancaster-university.png',
+  'newcastle-university': '/logos/newcastle-university.png',
+  'northeastern-university': '/logos/northeastern-university.png',
+  'purdue-university': '/logos/purdue-university.png',
+  'queen-s-university-belfast': '/logos/queen-s-university-belfast.png',
+  'university-of-aberdeen': '/logos/university-of-aberdeen.png',
+  'university-of-birmingham': '/logos/university-of-birmingham.png',
+  'university-of-bristol': '/logos/university-of-bristol.png',
+  'university-of-colorado': '/logos/university-of-colorado.png',
+  'university-of-exeter': '/logos/university-of-exeter.png',
+  'university-of-liverpool': '/logos/university-of-liverpool.png',
+  'university-of-london': '/logos/university-of-london.png',
+  'university-of-new-south-wales': '/logos/university-of-new-south-wales.png',
+  'university-of-southampton': '/logos/university-of-southampton.png',
+  'university-of-surrey': '/logos/university-of-surrey.png',
+  'university-of-sussex': '/logos/university-of-sussex.png',
+  'university-of-western-australia': '/logos/university-of-western-australia.png',
+  'university-of-wollongong': '/logos/university-of-wollongong.png',
+  'university-of-york': '/logos/university-of-york.png',
+  'victoria-university': '/logos/victoria-university.png',
+  'western-sydney-university': '/logos/western-sydney-university.png',
+};

@@ -10,7 +10,7 @@ export function generateStaticParams() { return getInstitutions().institutions.m
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
   const u = getInstitutions().institutions.find((i) => i.id === id);
-  return { title: u ? `${u.name} | IBC in India` : 'IBC in India' };
+  return { title: u ? `${u.name} | IBCs in India` : 'IBCs in India' };
 }
 
 export default async function University({ params }: { params: Promise<{ id: string }> }) {
@@ -38,42 +38,42 @@ export default async function University({ params }: { params: Promise<{ id: str
   return (
     <div className="wrap" style={{ paddingTop: 16, paddingBottom: 40 }}>
       <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, marginTop: 16 }}>
-        <Link href="/" className="pill">Back to the atlas</Link>
-        <Link href={`/?focus=${u.id}`} className="pill gold">Show on the globe</Link>
+        <Link href="/" className="btn">Back to the overview</Link>
+        <Link href={`/map?focus=${u.id}`} className="btn primary">Show on the map</Link>
       </div>
       <div className="udet">
         <main className="umain">
           <div className="uhead">
-            <div style={{ position: 'relative', width: 128, flex: 'none' }}><Crest logo={a.logo} mono={a.mono} size={128} color={g.color} />{a.flag && <img className="flagb" src={a.flag} alt="" width={44} height={33} style={{ width: 44, height: 33, right: -6, bottom: 2 }} />}</div>
+            <Crest logo={a.logo} mono={a.mono} h={100} maxW={240} color={g.color} />
             <div>
               <h1>{u.name}</h1>
-              <p className="muted" style={{ margin: '12px 0 0', fontSize: 18 }}>{a.country}. {u.map_city ? `Campus: ${u.map_city}.` : 'No India city published.'}</p>
+              <p style={{ margin: '10px 0 0', fontSize: 18, color: 'var(--text2)', display: 'flex', alignItems: 'center', gap: 10, flexWrap: 'wrap' }}>{a.flag && <img className="flag" src={a.flag} alt="" width={28} height={21} style={{ width: 28, height: 21 }} />}<span>{a.country}. {u.map_city ? `Campus: ${u.map_city}.` : 'No India city published.'}</span></p>
             </div>
           </div>
           <div className="stats">
-            <div className="glass stat"><b>{nz(u.qs_2027)}</b><span>QS World Rankings 2027</span></div>
-            <div className="glass stat"><b>{nz(u.founded)}</b><span>Founded</span></div>
-            <div className="glass stat"><b>{nz(u.launch)}</b><span>India campus launch</span></div>
+            <div className="stat"><b>{nz(u.qs_2027)}</b><span>QS World Rankings 2027</span></div>
+            <div className="stat"><b>{nz(u.founded)}</b><span>Founded</span></div>
+            <div className="stat"><b>{nz(u.launch)}</b><span>India campus launch</span></div>
           </div>
           <UniTabs name={u.name} facts={facts} progs={progs.length ? progs : ['Not recorded']} leadership={nz(u.leadership)} sources={sources}
             news={news.slice(0, 30)}
             names={Object.fromEntries(getInstitutions().institutions.map((i) => [i.id, i.name]))} />
         </main>
         <aside className="uside">
-          <div className="glass" style={{ padding: 28, ['--c' as string]: g.color }}>
-            <h2 style={{ fontSize: 28, marginBottom: 20 }}>Where {short} stands</h2>
+          <div className="side">
+            <h2 style={{ fontSize: 22, marginBottom: 18 }}>Where {short} stands</h2>
             {idx !== undefined && (
               <div className="ladder">
                 {LADDER.map((l, i) => (
                   <div key={l}>
-                    <span className={`n${i === idx ? ' live' : ''}`} style={{ borderColor: i <= idx ? g.color : undefined, background: i === idx ? g.color : i < idx ? g.color + '66' : 'transparent' }} />
-                    <span style={{ fontSize: i === idx ? 18 : 15, fontWeight: i === idx ? 600 : 400, color: i === idx ? '#fff' : 'var(--muted)' }}>{l}</span>
+                    <span className="n" style={{ borderColor: i <= idx ? g.color : undefined, background: i === idx ? g.color : i < idx ? g.color + '55' : 'transparent' }} />
+                    <span style={{ fontSize: i === idx ? 18 : 15, fontWeight: i === idx ? 600 : 400, color: i === idx ? 'var(--ink)' : 'var(--muted)' }}>{l}</span>
                   </div>
                 ))}
               </div>
             )}
-            <div style={{ fontSize: 15, lineHeight: 1.55, color: '#D9DEE8' }}>Status: {u.stage}. {nz(u.stage_evidence)}</div>
-            <div style={{ fontSize: 13, lineHeight: 1.5, color: 'var(--muted)', marginTop: 16 }}>
+            <div style={{ fontSize: 15, lineHeight: 1.55, color: 'var(--ink)' }}>Status: {u.stage}. {nz(u.stage_evidence)}</div>
+            <div style={{ fontSize: 13, lineHeight: 1.5, color: 'var(--text3)', marginTop: 16 }}>
               {sig ? `Automated UGC check (${fmtDate(sig.checked)}): ${sig.on_ugc_list ? 'listed on the UGC foreign-campus page.' : 'not listed on the UGC foreign-campus page.'}` : 'Automated UGC check: not run yet.'}
             </div>
           </div>
