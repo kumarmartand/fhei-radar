@@ -5,10 +5,13 @@ import Nav from '@/components/Nav';
 import Freshness from '@/components/Freshness';
 import { getHealth, fmtDate } from '@/lib/data';
 
-export const metadata: Metadata = { title: 'FHEI Radar', description: 'Foreign higher-education institutions entering India: status, campuses, news and regulator changes.' };
+export const metadata: Metadata = { title: 'IBC in India', description: 'International branch campuses in India: where each foreign university comes from, where its campus is, and its approval status.' };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  const lastRun = (getHealth()._summary?.last_run as string | undefined) ?? null;
+  const health = getHealth();
+  const lastRun = (health._summary?.last_run as string | undefined) ?? null;
+  const srcs = Object.entries(health).filter(([k]) => !k.startsWith('_') && !k.endsWith('partial')) as [string, { ok?: boolean }][];
+  const failed = srcs.filter(([, v]) => v.ok === false).map(([k]) => k);
   return (
     <html lang="en">
       <head>
@@ -20,7 +23,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Background />
         <div className="shell">
           <Nav />
-          <div className="wrap"><Freshness lastRun={lastRun} label={fmtDate(lastRun)} /></div>
+          <div className="wrap"><Freshness lastRun={lastRun} label={fmtDate(lastRun)} ok={srcs.length - failed.length} total={srcs.length} failed={failed} /></div>
           {children}
           <div className="wrap">
             <footer className="f">

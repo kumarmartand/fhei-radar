@@ -68,14 +68,27 @@ def fetch_gnews():
 # ---------- 3. News: GDELT DOC API (free, no key) ----------
 @timed('GDELT')
 def fetch_gdelt():
-    items = []
-    for q in ['("foreign university" OR "offshore campus" OR "branch campus") india', '"letter of intent" university india campus UGC']:
+    """GDELT allows ~1 request per 5 s and answers 429 otherwise: pace requests, retry with back-off, and keep partial results."""
+    items, errors = [], []
+    queries = ['("foreign university" OR "offshore campus" OR "branch campus") india', '"letter of intent" university india campus UGC']
+    for qi, q in enumerate(queries):
+        if qi: time.sleep(8)
         u = 'https://api.gdeltproject.org/api/v2/doc/doc?query=' + urllib.parse.quote(q) + f"&mode=artlist&format=json&maxrecords=75&sort=datedesc&timespan={CFG['gdelt_timespan']}"
-        r = requests.get(u, headers=UA, timeout=40); r.raise_for_status()
-        for a in (r.json().get('articles') or []):
+        data = None
+        for attempt in range(4):
+            try:
+                r = requests.get(u, headers=UA, timeout=40)
+                if r.status_code == 429: time.sleep(10 * (attempt + 1)); continue
+                r.raise_for_status(); data = r.json(); break
+            except ValueError: errors.append('non-JSON reply'); break   # GDELT sometimes returns text errors
+            except requests.RequestException as e: errors.append(type(e).__name__); time.sleep(5)
+        if data is None: errors.append(f'query {qi + 1} gave no data'); continue
+        for a in (data.get('articles') or []):
             d = a.get('seendate', '')
             items.append({'title': a.get('title', ''), 'url': a.get('url', ''), 'source': a.get('domain', 'GDELT'),
                           'published': (dt.datetime.strptime(d, '%Y%m%dT%H%M%SZ').replace(tzinfo=dt.timezone.utc).isoformat() if d else NOW), 'summary': ''})
+    if errors and not items: raise ConnectionError('GDELT: ' + '; '.join(errors)[:150])
+    if errors: health['GDELT partial'] = {'ok': True, 'warnings': '; '.join(errors)[:150], 'at': NOW}
     return items
 
 # ---------- 4. Trade/government RSS feeds + optional Google Alerts feeds ----------

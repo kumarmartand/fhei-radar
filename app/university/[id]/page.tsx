@@ -2,25 +2,28 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import UniTabs, { Fact, Src } from '@/components/UniTabs';
 import { fmtDate, getInstitutions, getNews, getSignals, nz } from '@/lib/data';
-import { GROUPS, LADDER, LADDER_INDEX, groupOf, monoOf } from '@/lib/stages';
+import { CATS, LADDER, LADDER_INDEX } from '@/lib/stages';
+import { buildAtlas } from '@/lib/atlas';
+import Crest from '@/components/Crest';
 
 export function generateStaticParams() { return getInstitutions().institutions.map((i) => ({ id: i.id })); }
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
   const u = getInstitutions().institutions.find((i) => i.id === id);
-  return { title: u ? `${u.name} | FHEI Radar` : 'FHEI Radar' };
+  return { title: u ? `${u.name} | IBC in India` : 'IBC in India' };
 }
 
 export default async function University({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
   const u = getInstitutions().institutions.find((i) => i.id === id);
   if (!u) notFound();
-  const g = GROUPS[groupOf(u.stage)];
+  const a = buildAtlas([u])[0];
+  const g = CATS[a.cat];
   const idx = LADDER_INDEX[u.stage];
   const sig = getSignals()[u.id];
   const news = getNews().items.filter((n) => n.institutions.includes(u.id) && n.confidence !== 'sector').sort((a, b) => (a.published < b.published ? 1 : -1));
   const facts: Fact[] = [
-    { k: 'Home country', v: nz(u.country_or_note) }, { k: 'India location', v: nz(u.india_location) }, { k: 'Launch', v: nz(u.launch) },
+    { k: 'Home country', v: a.country }, { k: 'Home campus', v: `${a.homeCity} (city-level position)` }, { k: 'India location', v: nz(u.india_location) }, { k: 'Launch', v: nz(u.launch) },
     { k: 'First intake', v: nz(u.intake) }, { k: 'Students overall', v: nz(u.students) }, { k: 'Ownership', v: nz(u.ownership) },
   ];
   if (u.partner) facts.push({ k: 'Joint-venture partner', v: u.partner });
@@ -34,14 +37,17 @@ export default async function University({ params }: { params: Promise<{ id: str
   const short = u.name.replace(/^University of /, '').replace(/ University$/, '');
   return (
     <div className="wrap" style={{ paddingTop: 16, paddingBottom: 40 }}>
-      <Link href="/" className="pill back">Back to universities</Link>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, marginTop: 16 }}>
+        <Link href="/" className="pill">Back to the atlas</Link>
+        <Link href={`/?focus=${u.id}`} className="pill gold">Show on the globe</Link>
+      </div>
       <div className="udet">
         <main className="umain">
           <div className="uhead">
-            <div className="crest big" style={{ ['--c' as string]: g.color }}>{monoOf(u.id, u.name)}</div>
+            <div style={{ position: 'relative', width: 128, flex: 'none' }}><Crest logo={a.logo} mono={a.mono} size={128} color={g.color} />{a.flag && <img className="flagb" src={a.flag} alt="" width={44} height={33} style={{ width: 44, height: 33, right: -6, bottom: 2 }} />}</div>
             <div>
               <h1>{u.name}</h1>
-              <p className="muted" style={{ margin: '12px 0 0', fontSize: 18 }}>{nz(u.country_or_note)}. {u.map_city ? `Campus: ${u.map_city}.` : 'No India city published.'}</p>
+              <p className="muted" style={{ margin: '12px 0 0', fontSize: 18 }}>{a.country}. {u.map_city ? `Campus: ${u.map_city}.` : 'No India city published.'}</p>
             </div>
           </div>
           <div className="stats">
@@ -50,7 +56,8 @@ export default async function University({ params }: { params: Promise<{ id: str
             <div className="glass stat"><b>{nz(u.launch)}</b><span>India campus launch</span></div>
           </div>
           <UniTabs name={u.name} facts={facts} progs={progs.length ? progs : ['Not recorded']} leadership={nz(u.leadership)} sources={sources}
-            news={news.slice(0, 30)} />
+            news={news.slice(0, 30)}
+            names={Object.fromEntries(getInstitutions().institutions.map((i) => [i.id, i.name]))} />
         </main>
         <aside className="uside">
           <div className="glass" style={{ padding: 28, ['--c' as string]: g.color }}>

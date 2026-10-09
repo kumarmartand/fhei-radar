@@ -1,7 +1,7 @@
 import NewsFeed from '@/components/NewsFeed';
 import { fmtDate, getInstitutions, getNews } from '@/lib/data';
 
-export const metadata = { title: 'News | FHEI Radar' };
+export const metadata = { title: 'News | IBC in India' };
 export default function NewsPage() {
   const news = getNews();
   const names = Object.fromEntries(getInstitutions().institutions.map((i) => [i.id, i.name]));
