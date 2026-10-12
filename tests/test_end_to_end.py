@@ -17,7 +17,9 @@ def run(ugc_names, news):
     refresh.health.clear(); refresh.main()
 
 def test():
-    tmp = pathlib.Path(tempfile.mkdtemp()); shutil.copytree(ROOT / 'data', tmp / 'data')
+    # Isolated data dir: only the institution list is copied. The live news/changes/signals/health files must never
+    # influence this test (they grow after every real refresh, which previously made the test fail on the second run).
+    tmp = pathlib.Path(tempfile.mkdtemp()); (tmp / 'data').mkdir(); shutil.copy(ROOT / 'data' / 'institutions.json', tmp / 'data' / 'institutions.json')
     refresh.DATA = tmp / 'data'
     n1 = {'title': 'Deakin University adds new programme at GIFT City campus India', 'url': 'u1', 'source': 's', 'published': refresh.NOW, 'summary': ''}
     dup = dict(n1, url='u2')  # same headline, different URL -> must be dropped
