@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-12T06:07:15+00:00",
+ "fetched": "2026-10-12T15:39:19+00:00",
  "items": [
   {
    "title": "Chandigarh University Launches Campus Tank Season 2 with US $15-Million Funding Pool to Help Young Innovators Take Ideas to Market; Accelerate India's Start-up Growth - India's News.Net",
@@ -942,6 +942,24 @@
    "first_seen": "2026-10-09T06:35:19+00:00"
   },
   {
+   "title": "UWA eyes up to 200 students as India campus expansion faces first test - The PIE News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUtRNUI5UzVUQUl6OEhCYm9SclB3d1YxelU0Ry1JdFlhRF9XZkNLTHhIRUVBY2VtQkNoSzlLaWFGeXFva3B1T1lQOEtPU1l4bUVIOFJBbEtIRUdDQkFVSGR2X191anc4Zlc0b0JaeC0yU3dQakZDbngyUS1EenVrZkd3MUlJSFlEY0E2d3p6UzdYV1NtVGlYd2VB?oc=5",
+   "source": "The PIE News",
+   "published": "2026-09-22T14:14:12+00:00",
+   "summary": "UWA eyes up to 200 students as India campus expansion faces first test The PIE News",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-12T15:39:19+00:00"
+  },
+  {
    "title": "University of British Columbia: Campuses, Academics, and Indian Student Life - Shiksha.com",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2cyaWRBV3Z1akF5RzZRbDlfTjRuLURQVDdDMlNXTDNwSjdUQXRXWjRrZjMwN3RSSDdTLXp4OWxGVW9PZ1hkNnZPMVgtb3pFd2ZfSVJud1ZHX1h4UVgwZkltQ0dUS2lpT2JFdTN3N0R0RFV0WkxDVGg0amRIanktUG8wWUFlQmVTZHZvWk5wdHYyQWlGeGxJdXNaV05meEdsRUtuaEMtV2tGTGFRNi1QR1RNa2U4U3h0OGFqVk9iNTl3R1VOcDBweDVaclB6cHJhblRUMVcwX1Y?oc=5",
    "source": "Shiksha.com",
@@ -1126,6 +1144,24 @@
     "General"
    ],
    "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Western Australia opens campus in Mumbai; offers UG, PG courses - Careers360",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb0Q1QXQ5Vl9wcDNkV1B3b3hlV0tSeGVCcFFudzZZUmpHTlctZ1JzV1kzelNPUC1Cd0o3SW1pNlpFZkd3QUQ5WlRLV2pvQl8wdlNieUJFd1V3T1llamVVQ1NOb3hwNnpKVUMtSXhaX0EyZzFQRi1HRDRiWGNlcllBZTB2RTJxQ2RPQTB5MjFfSlpKeExKbnFrRlNtWlREZzd2aE9oSVVqcE5HTDJzakVKZUhEbmw3QWRVaFBLUUhsX3prbk5OVUJPTFMxMGxUQdIB0wFBVV95cUxNMFVDQ2pCQkZHV0N0dUVqNlV0X3ZET0lkVEhUMmhoUFVhZlF2bFBieVB2SmFqVXBBMDZSVW5CWGptR1l5YXF1Y2N3RnAxU2Z3ZkdnSU4xX2cwQjZTLTg0WlpoUmxfTjFSZUJfWDZPYjhnd0x5bTFUWVhVLTY1OTNiTlhIMS13UGFOYmxmMGFUZEptQ2JYYWRmZ1ppRFY0RGNBejJ5Qy1QX1U5enhEY21hRndVWE9GUk52VEc4ZGhUaXZPSzVPeVdVdzdXZlg2ZG1tUzVz?oc=5",
+   "source": "Careers360",
+   "published": "2026-09-18T07:00:00+00:00",
+   "summary": "University of Western Australia opens campus in Mumbai; offers UG, PG courses Careers360",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Programmes"
+   ],
+   "first_seen": "2026-10-12T15:39:19+00:00"
   },
   {
    "title": "Why Bristol chose Mumbai for its first campus outside England - The Financial Express",
