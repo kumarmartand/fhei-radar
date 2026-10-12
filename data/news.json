@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-12T05:34:00+00:00",
+ "fetched": "2026-10-12T06:07:15+00:00",
  "items": [
   {
    "title": "Chandigarh University Launches Campus Tank Season 2 with US $15-Million Funding Pool to Help Young Innovators Take Ideas to Market; Accelerate India's Start-up Growth - India's News.Net",
@@ -720,6 +720,24 @@
    "first_seen": "2026-10-09T06:35:19+00:00"
   },
   {
+   "title": "UWA Chennai gets final UGC approval - News Today",
+   "url": "https://newstodaynet.com/2026/10/06/uwa-chennai-gets-final-ugc-approval/",
+   "source": "newstodaynet.com",
+   "published": "2026-10-06T08:30:00+00:00",
+   "summary": "",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-12T06:07:15+00:00"
+  },
+  {
    "title": "UWA Boarding Pass To Chennai - Future Campus",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tZ05sNi00bUlhMnJlWlUwZWNqcGNaNWhWR2NwY3ZZcWwxSGJLTHVmN19fSU1fZ0RwZWhBZ014WEFGS0cxcW1qQlJlZHFKclkxR3IyS285OE81NDJrVE9ObExidXBaZnhPR0EtLUlXTC11UE1Xel9J?oc=5",
    "source": "Future Campus",
@@ -880,6 +898,20 @@
     "General"
    ],
    "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "How united kingdom campuses are changing opportunities for Indian students , British Council Director Education India explains",
+   "url": "https://www.hindustantimes.com/education/features/how-uk-campuses-are-changing-opportunities-for-indian-students-british-council-director-education-india-explains-101790673692007.html",
+   "source": "hindustantimes.com",
+   "published": "2026-09-29T09:45:00+00:00",
+   "summary": "",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-12T06:07:15+00:00"
   },
   {
    "title": "How UK campuses are changing opportunities for Indian students, British Council Director Education India explains | Hindustan Times - Hindustan Times",
