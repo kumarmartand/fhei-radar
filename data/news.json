@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-13T14:20:28+00:00",
+ "fetched": "2026-10-13T22:52:43+00:00",
  "items": [
   {
    "title": "Chandigarh University Launches Campus Tank Season 2 with US $15-Million Funding Pool to Help Young Innovators Take Ideas to Market; Accelerate India's Start-up Growth - India's News.Net",
@@ -1098,6 +1098,24 @@
     "Launch / first cohort"
    ],
    "first_seen": "2026-10-13T14:20:28+00:00"
+  },
+  {
+   "title": "UWA opens Mumbai Campus; MBA course to commence from November - The Hindu",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXZRQXpfZUY2bnl6cl9pMlh0am5ZQ2JjWjlISm5RTzY0bzl5b1BEZVl4dXQ4VTVBLUNFbV9MUjVlT3VGdDZ0R2FyUVFFNVBjbkdhNHRJS3dNT2h6a0NGRFVpNUdsTW1QV0ZKZWFzWHZWa05WZnZOaTdMV2U0bmNlOVRtVml3VnRxZEJUd3R4NUtoUTZLOENWUUZVd0FhVGRqZ04yZmpVczJMME9lN3RHejVXUGo3QdIBvAFBVV95cUxNcUtUb2c5TmU0UUtxOHZzMTQ1R2V5VjA5bXZUWXhQejh2SGM1ak1HRklSbTE0amwzWTdpXzdjb2Y4N29Ha3RxNnMzNlVZOVR5dkh6MmstX0FaaVRWVjdTdjhNOFNBQ2FOMUVXUnNrM285LURhMERtQ1JlaVFLRkVXMTRRX1liTGhoNktzcEVjNmcybzhsSGNWUDVva1RPM2tOUXBHeGhKYkNWbnZ0VTJKUV96aHEtblhWZjBDcA?oc=5",
+   "source": "The Hindu",
+   "published": "2026-09-19T07:00:00+00:00",
+   "summary": "UWA opens Mumbai Campus; MBA course to commence from November The Hindu",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Programmes"
+   ],
+   "first_seen": "2026-10-13T22:52:43+00:00"
   },
   {
    "title": "Four International Universities Set Up Campuses in Mumbai, Expanding India’s Global Education Landscape - Telegraph India",
