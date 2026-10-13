@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-13T00:48:08+00:00",
+ "fetched": "2026-10-13T14:20:28+00:00",
  "items": [
   {
    "title": "Chandigarh University Launches Campus Tank Season 2 with US $15-Million Funding Pool to Help Young Innovators Take Ideas to Market; Accelerate India's Start-up Growth - India's News.Net",
@@ -346,6 +346,24 @@
    "first_seen": "2026-10-09T06:35:19+00:00"
   },
   {
+   "title": "University of Colorado Denver to setup its first India campus in Hyderabad - Deccan Herald",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkliUDBBY1FSLVVzZ2NGZi1CTFEtRi1tXzQxc3RnT1FqVkU5LWRTQVAwSkpCQVBzYXJVVjVleVdNZTNxb2lzbUpuVXFxam9XTUdMZFNJd1FncDlxMEZyakdMU18xNWUzTlJLWFNXYUIzU1FORGttN0hrblRBaWV3bmVZVVRBMjNHRDdIN0dfSDYxYVlRVS0wSVZkbFJDU1FNaWtPSXpBQkJxZXc5MkEtSEJUZGhYdWNJa2xHcXg5VHBpZ1MtMlE?oc=5",
+   "source": "Deccan Herald",
+   "published": "2026-10-07T14:25:48+00:00",
+   "summary": "University of Colorado Denver to setup its first India campus in Hyderabad Deccan Herald",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-13T14:20:28+00:00"
+  },
+  {
    "title": "CU Denver Hyderabad Campus Gets UGC Letter of Intent - Urban Acres",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONThXZzdhajFWRl9HOVlJaF9pMVRoR2d4T3RMUk44bHVkTTJKUUVSMW9GZTFXZHZqTEMwZEpGUGVFTkg5aWhrWjhaMjB6ZVJCZlVMUWtQVFFSZjF1TzhTTmstSFZuY2w4cjFCX0QwXzhZU05td2cyb1dEeXhaWWxyMkJpU0l0WGhJYk1JYmJVZURHeGc?oc=5",
    "source": "Urban Acres",
@@ -574,6 +592,24 @@
     "General"
    ],
    "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "US' University of Colorado Denver gets UGC nod to set up campus in Hyderabad | Hindustan Times - Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdE5YT2RHV2tvSnNicDFmTzRLWWFTaHF2bFhDb0xONXFEUGI5T0lMZkhlM1I2WGphaDNibzdhQWZvc2haYlRyTlpySU9hY1JPOEVvazlMTlpvalE4YnlnSDlpTVVtR3VrZjZUSncwNjNLMHA0RTZOQWNzSm1uMTBJdktQanpfdkJ4R09tcDlzaEd6SGtXX19hWWozVXA4cDZ0bGVYd2ZVTTctOGd1R2ZLcXV4UWF0SVd3MzFnMnFwdTJmblNVSTNWaHk4aFp0dmvSAdQBQVVfeXFMTTRtemY4d1JPcDVBZkxyd3lMT2N0dERpZWlCTjczV01GUmJPZGNqMjRrRVUyQXNsNW9ibDcwNkhPMDRDOXpZY1M1bGhaVzczTll0eElFam9IWTNMbUd3TzlzaUVDUERuajU0N2p5SlRhWlF5VVJzMmFuZjdHMkJrMTRFaWpnOFdEYnUtLTBYZzVOcGtCa3Blb0IxOEcxU0hmVTdMYmdrT2VYcHZnSVhRaFM5WjNKQUhoRDhPdlphYjAxV3R6d2lmUXZLQWlZdXBldXhlSnc?oc=5",
+   "source": "Hindustan Times",
+   "published": "2026-10-07T08:44:42+00:00",
+   "summary": "US' University of Colorado Denver gets UGC nod to set up campus in Hyderabad | Hindustan Times Hindustan Times",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-13T14:20:28+00:00"
   },
   {
    "title": "UWA gets green light for Chennai as two-campus India bet takes shape",
@@ -1044,6 +1080,24 @@
     "Launch / first cohort"
    ],
    "first_seen": "2026-10-12T05:34:00+00:00"
+  },
+  {
+   "title": "Fadnavis Inaugurates University Of Western Australia’s 1st Indian Campus In Mumbai - Deccan Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ213aFgxZC1sYlZKT3ZfaU1NT3pCS3pJSUtBTHpEeXpJZEkxQlFzdk0tV1dHZTNUeWpRejllODlBbDVBNXpuUjRBNzJwbVI1cUtVR0I2Qmk3RzNiQndOVF96QTRMUG50N0ZFLWxpQWgwX2FfaDFvQ0t3Rko5SHBfaFlYT3lfdHdhQWhUbVZtQVZNU2VSOXY2NFByVm9oTWV6Y05SVERQX0xDRTdFZlNyOVc4TzAzY01tZ0Vzb0NoaTZoSjl5RS1F0gHMAUFVX3lxTE5mWHJQd2s1bXg2X2ZFT1J2VGVmVG9wSjlfYnpmUG8zM0RXLUtwQ0lWbXpVcDRwRnpGY0xYN0pLUmh0S2ZBZHJuNjNnS2xKa29McEo4R2JQMFRSTVBSR1dLVFlNcUU3ZlliUXFkLXkxbnhsLWd1cHgzMmJNbmVRRDZpOXQxWThEaVJueWZ2R0hUdkNIU2FxV2xZcnRDRmhPdEhSc1dKY2pNZmk2S0pvY0NsOFlRMktJOWJQbGQ2cVZ6S0RQanBrcC1sZDJrVA?oc=5",
+   "source": "Deccan Chronicle",
+   "published": "2026-09-19T07:00:00+00:00",
+   "summary": "Fadnavis Inaugurates University Of Western Australia’s 1st Indian Campus In Mumbai Deccan Chronicle",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Launch / first cohort"
+   ],
+   "first_seen": "2026-10-13T14:20:28+00:00"
   },
   {
    "title": "Four International Universities Set Up Campuses in Mumbai, Expanding India’s Global Education Landscape - Telegraph India",
