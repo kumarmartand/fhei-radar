@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-14T17:18:45+00:00",
+ "fetched": "2026-10-14T21:46:54+00:00",
  "items": [
   {
    "title": "Slow start: foreign university campuses in India yet to see full intake - The Hindu",
@@ -444,6 +444,24 @@
     "Letter of Intent"
    ],
    "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver To Set Up First US Public University Campus In Hyderabad - News Mobile",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGxweG9hbkdNQlI3SlJoME9URDNwLUhyS1lzUDFPQkhyaTQ1aUNrTjZQZ2o5UVZRSnR4TDNtRjdYXzN2RS1GWnZTeGQ0Q0ZjZ2lNMWFqR0cyRDJqdGQ2dDB6eVlVVHExc0tkVVgtV3NRamE2SXhVbEhVMGVHNUd1NG4wc0pqT2lTVWdyWXU3UTdkRUlCSzdoUVBkMF9LMS0xZVBIb1E0Mzd4cVprVWc5RlI2b3lqQ2xsNi1NT1R6NlhON2hT?oc=5",
+   "source": "News Mobile",
+   "published": "2026-10-07T11:08:39+00:00",
+   "summary": "University of Colorado Denver To Set Up First US Public University Campus In Hyderabad News Mobile",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-14T21:46:54+00:00"
   },
   {
    "title": "CU Denver to set up Hyderabad campus, first US public university in India - The Times of India",
@@ -1312,6 +1330,24 @@
     "Programmes"
    ],
    "first_seen": "2026-10-12T15:39:19+00:00"
+  },
+  {
+   "title": "Victoria University Delhi Campus offers India Australian education - Indian Link",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGFNTDZmVHVuT2h1TU9zUmNFcWZPVkFBT25mTktrSExqT1RGLUtFU3FBOTNLWWhhYjE2TjBRR3ZpampHSnpPMGlobjc5ZXBVT25PX1pGY2VDdG5qaVlJcnQzdTVyWGRQTEFhTU5UeTd5R3lUbGFINFpmWDB3azY1Z0RENVRTM0t4QXFhblExTHY2Ml9RTktTUm4wOHhZZw?oc=5",
+   "source": "Indian Link",
+   "published": "2026-09-17T07:00:00+00:00",
+   "summary": "Victoria University Delhi Campus offers India Australian education Indian Link",
+   "institutions": [
+    "victoria-university"
+   ],
+   "matched_in": {
+    "victoria-university": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-14T21:46:54+00:00"
   },
   {
    "title": "Why Bristol chose Mumbai for its first campus outside England - The Financial Express",
