@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-13T22:52:43+00:00",
+ "fetched": "2026-10-14T05:01:18+00:00",
  "items": [
   {
    "title": "Chandigarh University Launches Campus Tank Season 2 with US $15-Million Funding Pool to Help Young Innovators Take Ideas to Market; Accelerate India's Start-up Growth - India's News.Net",
@@ -522,6 +522,24 @@
    "first_seen": "2026-10-09T06:35:19+00:00"
   },
   {
+   "title": "US' University of Colorado Denver gets UGC nod to set up campus in Hyderabad - CNBC TV18",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzBXRzdBYWc5a2FfelVtMmNPU2s2ZWpxbm5VMlFTbWhkdWlIZS1iNG1mSkx4Y3dpRGEtbWJqUDhPZ3VBc2xhSUo1YnZOMXFBWG14R0huRFVLa3Ywend5S0tXYUc1YWR1dHpKWW0tNmlnSVFpcHJpaEpVdENlMkV4NG84eEFEN3RQOE1LVG9wVDVsb1h4bVAtdEQ5WXp0MW81QkJwbVQxMFlWQmhxc3VURmtyM0hFUWk0bDFB0gHAAUFVX3lxTE1RYXlVd2pvTzZoVV9xZkdBN1N2U1c3MjVvZ3pKNGltR1ZDVXBYYmZfd09SSmZUM0tIWWJlZXN3SWpTUUJvUWNRdW1Cd0hBcUdDQ19SdFpDZC04OTVLc252bmZrVnF1MU5TVzFRdW1UVFRLNFBZX3RtUnJJalRZTHBoNVFjdTY5UHFhUk1LQ3QxQTlYanVSMjZ2UDZmVm01c2w5OHRDR0Y1ZWNLc2p0Q19TaUxEd2ZPTFQyX2k0emV5Rg?oc=5",
+   "source": "CNBC TV18",
+   "published": "2026-10-07T09:24:40+00:00",
+   "summary": "US' University of Colorado Denver gets UGC nod to set up campus in Hyderabad CNBC TV18",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-14T05:01:18+00:00"
+  },
+  {
    "title": "UGC Approves University of Colorado Denver Campus in Hyderabad; First US University to Get LOI - Telegraph India",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZWdBMzlPSzdrMDR3M0phU2oxUHUwYkF3NDV0NzBlcUNqWjNmY1RUVEtzUWFYUk5SU3lSbHNoSTlGVEpNaEdnbExZbHA1RllpLTNQS3pqckZkSndlY3NyQVI1NmZIWkdOSWM1QnBDZ2NTa2s3TFJhQkFPMGl6TDZjeUFlOHZ6cXliVG1RY2FiaFdfcDNmeVg2U1NrRjZ6N1ZNeElMOHhiNy0tRHpGeHJtYjEtaHhOWVZfNFRKZW95RlB5U0pPbERYM3dKRzI1ZGVyX0w0THliUk01Z3BqM1pSdGtqVkZLaVBzcmfSAeoBQVVfeXFMTWVnQTM5T0s3azA0dzNKYVNqMVB1MGJBdzQ1dDcwZXFDalozZmNUVFRLc1FhWFJOUlN5UmxzaEk5RlRKTWhHZ2xMWWxwNUZZaS0zUEt6anJGZEp3ZWNzckFSNTZmSFpHTkljNUJwQ2djU2trN0xSYUJBTzBpekw2Y3lBZTh2enF5YlRtUWNhYmhXX3AzZnlYNlNTa0Y2ejdWTXhJTDh4YjctLUR6RnhybWIxLWh4TllWXzRUSmVveUZQeVNKT2xEWDN3SkcyNWRlcl9MNEx5YlJNNWdwajNaUnRralZGS2lQc3Jn?oc=5",
    "source": "Telegraph India",
@@ -876,6 +894,20 @@
     "General"
    ],
    "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Telangana to formulate policy for foreign university campuses in 'Future City' - www.thehawk.in",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObExKUTZ5VmNCRnNWREgyb2pyMzF5TmwySUpuUFlRQjZraDZQbWdpLVotbnFKTkljbmRiNXZ6ZGYySVNIdVppRnRIN3VFREF3MXJxclktczJ2TnFfWWloaVFXOGk0NVNQeVRTV294M1VqNFNuSEVRRmlhandXOHQ5bXVLS1VfWGl6SXdNVmNYVGl6OUdJdWlCSUdEeXhzUGFmVnhDbHozWW94cndoa05z?oc=5",
+   "source": "www.thehawk.in",
+   "published": "2026-10-05T07:00:00+00:00",
+   "summary": "Telangana to formulate policy for foreign university campuses in 'Future City' www.thehawk.in",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-14T05:01:18+00:00"
   },
   {
    "title": "UWA to open a Chennai university as second campus in India - Business News",
