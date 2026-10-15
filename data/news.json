@@ -1,6 +1,42 @@
 {
- "fetched": "2026-10-15T17:07:49+00:00",
+ "fetched": "2026-10-15T21:29:56+00:00",
  "items": [
+  {
+   "title": "University officially opens its Bengaluru campus - University of Liverpool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeE1QTU5fby1VZmxlNzE2blh4RFFIVnJCam5SNzVzVmllSTBXOGtManNKbm5SVlhDQldCOXpVMDlUVXRBV3ZKQVI5V21iVzdqVFhxekxrRVJEdFdfUjI3UzJrNDl5OUNkdWZBbDZUYUE4SE9ERXdhNktsVzFHRTJGTUdXWGRFSWl4LTF4SmYtWmVSaHNmYldZYQ?oc=5",
+   "source": "University of Liverpool",
+   "published": "2026-10-15T16:28:10+00:00",
+   "summary": "University officially opens its Bengaluru campus University of Liverpool",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Launch / first cohort"
+   ],
+   "first_seen": "2026-10-15T21:29:56+00:00"
+  },
+  {
+   "title": "University of Liverpool’s Bengaluru campus enrols nearly 300 students in first cohort - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaW83OGpUVy1FRXJIa2JyTlZWemVKV1cwSzN3Q0xaTlpIWGRwYW8xVDYwaWk2NXBpNGhlcVhfX1pPNXJ4NXMxeG9sR0F2OFlyaUJ0eXpHbjhwX2FLNE0tUUZoeDIyRV9lTnM5a1pVc2dSXzVaeThTelFDQXJTbW5uZFlqamljQTR4OFhXdE1IazJjWS1XcHJLeUxzU1JZaWFsMEpjaVEybnRjY0lfcHZ3Z1BMWFVOYzhHeER1OUNaLWZEX01ycUduc3VCX0ctSTY4WG9zNENmYXlUUQ?oc=5",
+   "source": "TradingView",
+   "published": "2026-10-15T16:15:17+00:00",
+   "summary": "University of Liverpool’s Bengaluru campus enrols nearly 300 students in first cohort TradingView",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Launch / first cohort"
+   ],
+   "first_seen": "2026-10-15T21:29:56+00:00"
+  },
   {
    "title": "Bengaluru gets University of Liverpool campus with 8 courses - Deccan Herald",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdGNCR2w4QmxLYjYwVzlPYS1FdjFqODdYcW1va1loTTVISGt2UGU2YnBxY21zU0ZzMGhxV2lFUF9HdkdfTkplYVY5eGtrdU40eTNzeWNRQng4RVJvcmV4YWFNRWZrRV9xSWpfNTNuZzNVa1ZuekpmRG1mQnBfS2hrX0liQ2FYR0ZzX1FmUHo4VTltVU02WFA0OFRfcXkzQmpLeElaeWV3X3JMTDVYYVlPdmVtdF84ZW9pM2ZxdjkxLUc?oc=5",
@@ -1284,6 +1320,24 @@
     "Programmes"
    ],
    "first_seen": "2026-10-13T22:52:43+00:00"
+  },
+  {
+   "title": "UWA opens first Indian campus in Mumbai - The Indian Sun",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSG5xa3BHS3lTeXlvVHhqNzNwakt0aWJZWHNSMHZRZVhqRC1oWTFRb3NUdUNVMlNDOVYzMnhQb2xobF9sSy1Fa3YyMFNYUjdUREFvZEtyZGx4T2YwX01fR3lpbHh3ZnZpQUlqVURaSC1uT2ctVDRaS3FnYl9ZUFdyM3VOUXFmdzBYUmxn?oc=5",
+   "source": "The Indian Sun",
+   "published": "2026-09-19T07:00:00+00:00",
+   "summary": "UWA opens first Indian campus in Mumbai The Indian Sun",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-15T21:29:56+00:00"
   },
   {
    "title": "Four International Universities Set Up Campuses in Mumbai, Expanding India’s Global Education Landscape - Telegraph India",
