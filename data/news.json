@@ -1,6 +1,78 @@
 {
- "fetched": "2026-10-15T11:39:21+00:00",
+ "fetched": "2026-10-15T17:07:49+00:00",
  "items": [
+  {
+   "title": "Bengaluru gets University of Liverpool campus with 8 courses - Deccan Herald",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdGNCR2w4QmxLYjYwVzlPYS1FdjFqODdYcW1va1loTTVISGt2UGU2YnBxY21zU0ZzMGhxV2lFUF9HdkdfTkplYVY5eGtrdU40eTNzeWNRQng4RVJvcmV4YWFNRWZrRV9xSWpfNTNuZzNVa1ZuekpmRG1mQnBfS2hrX0liQ2FYR0ZzX1FmUHo4VTltVU02WFA0OFRfcXkzQmpLeElaeWV3X3JMTDVYYVlPdmVtdF84ZW9pM2ZxdjkxLUc?oc=5",
+   "source": "Deccan Herald",
+   "published": "2026-10-15T16:14:18+00:00",
+   "summary": "Bengaluru gets University of Liverpool campus with 8 courses Deccan Herald",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Programmes"
+   ],
+   "first_seen": "2026-10-15T17:07:49+00:00"
+  },
+  {
+   "title": "University of Liverpool opens Bengaluru campus with nearly 300 students - Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOTl0TGViZVJUdnk0UWRCMDhuQlFtVUNJOGFHYkxaN3hNd1hEME5Tc2Z5eFJicmdmdzN0SjFCbnhXU1ZvR3JQR3gwZnUyWHM2ZDlsbHVRNXY3cmVCblZSb283aUNySHJ3QW1mdTlud241WWlWY3B3XzlKYm9ybjhZUXpDRVhjYWZURGx4aDc3Y3dITXZlanZtbUFNSm9CSXV2NFB6eDdIR3BXc2ZSTUsyWF9COUtmNFdFQTNUUldkbFZILVRRVmFUNlVpNjnSAcwBQVVfeXFMTjk5dExlYmVSVHZ5NFFkQjA4bkJRbVVDSThhR2JMWjd4TXdYRDBOU3NmeXhSYnJnZnczdEoxQm54V1NWb0dyUEd4MGZ1MlhzNmQ5bGx1UTV2N3JlQm5WUm9vN2lDckhyd0FtZnU5bnduNVlpVmNwd185SmJvcm44WVF6Q0VYY2FmVERseGg3N2N3SE12ZWp2bW1BTUpvQkl1djRQeng3SEdwV3NmUk1LMlhfQjlLZjRXRUEzVFJXZGxWSC1UUVZhVDZVaTY5?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-10-15T15:19:34+00:00",
+   "summary": "University of Liverpool opens Bengaluru campus with nearly 300 students Moneycontrol.com",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-15T17:07:49+00:00"
+  },
+  {
+   "title": "University of Liverpool targets 10,000 students at Bengaluru campus by 2036 - Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNanFFQWE5Y093ZzZPaHh0ODlHRzR5M0haQnNQVmV3eEczRlllazlwNVowTUNUaE9VVWdqNmJnZUR6dDdCTnczRlJvby1oYWhaejVNVXNoanNhVmxoaXV6WlFEZkhzYmJMUkRSNlJrX1FlT2F5TjVLVDd6LTIzSXE2ZmxjSFZmY0VOREkyNlJpVmo1dm1JSkFQbnpxU2ZlWU1yY19scTg3MGo5d0VWc1Bfd0kzSFVvdjFyN1dITkNGQXNmMXh4TmNFMGlKQXN4b3FSWWFNWWdtZll5NzhR0gHiAUFVX3lxTE10MzkzaXNOY0JwajZXNjZGclliTGpidlY4VU9Rc0xKenItMFdpbjNBUnZjYWxocXhfNmUyQnBGc2ZnMEh5QTNNcEZVMHNYRTBIb3I0aE5zZTJUSGQ0VE05cV90SE5FVmFMTkZhSjRzMzRxek1za2YtenhVemNIbUhOT0M0WTBRTk91WVk1MEZiQThUc05IRGFZUmM1UUU2dVdocTJEd3E0NXQ1Ni1IVFNwU09OcGs2N3VGVzNBU2ttUktZV3NaV09TYndHR0hfOWlfa0RxSHVweXNVcURKd1dSVnc?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-15T15:10:49+00:00",
+   "summary": "University of Liverpool targets 10,000 students at Bengaluru campus by 2036 Business Standard",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-15T17:07:49+00:00"
+  },
+  {
+   "title": "University of Liverpool opens campus in Bengaluru; 300 students enrolled - The Hindu",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLU9rNzJPSVk3WkR5WmRlbC1kNmN5S3ZmeWdtZ1FDRHNmQnBjd3puYVQ4WS1UR3pBVk1SZ2piVlZVWDdWLXVhYTZ5MExGUUJGQVdBTDJmcmZDTHJuajBydGFpOWRsSFN4NERnUVJzYVktSXZDWEM5akpCMlRrVVJjaU9hRU1HLThZRWdQTlR0ZjhMRkRoYVYwT3k4aEM0WnR2dHlzWjNSa1V5ZGNlc051SGFGRWtTZm1fdExkWDZiSlFpRFp4eXo0TmNSbjRKOERXajBNTnBtSElYdXlUN1HSAd4BQVVfeXFMTS1PazcyT0lZN1pEeVpkZWwtZDZjeUt2ZnlnbWdRQ0RzZkJwY3d6bmFUOFktVEd6QVZNUmdqYlZWVVg3Vi11YWE2eTBMRlFCRkFXQUwyZnJmQ0xybmowcnRhaTlkbEhTeDREZ1FSc2FZLUl2Q1hDOWpKQjJUa1VSY2lPYUVNRy04WUVnUE5UdGY4TEZEaGFWME95OGhDNFp0dnR5c1ozUmtVeWRjZXNOdUhhRkVrU2ZtX3RMZFg2YkpRaURaeHl6NE5jUm40SjhEV2owTU5wbUhJWHV5VDdR?oc=5",
+   "source": "The Hindu",
+   "published": "2026-10-15T14:42:05+00:00",
+   "summary": "University of Liverpool opens campus in Bengaluru; 300 students enrolled The Hindu",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-15T17:07:49+00:00"
+  },
   {
    "title": "Slow start: foreign university campuses in India yet to see full intake - The Hindu",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbGJRclBrX3RqQkJXSV9JZEpEMlZLbXpFVWxqa0VnZ1ZJTDVfNmNQVkJ0eXU1c1dGX2dOMkNET1dob3lkR1c2TDE5QWFvSHRxbkdhTk8zY2lQYlVBWERwZ2RXb2FOWU5aLVdXWDBtWXZkYm41NzZEX09ZMVlXOVpEQjhXajlQZ2JDck5qZGJ0TndWUGViMklZTTk2eGNxUUFzRC1HejBncURUSkk4Q3lEdUFXOHR6LTA1aWJKcTI3WFFmd1nSAcoBQVVfeXFMTjJPNUZHSHpfMHFudmxCcUV5NVhkcGRlcmtrME83OXotM1p1RF82RGtpU2VwVC1vWVljbThfU3BhZkVWdGhNNDI4UnRTcUdmQVAteWpzZnJ0Mm5uSVYySU5SMFZJdXBDaWRmT3FGWC12WHhrRXBSY29aRS1GaHFXSVRLR0FSSlYzdTM2MHBaUUZaUmh5WnN3UzN0YnRYZHZrWXJjbTZqZUo3UU4zZk5UejVFd0ZVRzBMREVJN2xpbS1GQ05sd3UxQzNDdw?oc=5",
@@ -1330,6 +1402,20 @@
     "Programmes"
    ],
    "first_seen": "2026-10-12T15:39:19+00:00"
+  },
+  {
+   "title": "Why Should Indian Students Choose Anglia Ruskin University: Benefits, Campuses & Student Life - Shiksha",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRExUdjJQODhKZjVxRTFGNDRsUGlXWXVJeUhLMTNhcTRmcm5DVjdIeHc1QzJFOHU1SmdjUjVJeWJBYV9PS1R3ZVdQa1pZWlcxWlVlRjJFcmZiS2Mta2xGSmQzTVZFelRkRUMzY1V3Tjc0bWpqSUVjLVE2NFdhb3VMNXVqb2JXMVl3bnVyWW9QWXZYVTd4VElqLUphZHFxaUl4R29aM2RhVnVxcXFUSnR2azBIVDY3OGk4cTl0Tk5ZRWRCdkd0Y3l0SWZGNk9BYjVvS05tRFNUZ0dsZHVk?oc=5",
+   "source": "Shiksha",
+   "published": "2026-09-18T07:00:00+00:00",
+   "summary": "Why Should Indian Students Choose Anglia Ruskin University: Benefits, Campuses & Student Life Shiksha",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-15T17:07:49+00:00"
   },
   {
    "title": "Victoria University Delhi Campus offers India Australian education - Indian Link",
