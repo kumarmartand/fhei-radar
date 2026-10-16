@@ -1,6 +1,24 @@
 {
- "fetched": "2026-10-15T21:29:56+00:00",
+ "fetched": "2026-10-16T04:40:01+00:00",
  "items": [
+  {
+   "title": "University of Liverpool opens first South India campus in Bengaluru - India Today",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUTdGOGxFVE9wdU5TQ0xGWmUxZzBSV192MnRJZDJkUWNSc1FSc3JLNnQ5QTZJNmxYSFBPSWZwanQwOVh2amZ1RWlIbHNuelRObWdPaXZQSE1uNVZEMGQ5QmlvSkVpNkEwakVrdzFQMW5Iak1rbEJFZmEtWHF4aThmOWdoOXBJeDBMU05ldS1xMVdYejVWRlNfVld2R3hWNW1GbXh5UDJyM3Y3S2p5ZmlZc0xCd1MwSHFBX1JIdm5COVF4Q1FUT256TW5CVVpkMDNZVUdTa1d3NFFubDNLV0oxUkptZWlGYlHSAewBQVVfeXFMT0tSbWg4eWZvSTJCRUhLRS1WQWdRWkVtX00wUEZ2N0ZUUzJ5dUFjN3JqczRfTnF5TjE5UkNOVzhjTGNtRS1rV2JVTWhvRUlHMXdsRUJtNEl5Tnloa0FmNzIxQmZTemlBODlMdjEtR21TaWNsSWVtWlNvR09jbGw2RFg2NjVGbnpmUllabnBWdHRHTnlfWGZHMUNhZ3ZDQ1pIYWxleUF2UEgxcnUyb2JuNXQ1NVZXb09oUjhPNEEzN3NfUjE0TzlQRGFuUGtqWVJpWkxtclMzd2l4VGhxOUh0S3JyNXRaLS04MDA5MHY?oc=5",
+   "source": "India Today",
+   "published": "2026-10-16T03:58:49+00:00",
+   "summary": "University of Liverpool opens first South India campus in Bengaluru India Today",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-16T04:40:01+00:00"
+  },
   {
    "title": "University officially opens its Bengaluru campus - University of Liverpool",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeE1QTU5fby1VZmxlNzE2blh4RFFIVnJCam5SNzVzVmllSTBXOGtManNKbm5SVlhDQldCOXpVMDlUVXRBV3ZKQVI5V21iVzdqVFhxekxrRVJEdFdfUjI3UzJrNDl5OUNkdWZBbDZUYUE4SE9ERXdhNktsVzFHRTJGTUdXWGRFSWl4LTF4SmYtWmVSaHNmYldZYQ?oc=5",
@@ -1230,6 +1248,24 @@
     "General"
    ],
    "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "Deakin University GIFT City Campus Launches Master of Applied Artificial Intelligence (Professional) for Indian students - Press Trust of India",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUk82VDdoX19zMWZhQjZNT2g4Z1BOX3BLQW9pV3BxalBISEQ4ZXpLUEJKcVBpUEMtaGlMdkg2cWc0Yy1KZ1R5ZEpQbkhka3BEUW5BTkZEUjdCZkRNX3dTWmc2eTEzdGpsTWNvUWJhUFFYM0hpYVI5ek1VVEFEUkRjc3k4aE55TmcxTXFMLVVDQTdBSzdMaHhGc1AzWldjWC1ZQUdGb3NTaENoV1NBTHBqWUI0azllRW5ldHNRNjVyQzNVMjBocHVxVVdpY1hHaGk3M2QxWHJxUC10WkxieWE2VkNOZDFqZzFSRWNoQ3l1bmZ4Q1hKbi00?oc=5",
+   "source": "Press Trust of India",
+   "published": "2026-09-21T07:00:00+00:00",
+   "summary": "Deakin University GIFT City Campus Launches Master of Applied Artificial Intelligence (Professional) for Indian students Press Trust of India",
+   "institutions": [
+    "deakin-university"
+   ],
+   "matched_in": {
+    "deakin-university": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-16T04:40:01+00:00"
   },
   {
    "title": "UWA Mumbai Campus Boosts WA-India Ties - Mirage News",
