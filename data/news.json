@@ -1,6 +1,56 @@
 {
- "fetched": "2026-10-16T11:33:15+00:00",
+ "fetched": "2026-10-16T16:45:16+00:00",
  "items": [
+  {
+   "title": "Liverpool opens Bengaluru campus with nearly 300 students",
+   "url": "https://thepienews.com/liverpool-opens-bengaluru-campus-with-nearly-300-students/",
+   "source": "The PIE News",
+   "published": "2026-10-16T15:04:02+00:00",
+   "summary": "The University of Liverpool has officially opened its Bengaluru campus, welcoming nearly 300 students and becoming the first Russell Group university to establish a campus in Karnataka. The post Liverpool opens Bengaluru campus with nearly 300 students appeared first on The PIE News .",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "summary"
+   },
+   "confidence": "medium",
+   "events": [
+    "Launch / first cohort"
+   ],
+   "first_seen": "2026-10-16T16:45:16+00:00"
+  },
+  {
+   "title": "University of Manchester plans Bengaluru centre in India push",
+   "url": "https://thepienews.com/university-of-manchester-plans-bengaluru-centre-in-india-push/",
+   "source": "The PIE News",
+   "published": "2026-10-16T14:22:14+00:00",
+   "summary": "The proposed centre will focus on industry-linked learning and research collaboration, adding to a growing UK presence spanning campuses and partnership hubs. The post University of Manchester plans Bengaluru centre in India push appeared first on The PIE News .",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-16T16:45:16+00:00"
+  },
+  {
+   "title": "University of Liverpool Opens First South India Campus in Bengaluru with Inaugural Cohort of 300 Students - Telugu Times",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVjY3blB6eThwSFpXU1pZSE53OUlCNjNUWndUeWVGazR4WkZYWktZYUlUQTJzOXo4RWRsUUNIV0VqWmJ6T1lDZGt5WUZDbjNweTRmWUlGenc0TEQtOVg1d2lYVDFpZlppanRNQWwyUjk3b0RvTmh0YzhldVRxRE4yOHJCUEtnNW5COVplWDVrQ3U3VVhobDNIRFlhZHZZRTA5alVIS1NvMzJIVUYwTGdZNHVUZWZWbS05bXBkNnVZdUphcXJMbGc5S0hPNDU0ejM5LWdMWWZPYzliQmg0bHV0VnNzc09TNHRWN1E?oc=5",
+   "source": "Telugu Times",
+   "published": "2026-10-16T13:09:18+00:00",
+   "summary": "University of Liverpool Opens First South India Campus in Bengaluru with Inaugural Cohort of 300 Students Telugu Times",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-16T16:45:16+00:00"
+  },
   {
    "title": "Liverpool’s mayor opens Bengaluru campus",
    "url": "https://thepienews.com/liverpools-mayor-opens-bengaluru-campus/",
