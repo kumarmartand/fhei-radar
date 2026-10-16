@@ -1,6 +1,20 @@
 {
- "fetched": "2026-10-16T16:45:16+00:00",
+ "fetched": "2026-10-16T21:19:03+00:00",
  "items": [
+  {
+   "title": "Liverpool opens Bengaluru campus with nearly 300 students - The PIE News",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQODY5WEdGRS1RM1RGRzd1UFNtenhJQV9NSF94anRwVHRueHhvT1pVZkc2QTNvWnAtS0JmYjJiMUwzNWh3ajBfTklNLXhER3B6WS1ZMnYwUzBNRkpzUDRLYkV5VF9DSzlVVTNCMmY4V0x4NzQ1OHBOQlJubGszd2E5SnJ5RUZtWFpX?oc=5",
+   "source": "The PIE News",
+   "published": "2026-10-16T17:32:05+00:00",
+   "summary": "Liverpool opens Bengaluru campus with nearly 300 students The PIE News",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-16T21:19:03+00:00"
+  },
   {
    "title": "Liverpool opens Bengaluru campus with nearly 300 students",
    "url": "https://thepienews.com/liverpool-opens-bengaluru-campus-with-nearly-300-students/",
@@ -498,6 +512,24 @@
     "Launch / first cohort"
    ],
    "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "CU Denver Hyderabad Campus Gets UGC Nod, Opens in 2027 - Urban Acres",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb21SNUdZOS1mZ19zMFVBR1ZhYXJ2R0pvU3ZsVFdWc1loQ1A1ZWV2NUNCZE5EXzlLQUt4a3R4YURwdkxPc3VnT0ZQTGdQaEREZXVtYkFBRHFjOHl3RDZxWmhzMXNNemZnSjg5dnNXNlZ1MWRFXzRFN2JrZXU1NmxhYjJB?oc=5",
+   "source": "Urban Acres",
+   "published": "2026-10-07T16:47:04+00:00",
+   "summary": "CU Denver Hyderabad Campus Gets UGC Nod, Opens in 2027 Urban Acres",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-16T21:19:03+00:00"
   },
   {
    "title": "Lighthouse Learning partners with Clifton College to establish first India campus - Careers360",
