@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-17T15:41:53+00:00",
+ "fetched": "2026-10-17T20:41:56+00:00",
  "items": [
   {
    "title": "Liverpool opens Bengaluru campus with nearly 300 students - The PIE News",
@@ -744,6 +744,24 @@
    "first_seen": "2026-10-09T06:35:19+00:00"
   },
   {
+   "title": "American University of Colorado Denver to open its campus in Hyderabad - News On AIR",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDYxU0JSWFh4RTk0Nko2X1dMUmYtTTV0RmJUSEpxS0kyNnBkcGk0SXoxUWZ3NGJicV9acERjNEIyTVZTRm55aEZvcjZTQ2VCaHdBSnhtSDFEOHVXMnl6MEVkb0o3MTBwcFJZVjA3ejBIVnc1UXFWR2xMek9Ha05QQ2h4S1hSRXFPeUgyR1dMZkJoQnNIcXRaUmlsS0E?oc=5",
+   "source": "News On AIR",
+   "published": "2026-10-07T10:01:00+00:00",
+   "summary": "American University of Colorado Denver to open its campus in Hyderabad News On AIR",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-17T20:41:56+00:00"
+  },
+  {
    "title": "India to soon get first US public university campus in Hyderabad, receives UGC nod - India Today",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWXc3VHZQOGI2Z1ZzNTg5NzVUbFNtQm5sM2JRU1BiRnExMTI1Y0ZjRDlrUHEyRW5yTUFtSFdIQ3lJX2NISnUzMlVNY2FEcWIxaVhBNFFnNFRKLWctNVZ2ZnAyTnpLZlZ4VTFuekpXXy1wa0hReXFlVE16d0tGMV9sRVBQdXlmS3JQUHc3Ym1UYjhqdk9WRWhRY1QyX2p2QWJYZ2sxNWktcGlra0hKakh2czdGdnVDdE9wV0ZQMTg1MXVNRWw2UFgybFFGcUxqTUxTalNVRTlzZTRnVXhaU2t4MGZfeURoSFBkMDlabk52RWd4YW_SAfgBQVVfeXFMTmg5U2k4ZXVXcDY1RmdQc0ZwZlI0eFFmU1N0Z2V4aXk2SFRMckdGN3FmZ2w1d0NzdlhCT1NBcFVFVmp4WTFUckEtaGJ0ckpxYzlmYUlmTV9ONlM2d1ltVm4wVVJmYW1VSnE4YTl3M3hORkVRLXNYZ2o3c1pfU1FTdDVTYlN6QWhCRE1uZ2pQcGlXX19vZUsya1ZqVDJaWFdxc2dsRjAxdW9QVVpGLTlza0VheGxCNlN3MFM2dFV4Vld2ekhoeFBJQkRDS2FydC1JQWVyMDhSR3B0TzBhUDhsOFZTZE9XSkdWaXlNZkpiZGZaU0VYdjllakU?oc=5",
    "source": "India Today",
@@ -1026,6 +1044,24 @@
     "General"
    ],
    "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University of Colorado Denver to set up campus in Hyderabad, first US public university to do so - Deccan Herald",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGpBNHhpdkpuV29wSmxDc3BIc3hVZzFrVXBxWHE3akUwTXFkZWc4RXFnd1ZzUTYwTjI2bkpfV3E5NkYxVFBuZFhhZzJmWlR1b1ZEc0tMcEE3eU9NLXZlR0VXcmQ1T0VySTVPNHh5OVBfMlRHZXNxanIxRnJoZkNubDBCZWJYOTZCOWZBemlZeG5rT0VyMVRNM2hXNloyMDd0V3VENkxLTFpmWkFIaWJFMkJYUXlzNEJXQ0oyT2JkbmIzRExXTDN4ajdhcC1CMnFtN0Jhd040dW9CQQ?oc=5",
+   "source": "Deccan Herald",
+   "published": "2026-10-07T07:00:00+00:00",
+   "summary": "University of Colorado Denver to set up campus in Hyderabad, first US public university to do so Deccan Herald",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-17T20:41:56+00:00"
   },
   {
    "title": "University of Colorado Denver To Set Up Campus In India, 'First US Public University' To Do So - News18",
@@ -1402,6 +1438,24 @@
     "General"
    ],
    "first_seen": "2026-10-16T04:40:01+00:00"
+  },
+  {
+   "title": "Deakin University GIFT City Campus Launches Master of Applied Artificial Intelligence (Professional) for Indian students - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHVfMDR6enZVaFd5TmFuc2hwdnBDQWtOVVJkZ2F4UFdLbEhCZG42UXlvQnE3X1picXFUNWVZc2dZMlU0UjJhR29rZWIyQXBkQjF4enBab25mZzJNNXpVOU1iTXhuMVRpZGNGQklla2pHcHRwZGwyWE1oTG8zSmVndEM2d1QzaUk2RkVINzJKSWFxbExLM3dMZ2NTMzNwemc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-09-21T07:00:00+00:00",
+   "summary": "Deakin University GIFT City Campus Launches Master of Applied Artificial Intelligence (Professional) for Indian students Yahoo Finance",
+   "institutions": [
+    "deakin-university"
+   ],
+   "matched_in": {
+    "deakin-university": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-17T20:41:56+00:00"
   },
   {
    "title": "UWA Mumbai Campus Boosts WA-India Ties - Mirage News",
