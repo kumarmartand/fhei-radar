@@ -1,6 +1,24 @@
 {
- "fetched": "2026-10-18T15:56:41+00:00",
+ "fetched": "2026-10-18T20:51:45+00:00",
  "items": [
+  {
+   "title": "UP minister Yogendra Upadhyaya welcomes Western Sydney University campus proposal in Greater Noida - ET Government",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNX3BONzYtSEdYcHdqZm5FckphTU9CTkszeTk0dzFyeFBWZXJjTFhXYjJvQm1UYXlxMWpHUWdrSWJrVndIeDhXaTRVOXBBVzlPNjcyN3ZQcmRScEoyUmNXY1hra1dfMDM0d1JWWkExTGFTRmRQejBHZk85UkhuTmM4TWQ0cjZ4aU52UlVBeEg1NHdSc1hKeVlPNTBfQVR1U2tmMTBvZmFlXzBZNDQzS19NV1JMcmNNeXpMa2xiVDJyRHIwcWNOd3VQRjlseWw2ejhQcTYwRG9OVlNwcWFvVnpWNGhsdmkyendUT0FMN25yanZGNF9iRmV3dHZMSnY4c1Rkc2NYVjhiRzhmZ9IBhAJBVV95cUxONnp6Sl9heW5FZ3Y2WjVFajc2eGJ2cWlzaHF5c0d6UTJFMVBLOUpGakptOHBVMG43cVhJMkc2TjVVY19reDF3WnQ3a015c3ZhYU13QjBBLWw1akxVbkVHc3dXM0wzNFRodGZwODd0bDJYYjJqQmdUY25GbFJnUVYwNVROWDIwWXVLaXZLRHg1LVZZUG5lMVRxbTZ2WXF5cllrYUFRX1dtc0JYUzJJM0EyYkp4VlU3LURJblFwcEhYeTJNaGJhN1ZSWVptWndyaURjYW1veTI1N3d0dEJhdFYxUVpOVXJPQkR6OUx2NGlVYXVLOE13N0ZnbUtVVmN0QkVLTmVScw?oc=5",
+   "source": "ET Government",
+   "published": "2026-10-18T13:17:43+00:00",
+   "summary": "UP minister Yogendra Upadhyaya welcomes Western Sydney University campus proposal in Greater Noida ET Government",
+   "institutions": [
+    "western-sydney-university"
+   ],
+   "matched_in": {
+    "western-sydney-university": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-18T20:51:45+00:00"
+  },
   {
    "title": "Liverpool opens Bengaluru campus with nearly 300 students - The PIE News",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQODY5WEdGRS1RM1RGRzd1UFNtenhJQV9NSF94anRwVHRueHhvT1pVZkc2QTNvWnAtS0JmYjJiMUwzNWh3ajBfTklNLXhER3B6WS1ZMnYwUzBNRkpzUDRLYkV5VF9DSzlVVTNCMmY4V0x4NzQ1OHBOQlJubGszd2E5SnJ5RUZtWFpX?oc=5",
@@ -82,6 +100,24 @@
     "General"
    ],
    "first_seen": "2026-10-16T11:33:15+00:00"
+  },
+  {
+   "title": "University of Liverpool opens its Bengaluru campus, welcoming inaugural cohort of almost 300 students - Passionate In Marketing",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQUo3ZE13ZVl2Zk03Qy1DLWJ0ZlUxS2hjZmw4Wk41bTFGNDVMTkpJLUM0ZFVfRFhrR0hHZTREZ2szYm4tRXRDNkszd1kxeEVrakk4ZFFZa1NjOGgxQmJGa1ZLWkl5YkVESkVOS2FiM000ZV92ZEdXaXl5Y3U1RnowNmJnNElkUXN5X091OEZFWEI2c0tjZzZQU0U0aUlaeUhVZDRXd080czFiTDM5dFJvWnJKV09GRkd2TE5hTHZBT3JhdVlpRkxFR0JtSC1EZU5jNnROTm53?oc=5",
+   "source": "Passionate In Marketing",
+   "published": "2026-10-16T05:04:53+00:00",
+   "summary": "University of Liverpool opens its Bengaluru campus, welcoming inaugural cohort of almost 300 students Passionate In Marketing",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Launch / first cohort"
+   ],
+   "first_seen": "2026-10-18T20:51:45+00:00"
   },
   {
    "title": "University Of Liverpool Opens India Campus In Bengaluru, Offers Eight Programmes - News18",
