@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-18T20:51:45+00:00",
+ "fetched": "2026-10-19T04:50:53+00:00",
  "items": [
   {
    "title": "UP minister Yogendra Upadhyaya welcomes Western Sydney University campus proposal in Greater Noida - ET Government",
@@ -290,6 +290,24 @@
     "General"
    ],
    "first_seen": "2026-10-12T05:34:00+00:00"
+  },
+  {
+   "title": "University of Colorado Denver to Establish First India Campus in Hyderabad - New India Abroad",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3VoY1p2SGo2X2RON0FkTXhGVjlObVR1S0IzaFB4MmstS1BYY21INDY4SFlicmx3ek5kOGgwRUx3OFpuRzgwaUU0N2QtWlVoYU96ZThYTDdDUW93YS1DR3BJeWI0LVFKY3FCNWZFYVFYWmpmMVVoNm1nbHJFbl8zVzhtZzJvWlRZNzhtV0dGNzNCOE1ZcGVNcWZkYWlHdi1ZTlp6LVVkbUcxSVB3NVF1TEVZeE5Kc1F6Ync?oc=5",
+   "source": "New India Abroad",
+   "published": "2026-10-10T18:55:28+00:00",
+   "summary": "University of Colorado Denver to Establish First India Campus in Hyderabad New India Abroad",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-19T04:50:53+00:00"
   },
   {
    "title": "GRSE Launches Third Next Generation Offshore Patrol Vessel ‘Shreyas’ for Indian Navy in Less Than Five Months - Indianmasterminds",
