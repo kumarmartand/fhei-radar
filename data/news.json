@@ -1,6 +1,20 @@
 {
- "fetched": "2026-10-19T22:26:32+00:00",
+ "fetched": "2026-10-20T04:59:16+00:00",
  "items": [
+  {
+   "title": "CM Revanth Reddy lays foundation for Rs 200 crore NIUM campus - The New Indian Express",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbXNMTjBLODR4aDN6NDFaZjU5Z3dOMGJ0NEZHV0U1SjJmYmM2ZXRsZjI2YWFpNnBtQzV6d0ktTDNUN0JNenF6aGNDZDZKeXJfVkhlbzZ3eHdwYS1WZHNndlR0dVlyRHdvejRJQ0REVFZyeVdpekIxWlpFTnlnaVBlSWd5c1Rrbm9sT0xRdjlINy1jdHlnWTRhQkl2Qm9WOTNWUWF2YU1tRk9NNTBJVTZMVHJvbkt5dXVWZ1JTS0d0OUFGTUlTbW1SemhLa3RNc25QYmJ3czdRNFpRei1pQnlMU2tzaFZ0Rzc5ZUo3N19INF9SaGlRMm5RNldqb1lDUdIBzgFBVV95cUxNOE0xcFJTV2VySFo5aHNCREVId21YUzZWbC0tZzBDMkkwdnRneVVEbVJIUlBScmFOeXI4cXAxSlFTbXh4MFNXeU5IaGpLUV9ENXFHZTVlbTN2SVpvYjZkdkJrWGRkbk1SbXZBWGVjYmp4WTVUT2R0STB2cGRUZmFvelA0UFJtVXNIcEppSlhlOTlQbE0tWHpHMlFYMWM5aUNPbHVNX2VvMWxLMjJtWlN6aHF4bVI5RnFGNXdjQk1ad3hSdEVIMnEtM0F4Z2ZhQQ?oc=5",
+   "source": "The New Indian Express",
+   "published": "2026-10-20T03:02:12+00:00",
+   "summary": "CM Revanth Reddy lays foundation for Rs 200 crore NIUM campus The New Indian Express",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-20T04:59:16+00:00"
+  },
   {
    "title": "Telangana courts international campuses for ‘Future City’ - The PIE News",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ2Z6ckJNR081cWlpd1NfQ0M4TzV1d08xcW14elBDYW9TNkhrTGppZW0wVzBmYjVacGZSWlFKZTNETi1iakpOOGM2ZHZKM2d2eDV3QU1BcURsMGpmZnBnQTdveXljdVBfbHhzajRSa0NDdzlScWFwRnhDX3QyS3dwU0lNZUp1UQ?oc=5",
@@ -128,6 +142,25 @@
     "General"
    ],
    "first_seen": "2026-10-16T16:45:16+00:00"
+  },
+  {
+   "title": "University of Liverpool Opens Its First Campus in Karnataka, Offering Students Admission to Eight Courses - Entrepreneur India",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTXJpaGM0WDlJc1JZV0lBaDFfNGthRHhUdjNhLVBySXdnMjQxUkotWnlIU29qSnViQ01JUk8ta0RHS2VXbkNGVHJBYTNOY2xDRFpTSU5nVnVmY3pfNUJKWVlZbTJwN1NFMWxSZmtDOGNtbExwVWJlUXpiTnNaeUlhUEUwU19KWDVqZ2NDTktZaXhPZG9VdGlKaEJ0UFV2Y0drRkJRUHRGS05DMFVHbXpLSnNjMGYxLXQzU2taNVA3b18tUkJzd25JWGVLdXJFY3c5ZHZLUk9DN0M3bndVSkNEckNnWUpBU1BBX0Y1Y0J3?oc=5",
+   "source": "Entrepreneur India",
+   "published": "2026-10-16T10:12:21+00:00",
+   "summary": "University of Liverpool Opens Its First Campus in Karnataka, Offering Students Admission to Eight Courses Entrepreneur India",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Launch / first cohort",
+    "Programmes"
+   ],
+   "first_seen": "2026-10-20T04:59:16+00:00"
   },
   {
    "title": "Liverpool’s mayor opens Bengaluru campus",
