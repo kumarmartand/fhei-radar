@@ -1,6 +1,24 @@
 {
- "fetched": "2026-10-20T04:59:16+00:00",
+ "fetched": "2026-10-20T11:47:49+00:00",
  "items": [
+  {
+   "title": "Gallery: Bengaluru campus opening celebrations - University of Liverpool",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYTJiTi11YXhBbkhEWVJBSjlpbzcwLXNZRkdTcnIzYUx1T3I5S05VajdCcVIySGttY0N2WWNsbnBEZ3czcWQzZmlTOWxQeEY2cHFRWmpzVzE3WDl6LTA4elZQMlItanJHSW1zN3Z0S01EaWc4c0lVN3p5MklFaFR0RDU1UHJSbW9EWmhKaGtPc0tlRFhL?oc=5",
+   "source": "University of Liverpool",
+   "published": "2026-10-20T08:06:28+00:00",
+   "summary": "Gallery: Bengaluru campus opening celebrations University of Liverpool",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-20T11:47:49+00:00"
+  },
   {
    "title": "CM Revanth Reddy lays foundation for Rs 200 crore NIUM campus - The New Indian Express",
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbXNMTjBLODR4aDN6NDFaZjU5Z3dOMGJ0NEZHV0U1SjJmYmM2ZXRsZjI2YWFpNnBtQzV6d0ktTDNUN0JNenF6aGNDZDZKeXJfVkhlbzZ3eHdwYS1WZHNndlR0dVlyRHdvejRJQ0REVFZyeVdpekIxWlpFTnlnaVBlSWd5c1Rrbm9sT0xRdjlINy1jdHlnWTRhQkl2Qm9WOTNWUWF2YU1tRk9NNTBJVTZMVHJvbkt5dXVWZ1JTS0d0OUFGTUlTbW1SemhLa3RNc25QYmJ3czdRNFpRei1pQnlMU2tzaFZ0Rzc5ZUo3N19INF9SaGlRMm5RNldqb1lDUdIBzgFBVV95cUxNOE0xcFJTV2VySFo5aHNCREVId21YUzZWbC0tZzBDMkkwdnRneVVEbVJIUlBScmFOeXI4cXAxSlFTbXh4MFNXeU5IaGpLUV9ENXFHZTVlbTN2SVpvYjZkdkJrWGRkbk1SbXZBWGVjYmp4WTVUT2R0STB2cGRUZmFvelA0UFJtVXNIcEppSlhlOTlQbE0tWHpHMlFYMWM5aUNPbHVNX2VvMWxLMjJtWlN6aHF4bVI5RnFGNXdjQk1ad3hSdEVIMnEtM0F4Z2ZhQQ?oc=5",
@@ -14,6 +32,20 @@
     "General"
    ],
    "first_seen": "2026-10-20T04:59:16+00:00"
+  },
+  {
+   "title": "Telangana plans 250 acres for 10 foreign university campuses - Hyderabad Mail",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONENZMWN5NWhCYWk2NkVqaG5DLUhCZU9CTHZlZkhBMnU3SnFwU19IR2NWbzVJM2pGZmhmbGxrY3RJTEgydUZJZHRCUHVtcVBPZ001NHBKSVRqdkRESW1FOFRrSVljSk5TVndvUE1scEZOY3EyZ0hFa0t4dXdGaGxIT0dRWTBKNmZfV1psQjlKYw?oc=5",
+   "source": "Hyderabad Mail",
+   "published": "2026-10-20T02:43:30+00:00",
+   "summary": "Telangana plans 250 acres for 10 foreign university campuses Hyderabad Mail",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-20T11:47:49+00:00"
   },
   {
    "title": "Telangana courts international campuses for ‘Future City’ - The PIE News",
@@ -627,6 +659,24 @@
     "General"
    ],
    "first_seen": "2026-10-12T05:34:00+00:00"
+  },
+  {
+   "title": "University of Colorado Denver to Establish India Campus in Hyderabad - education21.in",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajVCX29UWjZ2QWF6WkY0Yl8zNmNCNHN2NVBBTGR2b2JUSzhsX2hUVmhqcGo2TVBHMTdzVjI2OHgwbmtEN2pFb0RfZHhzMlN2SUdoV1FZMDlFX1JBQ1l5emdvRHZZUWkySWRGSjhBM29MVWtCSnphNFE1QW9TNGQ4SDVjblhjSWZQNDFtQ3dzaVNuQjQ2d0M0?oc=5",
+   "source": "education21.in",
+   "published": "2026-10-07T18:23:20+00:00",
+   "summary": "University of Colorado Denver to Establish India Campus in Hyderabad education21.in",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-20T11:47:49+00:00"
   },
   {
    "title": "CU Denver to set up Hyderabad campus, first cohort likely in August 2027 - Dinamalar",
