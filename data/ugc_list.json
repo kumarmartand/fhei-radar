@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-22T04:58:57+00:00",
+ "fetched": "2026-10-22T12:01:51+00:00",
  "rows": [
   {
    "state": "Haryana",
@@ -40,6 +40,11 @@
    "state": "Maharashtra",
    "name": "Illinois Institute of Technology – Mumbai Campus",
    "address": "Godrej Business District 06\nVikhroli (West), Mumbai – 400079\nMaharashtra, India"
+  },
+  {
+   "state": "Maharashtra",
+   "name": "University of  Western Australia - Mumbai Campus",
+   "address": "Waterstones, Brookfield Building, 2nd Floor, Airport Rd,Chimatpada, Waterstones, Andheri East,Mumbai, Maharashtra 400059"
   }
  ]
 }
