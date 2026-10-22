@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-21T21:47:57+00:00",
+ "fetched": "2026-10-22T04:58:57+00:00",
  "items": [
   {
    "title": "Is the lower tuition offered by branch campuses enough to attract Indian students? - ICEF Monitor",
@@ -1617,6 +1617,24 @@
     "General"
    ],
    "first_seen": "2026-10-21T11:59:44+00:00"
+  },
+  {
+   "title": "UWA opens Mumbai campus, with another Indian base on way - PS News",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm1kVkItV05LYUlfQ3hib0ZZOXF4bm5wZ1Exc2EyWmVJaFhuWU1wWS1rdlRXbW1LX3pfVkhtMnQ2N2dWWjd1cGFael9OOEVkT0ppMExmV0RTUjN5QWd6eDVDWnN6LVFzZlpqU0RhRGdnMjBKRW5RbjFib3lnNzFtTWpRSWFOcDdJQ3JwY0NR?oc=5",
+   "source": "PS News",
+   "published": "2026-09-22T07:00:00+00:00",
+   "summary": "UWA opens Mumbai campus, with another Indian base on way PS News",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-22T04:58:57+00:00"
   },
   {
    "title": "University of British Columbia: Campuses, Academics, and Indian Student Life - Shiksha.com",
