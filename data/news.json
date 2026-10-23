@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-23T11:47:35+00:00",
+ "fetched": "2026-10-23T17:14:47+00:00",
  "items": [
   {
    "title": "Amazon paid $427 million for a 122-acre university campus and proposed four data centres; after local opp - The Times of India",
@@ -583,6 +583,24 @@
     "General"
    ],
    "first_seen": "2026-10-09T06:35:19+00:00"
+  },
+  {
+   "title": "University Of Colorado Denver Hyderabad Campus Gets UGC Nod, Becoming First Public US University To Establish - Free Press Journal",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNDZLZjNxYTlWcjFiTFIxZUlOa0pYRnU1OWFLUl9yZDltN0MxOHI5VDNKWDJyekVHOWtvbWxnQ1BkeWxQVkp6bFowb1lrTTZMeTdwclJyWk0xbGRJM1pucWRkQ0FJbUw5a0R4Y2xxelRLQXVjMVZLSlB3c09hbmtLS3lnZXlpdTk3YXpqd082N25JMkFrN0x5R3lSdXBQQTZrTVppLWlzSkZpdFdaWXlOREljUzVxWjVDdkx5Nk53bGFnbmNHM0MwcUUySGc4RU9JODVhZDlZRU9JX2twZEZSR2NMLXZWZEw4NzZvQkZlMFNUb0pDN1F3VG1VS2xYTzgwZUZFU0tpakhDU0VFRmE4T2t30gGXAkFVX3lxTFA0UlJ0dzRoRjVlUjliN3cxR1ZTaXdiRzRnVkNjdllOMFdfRGdaOFNjMUdGTnJqeGtXeEdDOEVjZ0Z6SnA2VGY5c0VuRzVYVmRNcXhmRWJHWnVpSlg2b0ZBZFBuWUJJUnhKTGFTTTRyVlhpaE9LX2xNaUw0aTFFNkYtOXAxdXAtTElEbWc5UHNSMjJsNjdvT1U0YXJ6TTFtWWsxdHE4bHRucU53RzRaX2tWakJybUluNjl5aGdDSEFoWGpFNW84bS05R015YXRPY1ppQU1wS0xWLUt6dG95c3U5aldLSkRldUhxMUlIRHI5WmlnLVdabkUtZWJRSWVRWTJFQUdUelRTanR1SmxrQUFDeFZOUnhmVQ?oc=5",
+   "source": "Free Press Journal",
+   "published": "2026-10-08T07:00:00+00:00",
+   "summary": "University Of Colorado Denver Hyderabad Campus Gets UGC Nod, Becoming First Public US University To Establish Free Press Journal",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-23T17:14:47+00:00"
   },
   {
    "title": "University Of Colorado Denver Receives UGC Nod for Hyderabad Campus, First in India for US Public University - Telangana Tribune",
