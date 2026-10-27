@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-27T12:22:38+00:00",
+ "fetched": "2026-10-27T22:22:11+00:00",
  "items": [
   {
    "title": "Amazon paid $427 million for a 122-acre university campus and proposed four data centres; after local opposition, it agreed to abandon the plan and pledge 25 acres for public facilities and $5 million for housing - The Times of India",
@@ -1420,6 +1420,24 @@
    "first_seen": "2026-10-27T12:22:38+00:00"
   },
   {
+   "title": "University of Colorado Denver to set up India campus in Hyderabad - BusinessLine",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcHByNlh4emNlVzh1LXcyWmpGdnpQaTZyelhYdE5idF9KLXFoTmxyVVE1ZE9oSnRqcnlLbXR0RFAySnlBQTRlQUk0dUJMYVVxVlZfOGpPMGxfQUYtWUlmU1VhZmYtWmxzNk5oZDk5TGs0RllHMGFyeVNHQ1RHbEN5RlBYT1g4ZW0yZDZmejI3c051MkZKR2l3N0tVWHFWU1BqRWJQYkhtc0N0RWE5cVBqdnFjbW12cjlyS1VrYkhKOFE3b2FPelZ3cThhMk5RNjNtTGxR0gHaAUFVX3lxTE04V1FwbUZjWWZXQWJPNGtUTUluTkROWHRLcExPOXJ2V0Z1Qk52NEdYU1FPalAtVjdRYkNaeDJOaXhSdmZkeEpaN1o0LUZ1ak9HMmJYZ25ZcDB0dlRfVURCdUNucGU2UWJEclBMbUE5V1BhM21scUo0WkhpN2RkemlKT3pVcU1ZUllzaHlXWThmZFRiNjRwVWw5STFHaXpaNk5xYnFCZzZGNUVOZjBaOHYzUmgzMmxTREdsZ3ZOWWdVRFhEZjdybzdFa0tQS1NObVl6M3J6V2JNTk93?oc=5",
+   "source": "BusinessLine",
+   "published": "2026-10-07T07:00:00+00:00",
+   "summary": "University of Colorado Denver to set up India campus in Hyderabad BusinessLine",
+   "institutions": [
+    "university-of-colorado"
+   ],
+   "matched_in": {
+    "university-of-colorado": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-27T22:22:11+00:00"
+  },
+  {
    "title": "University of Colorado Denver To Set Up Campus In India, 'First US Public University' To Do So - News18",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR1dEeEd1dEZOOGllRG9sa2FHYjNxNG9QNkZ1MjNWc0QxaEpJaGJqMXowdk5peXg5RlR0RGsxM3dOcDdMXzFTSnpCRTA5bnE2S01EdUdnSk5tM3EzRVJ6c0hjMkt4bTdrYWEwOEhmUWxnNmNpWWJnaWtLcWszekk4RjJTTWZQbFFEV1h3ZXhpMHpGS2hXMmdYM3Y4Tm5ZdmpCOGVkVHJWMFV2UmFBc05KTzBOazRXaVZvTVNEUER6aS11WFVXekFqdlVzdW1iOTFNZkp5bGZ5eW9RNVp6OXfSAeMBQVVfeXFMTUc0X2VNeDd1dks3aXBPanZsUEFaSFNBdzFBNm5zX19tNGUtT2V5alJaZ1Ywa0FqT1lLSHBuZW1MWEZwaEZtSFI3LS1DLW9EMjJFQkpuME9mOTVZQnNaM0QxYlBpajJUekVWZkxlY2ROc01Zd0toNEp4R2lOY0N6aE95Nno2OUdGUFlyOHFBb1FLTmREeHF0Uk16VTZiYVVsWW1jSkdhb2N4UVZHR3lqSXJTNWlRb0xhcndPa2JVR3Rha01PYVczclE0WU5LcWhDV25IQXdhQU9TT0ZnSkQ2bmFMRWM?oc=5",
    "source": "News18",
@@ -1726,6 +1744,20 @@
     "General"
    ],
    "first_seen": "2026-10-21T17:19:24+00:00"
+  },
+  {
+   "title": "France eyes GIFT City branch campuses as India revisits qualifications-recognition pact - ET Education",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOUhCdzN4SDJ3MUViSVlGRU5OSEZpVUQ0VHFaQl83TEJFWVZGc0pocnR0b3JtR1dxVVhyazBNSmxzUDlQN1k2X2l0S1ZlWlJJblFqc29fSGtOMXcyZm5CUW9BcGdRQ0pCamtjel9jQ0pmaURLX3RxRFJSUk9iaU5RQUwxSkhkRVN6SWQtY0lCUUNGdGxKa0FDSkIxS0ljQW83d0dVU1JINzVPa0dEeXJobmJmbGtsbXNBTFlYQUxtaS1raU43aURld2JXczk2ZWQ3bjI4NFNBeWIzdTZWb3pmczRUQkRlNHNPQi1tNnljNV9tMS1WM1hYMjlR0gH-AUFVX3lxTE5BY0pKVDVaMURxU1ZqZ3lpS3JTTFJQc25jeEdJQ3lERXJZSTZZRTVnWXN6bEs0V1dMb2JGQXd3V1FwM044MVJoS0dWRkNUOEdrSHh2OF9GZXdReVBJXzNWNEk2Tmd4NzVYOE9STmQzckRVLTFvQ2t1dUJrZXliOEJWYU9XSmotd2VHdDY2X3N3dzBoWWNsaVpKYVJqOFRBRzJxdENUVk14b3RPQVlTN3pZXzM2OTdha3E4T1pQZF9LRWVwNm1JZDU2UjJNR0tqMV9iOU9fTFcySjFtUUdqdlVlMk1JWGx5RVV6MHgzWkJ2QXJuSXFyTkZFZ185M1F3?oc=5",
+   "source": "ET Education",
+   "published": "2026-09-29T07:00:00+00:00",
+   "summary": "France eyes GIFT City branch campuses as India revisits qualifications-recognition pact ET Education",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-27T22:22:11+00:00"
   },
   {
    "title": "US Universities to establish physical campuses in India; Trilegal advises - Bar and Bench",
