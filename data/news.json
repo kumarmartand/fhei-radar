@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-27T05:14:02+00:00",
+ "fetched": "2026-10-27T12:22:38+00:00",
  "items": [
   {
    "title": "Amazon paid $427 million for a 122-acre university campus and proposed four data centres; after local opposition, it agreed to abandon the plan and pledge 25 acres for public facilities and $5 million for housing - The Times of India",
@@ -148,6 +148,23 @@
     "General"
    ],
    "first_seen": "2026-10-19T13:30:55+00:00"
+  },
+  {
+   "title": "Why Melbourne University wants synergy and not a campus in India - The Financial Express",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU3diTE9iRi1rS2NidEdzb0dLRjhTT0k4YlEzcUV1LURRSzN0UlhENm5iRzVfN20weDNSYTRQNHJVaktCb19PTTZxVDNRZ2VtcTlJbHFKTVl2N0x2RUd4c2dlQjFZaGFXVWJQTVV6dDFHNk1nR3J1N01aSVhFU0M1ekFMQkkyLVZWaGNWSkxWblMwTEM5aTQxYllPejZtNXMxTGp1cVp2WVYybm9EV0N5UmxuT011T2JaczdoZlRXSmFYR2RGbzdJ0gHOAUFVX3lxTFA3TWdYdWMzbXEydHZIYXNRLWdMbi1Ldk02VGZVN2ZvTmZSR2FNX2xGS0xXNDNxSzJQT1kxLXNwSHNza0JqcXVsQmFpbWRoY2hBVzBsRlBjdHkwM0p4Nno2VlFKZk0zLTNfb2xwSmlla1BhQ2ljOWEwSVBMb0tSXzlvUUcyLWZCdmo5YThlRXZMbzI2dHhFMGhHdXYtRkZoek0waC1LcHpmX2poY2ItYzFnMmQ2cE9MY1F0MlVEOEt4anBfeXVMT1BWX2oydDd3?oc=5",
+   "source": "The Financial Express",
+   "published": "2026-10-18T18:07:48+00:00",
+   "summary": "Why Melbourne University wants synergy and not a campus in India The Financial Express",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "possible_new_entrant": [
+    "Why Melbourne University"
+   ],
+   "first_seen": "2026-10-27T12:22:38+00:00"
   },
   {
    "title": "UP minister Yogendra Upadhyaya welcomes Western Sydney University campus proposal in Greater Noida - ET Government",
@@ -1383,6 +1400,24 @@
     "General"
    ],
    "first_seen": "2026-10-24T11:12:32+00:00"
+  },
+  {
+   "title": "University of Western Australia Opens First International University Campus in Chennai - LiveChennai",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jaTVyTDUzUldRMkhyUEJUV3JJcEpZZVhoNnhrV1hNaUJoS2dKeldRRDZUa2x2YnM4QTJraGZjN0lIX3NiTG5OREFzNERteWdRZFRWLS1zZ1FTVjFGeU5YTnN0STV0UQ?oc=5",
+   "source": "LiveChennai",
+   "published": "2026-10-07T07:00:00+00:00",
+   "summary": "University of Western Australia Opens First International University Campus in Chennai LiveChennai",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-27T12:22:38+00:00"
   },
   {
    "title": "University of Colorado Denver To Set Up Campus In India, 'First US Public University' To Do So - News18",
