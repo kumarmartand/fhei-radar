@@ -1,6 +1,24 @@
 {
- "fetched": "2026-10-28T05:52:42+00:00",
+ "fetched": "2026-10-28T13:07:42+00:00",
  "items": [
+  {
+   "title": "Deakin University GIFT City Campus launches Master of Applied Artificial Intelligence (Professional) with Industry Roundtable in Bengaluru - https://www.indiagazette.com/",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNM2NZQXZpZk1SVXFXMzBRcHdyUDVTT1Y4NTlrbE45YzYycDctenFkQ0RBa0doampqakszcXBod2Y3RUFtU0l6a1NZMFdhSHlGNEx4clhoLVczazJzUVNNSHQ4UzV6S1IzdWFhV1p4YUNxbWl1QnBuZm03QzZ0eEZENlF3djgySHg0dmRsQmF6bGtxTEF5T09tTmdPY2MydFIxbmRHSThjWmJnYVVTZDZWTzVKTDhXUTZxejB5RURadWt4dzhSVkdxZTVSOTNkU2gzUWtqd2F6NmdEVk9HNjBRRmdxY1JodE1RdXlPSmJXazdaYnZjTXZPdEFDZEo3WGdjVm1LME1objRVTGtr?oc=5",
+   "source": "https://www.indiagazette.com/",
+   "published": "2026-10-28T04:33:00+00:00",
+   "summary": "Deakin University GIFT City Campus launches Master of Applied Artificial Intelligence (Professional) with Industry Roundtable in Bengaluru https://www.indiagazette.com/",
+   "institutions": [
+    "deakin-university"
+   ],
+   "matched_in": {
+    "deakin-university": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-28T13:07:42+00:00"
+  },
   {
    "title": "Amazon paid $427 million for a 122-acre university campus and proposed four data centres; after local opposition, it agreed to abandon the plan and pledge 25 acres for public facilities and $5 million for housing - The Times of India",
    "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPWVFhR0tUeWNyX2d4RVgwTnZqY3NtNlNSN0ZQaGRLS280OFJGaVNycjllWHRkeVVpQzh6S1I2MHl2Rkp0a2xDanhjc0pYem9RbV9LSzVTdFQ4ckJkeV9TRUNXdy1LdkxpcG5FenNrSU5ncE1Eb1Q0aWlrN0lXUkF0WVFUUWFoOFkxSUtfcjdGNEgyM19CVDZFR1VoZGpwaGJMVTR5VE9nMWJ2bXhuU1lFNDNodFUxV3owcENoUTRCeEl4TDFlaHFpNnFPNW54RDVZZnk1WWhkZWRRVXRwUXllT1I2Qm9LQmN4d1FPNm5OZm5zSDQzYnJCeVB4djIwQVNTeVBLREZrX0p2Y3dlX3dRYjJEVXc2NXg0NmprSmdHU0hJUmJCdVRCOUd6SjM3MlFRcFVRdDNISGVHTUdMc2Jyd3FhVm03QzdHcDI4NS1HT3lqRnNfZ25TdE5lSDZlbGd2TVNkeHFFWkZ2NEc1Vi11cDNxZVkwOG90d09jeFJTLTF0RTR5azVUbHdyZUk0N3gxeHN2WTZEcEppYzlwTlZnSA?oc=5",
@@ -1544,6 +1562,20 @@
     "General"
    ],
    "first_seen": "2026-10-17T15:41:53+00:00"
+  },
+  {
+   "title": "Australian varsity’s Chennai campus to begin classes on Oct 19 - The Hans India",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOME40R0hKUjhnb3dFYkNwUkZqQkJUYXN0bkJ5REZ4ZFpZaHIwUzVQSlFXMFkwMmtWUnQyYXI0azlNbjg2NllfejBTcXp1ODRZRVdBOWp6REFpNUljbTc3YnE4a2g4cVVNUGNNS0ZxN29mcTgwcGFvdnVTQ29Fd0Uzc3dfRFRRZzRCNnM2N0s2Wkh0S0J6Tk14Y3pBUzRqeUR6NFVvSDlWM196N29xQ2JsTG1lQUdXVnZsMFE?oc=5",
+   "source": "The Hans India",
+   "published": "2026-10-06T07:00:00+00:00",
+   "summary": "Australian varsity’s Chennai campus to begin classes on Oct 19 The Hans India",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-28T13:07:42+00:00"
   },
   {
    "title": "Telangana to formulate policy for foreign university campuses in 'Future City' - ET Education",
