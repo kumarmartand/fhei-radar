@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-30T05:57:28+00:00",
+ "fetched": "2026-10-30T13:06:11+00:00",
  "items": [
   {
    "title": "Australia’s Universities Must Not Mistake India for Diversification - Future Campus",
@@ -16,6 +16,20 @@
    "first_seen": "2026-10-30T05:57:28+00:00"
   },
   {
+   "title": "IIM Bangalore to establish first overseas campus in Indonesia: PM Modi - DD News",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVV1dHBnVVEwWkpLc0ZYSzdoU0lXM3RsM3NUMC1ZNXdwZk9xY1IzUWwzVTJ6bHdrYXZQS0xpRU84bkc2OGoyeXFnYlVtUzlweTc5alI0ano1RnF5ejUtSDRRSWxXYjBLTXZFNGwtWUJ2V19xTE1reDIzaHpQekdTeG5KYmNrSF9lT3NYaUxpbW5uRDdEZ2o0SnBxNA?oc=5",
+   "source": "DD News",
+   "published": "2026-10-29T19:36:50+00:00",
+   "summary": "IIM Bangalore to establish first overseas campus in Indonesia: PM Modi DD News",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-30T13:06:11+00:00"
+  },
+  {
    "title": "GSL launches second next-gen offshore patrol vessel for Navy - The Times of India",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXM0UThaRU9BM0xIZ0ZHRHB0aVFLSmhiUFUyTGtrUzBXY2c2aDdmOHo4MWtlY3RiVjNQTVZfZjZDeGZodTRhSG1PNUZZMmJDVnVIcjRWcW1saUdCZE9tWm15MmMzM1N2cTNqS2ZJUFI1eWY1U2RhbDRyV3c0LW41bEdNWlpTOUxtQ1dYUlMyQm9rblgtZjZQQzJEZHVmTW90RHZnaFlvWEVPVXd6M0JTY2EtbmsxY2VfdFRScVVUSnlzN3BDZUd3NUhld9IB0AFBVV95cUxNdnlhMEEwQVFfY0RjZExYbmdXRlptR1BFa1dNV05LNjFUdll2djY5cEZqZ2R4VzlxbEdaSkpqdWtXNzdIeWRrOXZ1Y0JIQnhFYzRQYXQzSlRfU1VrSDJpMDZHVzNTVVNHSGF6V3lxaFJNRmVGWWdNa2J4blRJQVVFcG83NDZURDBCWTFvenRPLWZCZGpTNzk1akhidy1lN3BNTlhQV21sTTNNTV9VX214M1R4V2hEc3RaSnpZN0w1TGZUUUk5SFpWMlpFV3lQaHVP?oc=5",
    "source": "The Times of India",
@@ -28,6 +42,24 @@
     "General"
    ],
    "first_seen": "2026-10-29T13:13:47+00:00"
+  },
+  {
+   "title": "First Minister visits University of Aberdeen Mumbai campus - University of Aberdeen",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XRWdaTEVtdWpSZWxfeFp1QS03aURuTWlPQ0ItOWZRT3Rkb0VnT3JtaE1DSzR5Wmpza1F1U3VKVUtiTm91MTNSQjFR?oc=5",
+   "source": "University of Aberdeen",
+   "published": "2026-10-28T11:50:23+00:00",
+   "summary": "First Minister visits University of Aberdeen Mumbai campus University of Aberdeen",
+   "institutions": [
+    "university-of-aberdeen"
+   ],
+   "matched_in": {
+    "university-of-aberdeen": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-10-30T13:06:11+00:00"
   },
   {
    "title": "Deakin University GIFT City Campus launches Master of Applied Artificial Intelligence (Professional) with Industry Roundtable in Bengaluru - ANI News",
