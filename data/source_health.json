@@ -2,39 +2,44 @@
  "UGC FHEI list": {
   "ok": false,
   "error": "ValueError: table not found - page layout may have changed",
-  "at": "2026-10-31T21:41:41+00:00",
+  "at": "2026-11-01T06:19:08+00:00",
   "last_ok": "2026-10-30T05:57:28+00:00"
  },
  "Google News RSS": {
   "ok": true,
-  "items": 130,
-  "at": "2026-10-31T21:41:41+00:00",
-  "last_ok": "2026-10-31T21:41:41+00:00",
-  "secs": 3.2
+  "items": 145,
+  "at": "2026-11-01T06:19:08+00:00",
+  "last_ok": "2026-11-01T06:19:08+00:00",
+  "secs": 3.1
+ },
+ "GDELT partial": {
+  "ok": true,
+  "warnings": "query 1 gave no data",
+  "at": "2026-11-01T06:19:08+00:00"
  },
  "GDELT": {
   "ok": true,
-  "items": 8,
-  "at": "2026-10-31T21:41:41+00:00",
-  "last_ok": "2026-10-31T21:41:41+00:00",
-  "secs": 174.2
+  "items": 1,
+  "at": "2026-11-01T06:19:08+00:00",
+  "last_ok": "2026-11-01T06:19:08+00:00",
+  "secs": 190.4
  },
  "Trade & gov RSS partial": {
   "ok": true,
   "failed_feeds": 2,
   "of": 4,
-  "at": "2026-10-31T21:41:41+00:00"
+  "at": "2026-11-01T06:19:08+00:00"
  },
  "Trade & gov RSS": {
   "ok": true,
   "items": 30,
-  "at": "2026-10-31T21:41:41+00:00",
-  "last_ok": "2026-10-31T21:41:41+00:00",
-  "secs": 4.1
+  "at": "2026-11-01T06:19:08+00:00",
+  "last_ok": "2026-11-01T06:19:08+00:00",
+  "secs": 3.4
  },
  "_summary": {
-  "last_run": "2026-10-31T21:41:41+00:00",
-  "raw_items": 168,
+  "last_run": "2026-11-01T06:19:08+00:00",
+  "raw_items": 176,
   "new_relevant_items": 0
  }
 }
