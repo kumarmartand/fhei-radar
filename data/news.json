@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-04T06:38:06+00:00",
+ "fetched": "2026-11-04T19:51:26+00:00",
  "items": [
   {
    "title": "4 British Universities Invite Employers To First Placement Week At India Campuses. - TRIPURA STAR NEWS",
@@ -377,6 +377,24 @@
     "General"
    ],
    "first_seen": "2026-10-18T20:51:45+00:00"
+  },
+  {
+   "title": "University of Liverpool Opens First South India Campus in Bengaluru's Whitefield - Jagran Josh",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEM2eDAyalhlc0ctV1JvZkVPLVFCWDBWUExteWVhX1ZURkhZUi1tQTZIN1dBdVJsdUFmSzhKT2g2LUhJRFhweUpWWEZiRlkxVVdNTlZpQkdpVTlOckI0MWhqaEVqZGdTbktVMFA3T2xaZ0tyOENXUVdRM1l2Nm5qenY1ak1wN3M3TXQxTzJrT2J6cEF1cVpVU1YtNHZHVmpnRWFNOXlXZ2g0em5NSEtjTDVyQmRvTUFHYVHSAcABQVVfeXFMTm1QZnNUUTItcTFFT0dPXzAtbDFkQnVGeDBpYUU0MFVOM0Vta3dncXJDSTI1WS1LdHJKa3NhY3czMVpKa05tdjBDeVQ3NFIyY2FUbjREb0NPMm5CN28xZXFoWVZibjZuR0Y3a0QwdU85Q1pRSFlOMjVxdnFuMWFTQTJWX1FaakxfQTUyMVJHX0dBZFJKY19ReTdlc3M0eXhXZnlnWlp6dnI0Q2RWQkhMYkpBampWaG80U0x4c09WMmsy?oc=5",
+   "source": "Jagran Josh",
+   "published": "2026-10-17T07:00:00+00:00",
+   "summary": "University of Liverpool Opens First South India Campus in Bengaluru's Whitefield Jagran Josh",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-11-04T19:51:26+00:00"
   },
   {
    "title": "Liverpool opens Bengaluru campus with nearly 300 students - The PIE News",
