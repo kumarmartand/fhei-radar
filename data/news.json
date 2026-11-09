@@ -1,6 +1,20 @@
 {
- "fetched": "2026-11-09T06:47:47+00:00",
+ "fetched": "2026-11-09T22:28:22+00:00",
  "items": [
+  {
+   "title": "New branch campuses make stuttering start in India - Times Higher Education",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1FfNHl2NDZnVmp3cXpNdFdIWUstTGdKanRzd3dKTTZUTV94R2ZJeTA5Tm9sY0xCakhrRmtUOGZKM1plWVJpTUhhYnEtQXFXZ3lIcFNDZWVrVWdrSDJ6TEI0LXFFcFdELVQ5aWxWTGtIYmNBOExWN0s3YlVUQkhhRkdUVklRZEphOHYteXpMUV94eTQ?oc=5",
+   "source": "Times Higher Education",
+   "published": "2026-11-09T19:10:54+00:00",
+   "summary": "New branch campuses make stuttering start in India Times Higher Education",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-11-09T22:28:22+00:00"
+  },
   {
    "title": "Four UK universities join forces to recruit for India campuses, 250-plus postgraduates eligible - EdexLive",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWs1d0g0b3ZaUzNsTW91YXRzQnNXeGFISnQ3Znp6RzRFdXg4WVJ0VkViZVZfUUJsZzZUZUxvbU4xbWRDVkJMRklOeHBwMlY3XzNjblc3YWw4eFlPak94dnJDYkVSeDdQcXhyUzJJcFhLcHVKVG5xMS1EZFMyQklGaUp2MFFQU1lnSjdNNG9wSGlGSHJJR21uY1pncm51R0Y3aC1xektiWmxSTEhSemprbnFPdTlLQ21JMzNtMzYwMTBqd9IBzwFBVV95cUxOeXhzZm4zSjhMZmlMY2h5YjdldXpDX3hrdkw0ZWFBNzFHcDdPS2tTakFQaldXX1VpdlpaWG5DSkpQWVZ2eEJIeVlzOWlkRXVGUUdiU0ZXcEFDdTUta0JBLU8xcmE5WklUdEctYmkyalhkaUp5d0dOaXZ0X1R5alpNQ0pHNDFPWEtpMzdXbE94M29IX1VKN2cxNDBCaDRodVhZTkpRWHhoejBaaDdLSHM4MWtnY1Aza1A3N0pKZExsa2hRMW9ybG9rOWFSOVZXMTQ?oc=5",
@@ -176,6 +190,24 @@
     "General"
    ],
    "first_seen": "2026-10-28T22:40:33+00:00"
+  },
+  {
+   "title": "Deakin University GIFT City Campus launches Master of Applied Artificial Intelligence (Professional) with Industry Roundtable in Bengaluru - ThePrint",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPaGpqUjVlclFyUlA0SUtwc3dKdWZORWdSaFFtZnlIemV1R2pyWkwxU1ZwSUkzSmRNd1I3eWdfWmFXTVpNS1ljaWNmWHFXeEFBWEQ0aEJxOFJoLUE1akRpVGZrZWNocXRMblpSQmgwdHJMaERHNkZzUWhOSUJnMW5kQXFnSEFucUxzZU1QZHdTMVhCSWNlVHM4aEh5RC1COHpEVXgxR2hBRmxRWG5aUGRvVnphc1NudjJDWUk4UWw1RGJCMHk3SUZfUDk4Qy1KOC1nVDdEN1FDd0dFOFZQR1M1WnlNOC1TR1VXblJQYmM0ejJVVVdwT19pQ09uRkQ1T0dfTWczWi11M09KVlcyTlJ1VmxB0gGXAkFVX3lxTE1zUFk0alBpRHVMc0p0V3paWVBRTjZPWW1DWEJZZ3ZqSmVLaTBnejYtcVN5VEJXQUFVZXdfdWdCQXo5cF82S29iWGRoM0IxY3hlMTl6ZllFcVVnNEhIV2FiTmZRVldNOHAxdWV1Y0YyVWE3TWk1eE1qVnFlU2d6ZFdUenozNEV3c0NwMzYyNnpPSjA5M3h3SGRQSkd0eVNsN1FzcnliRkNRNkxubGdRVS11Z1RiMkpHSWlULVkxdGJrX2NtU2d0UndkVlRSbEYwN1ZsVGt6Y2FBNm9MR09QZ09KZU5McVNjMFhPemhlS3B1cnFKZUFkcVdLeENITGhFbm04TzAxay1FSTJBRldjc0o1Tkp1SnpoYw?oc=5",
+   "source": "ThePrint",
+   "published": "2026-10-28T07:00:00+00:00",
+   "summary": "Deakin University GIFT City Campus launches Master of Applied Artificial Intelligence (Professional) with Industry Roundtable in Bengaluru ThePrint",
+   "institutions": [
+    "deakin-university"
+   ],
+   "matched_in": {
+    "deakin-university": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-11-09T22:28:22+00:00"
   },
   {
    "title": "Deakin University GIFT City Campus launches Master of Applied Artificial Intelligence (Professional) with Industry Roundtable in Bengaluru - https://www.indiagazette.com/",
