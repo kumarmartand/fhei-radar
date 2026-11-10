@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-09T22:28:22+00:00",
+ "fetched": "2026-11-10T07:27:45+00:00",
  "items": [
   {
    "title": "New branch campuses make stuttering start in India - Times Higher Education",
@@ -441,6 +441,24 @@
     "General"
    ],
    "first_seen": "2026-11-04T19:51:26+00:00"
+  },
+  {
+   "title": "UWA India Campus Legal Advice: HSFK, Khaitan & Co Guide Expansion - Wansom AI",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkFTZ0dmYWU5MUtZZlJwSkU3My12X3F1QlNhVXNnZTNUancwc05IbG1sYnNDZEZ1N1hnRjJLZnA5Vk9GdlRQZE9kcHQxNy1fZU9nMWQ2WEpxc09wZUtNekY1WlhBWjdCUW1QLTJfQjQ3N1ZlbEpCSi00Q1BIYnN4X2tIYjRaUko1bUNGdjZnTUV2dFU5MWNrVTN1aHk4Y01Va2NCYUVaM25US2U4WkZQSXE3UzFQeThabWVvaWNTOA?oc=5",
+   "source": "Wansom AI",
+   "published": "2026-10-17T07:00:00+00:00",
+   "summary": "UWA India Campus Legal Advice: HSFK, Khaitan & Co Guide Expansion Wansom AI",
+   "institutions": [
+    "university-of-western-australia"
+   ],
+   "matched_in": {
+    "university-of-western-australia": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-11-10T07:27:45+00:00"
   },
   {
    "title": "Liverpool opens Bengaluru campus with nearly 300 students - The PIE News",
