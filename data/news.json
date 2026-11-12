@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-12T07:21:52+00:00",
+ "fetched": "2026-11-12T20:03:24+00:00",
  "items": [
   {
    "title": "UGC drafting rules for foreign univ campuses here - The Daily Star",
@@ -574,6 +574,24 @@
     "General"
    ],
    "first_seen": "2026-10-16T11:33:15+00:00"
+  },
+  {
+   "title": "University of Liverpool Opens First South India Campus in Bengaluru, Applications Open for 2027 Intake - Times Now",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZHpwR2NfajJ2LUloTEYwcGp2VU8zUmJjcGxDbzdMcjR2XzhDVk5KM0I5czU0Yy1mTHVoUVVhb3JUVlRmUGpGSF9aWUxSSHNFa203a2ZrUFd3cW9uRUw4S1hKcV9ESkRVM1gzZDh5c0dtSDUtMTJ2U3k1cmZwMXpRMVFobXVqNVN6ckZjWVV0TGdLQTNJWC0tWUNKaTcxNDBTV3ZzM1hWUHJzai1mMmhiUnZsQzdSYldRM0hIOFYyWTNidWNySHZYRGtPeE1kRWpuQmgwY1ZBeG5TazRDOVlKTWdZYlUwRkpPNFl3TU1nY9IB9AFBVV95cUxQSFlOc2hCN2hROUdfWEx0SGlvczQyUUpOYjBGcE9NNndmRDJKMF9jNmt2d2tUdzFVOWxSWE5mam9kdGtKY3BfcWNGX0lFYUIyNHhTZzBlVDY5Qkg5dDh3WG55VjVUekhQazZyYkRQM1g1dmFONHNHcGJpZGV0Nng2TnZoTGdiUjZOUUpzeU9xV2EtYW1oNjg3cnRRZnN5Tzg1SVFpdGw2LWNabXVDbWZsYnhuRENHVVJZV3pHUEhXN2hvY3BvVnV3MkVjYTZzc01QOG9kS29FMG9zWnF4MU84cW9abUh0d2ZjQWVUNmZtM0luNVZ1?oc=5",
+   "source": "Times Now",
+   "published": "2026-10-16T07:00:00+00:00",
+   "summary": "University of Liverpool Opens First South India Campus in Bengaluru, Applications Open for 2027 Intake Times Now",
+   "institutions": [
+    "university-of-liverpool"
+   ],
+   "matched_in": {
+    "university-of-liverpool": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "Programmes"
+   ],
+   "first_seen": "2026-11-12T20:03:24+00:00"
   },
   {
    "title": "University of Liverpool opens its Bengaluru campus, welcoming inaugural cohort of almost 300 students - Passionate In Marketing",
