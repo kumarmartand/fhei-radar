@@ -1,6 +1,20 @@
 {
- "fetched": "2026-11-15T06:44:38+00:00",
+ "fetched": "2026-11-15T18:56:26+00:00",
  "items": [
+  {
+   "title": "India invites Singapore universities to set up campuses, build townships - Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTlpXZ0lMNXktS3lPNmN5OEhhSjBfWEw4b2hDR2tVeE9PcWlVQkFjOUpEV0c5eTQtelU2YWtsSUVLQlpTQ3ZVMnQyUEUyVmRjZ3FXR2daTVlCQTZva1Y1Q2VzU1hkOFFmRXZKYWNZTmxMdFQyN3VQY0xic1BPV2xTLWstY0E4Z1lFYWVTaEE1R2E2bjJCZzE1ZVQtbTE5SVlVamVHV1Q1Y3ZNVlI0NVJHenRBbWw2UklMLTYtSU1zaExoakU0Y2k1R251WGxyVkh6Y1lvdkhvVdIB3AFBVV95cUxNZVgzRFdTM0lpQVR4ZU9wVkwwZDZCRWZmY2duVnMxbjRLa0s1UTJOY0hMUjBtTkVodlJobmxaVmtwZmhMY2NpdmhKZzEyaDBOWC1TY1JWc2RBZ2NEb0IyUHBXUkd0WDhBV1JFRHFZSHZBVmFVNWFaZHJVdWdEUS1Pal9zc3YwZkgzM0JtYnVfLVFlZHhZOGptbkstdm8xVm5Za1EyWkpNaWw0MWtSOUlyOW5NbS1heDkyZjdaa3ZxQmllMGI0eVF1Mks3RjFoUEFpQV9vVFh1STI5MTRn?oc=5",
+   "source": "Business Standard",
+   "published": "2026-11-15T11:13:13+00:00",
+   "summary": "India invites Singapore universities to set up campuses, build townships Business Standard",
+   "institutions": [],
+   "matched_in": {},
+   "confidence": "sector",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-11-15T18:56:26+00:00"
+  },
   {
    "title": "UGC drafting rules for foreign univ campuses here - The Daily Star",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUhROHVMMzFfSURxNjItcUs2a2dRSGRETnA5REtjaGhLSWFLb2NHamVGM2VLY3FXbHVlNllkSmpQd29UcDZ3MmlkRE5WOXBOUEhFemRXSjc5S09CMkFTWGRINV9JWkRTSWFvdUU2d3ZBUF9PS3RkaGNDWWN0d2Nmdm9rN2k4M09aNjZlZTFsVHFmNFdfTjBILVcxYWM0UmVYa2laVU93?oc=5",
@@ -154,6 +168,24 @@
     "General"
    ],
    "first_seen": "2026-10-30T13:06:11+00:00"
+  },
+  {
+   "title": "Deakin University GIFT City Campus launches Master of Applied Artificial Intelligence (Professional) with Industry Roundtable in Bengaluru - Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPNkNtZ0V0S0xOMGhNNEtqUTRyVnpRR28weXV5QWNCNG8ycjFvRF93blo0TUhMOWtFcUJDQXhHQ202LUFxWWNIYS1DaEdDYkRXZG1wUVZTLVZUWlBPNVRGMVM1M2s3a3BYVmowekU0U1AtUVl6VEl4RXI2eFNIOXpDdS1CR1BrWWlmbmdCMzVyVHNmdmlsWmZ2bk9fcmFzcDM4LWNpR1ltSzRHMExNYnVKd0pWMF9FbjRrQTlrVHQtNlZtNmtHdmNqYUt6YkcyVVN4RzVLTFJKS1BCcW9HQlF1c3V1V1ppOTZnYWNEUVFKYVJEN2VReUJ2d3hCUG0wblFUREtfS1lVVndkbnptVTlfWF92WnA1bG5fcHB6Z24tamFFc21oRmJMLWZBTlRuRlJ2elloMkhhTU5ubnNNNmfSAcMCQVVfeXFMT3dqQk04M1NsVHFFVGxzVl9pcFhCNEVyNExiOHc2ODREaE5pSWx4bmszc0FzeUNfTW80RlB1ci1hMERlcHlZb3dBSlp5TGJOSGJSNmNUV1ZDN2FSdDAwaEJQM1pEMFV0ZDhOQTRqN2p2Tm5BWFlvamNQc1hQeHN6ZGQtcWF3cmYxbUk2R3dPREREVDlPSnZ2Slp4SmtyNG5wbEt5MnZYdHRQSzZKcVhmWmVRQ1hFS1R0bUhiQnlkVWRyN1U3Q1hGQlBSbkw5ZkxGaWJTUmxGWEIwNUtGQkdLelNJU2V0REtJamtYTERENFY2MmtpUFBXMjlENXpmSDM5cXdfMXQwenZRVTdheUhvLWhNb1QyZkhIdzA1TEs1dmtCenZSMU9vUHZPOWpiNWxoZmppV3htZTNzUXdaek4xMDNZSlE?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-28T19:20:00+00:00",
+   "summary": "Deakin University GIFT City Campus launches Master of Applied Artificial Intelligence (Professional) with Industry Roundtable in Bengaluru Business Standard",
+   "institutions": [
+    "deakin-university"
+   ],
+   "matched_in": {
+    "deakin-university": "headline"
+   },
+   "confidence": "high",
+   "events": [
+    "General"
+   ],
+   "first_seen": "2026-11-15T18:56:26+00:00"
   },
   {
    "title": "GSL launches second next-gen offshore patrol vessel for Navy - The Times of India",
