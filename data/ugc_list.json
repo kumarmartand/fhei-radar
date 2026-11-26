@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-26T08:32:18+00:00",
+ "fetched": "2026-11-26T21:40:39+00:00",
  "rows": [
   {
    "state": "Haryana",
@@ -20,6 +20,11 @@
    "state": "Karnataka",
    "name": "University of New South Wales, Australia",
    "address": "Ground Floor, G1, Mulberry Block,Embassy Manyata Business Park, Bengaluru, Karnataka 560045"
+  },
+  {
+   "state": "Karnataka",
+   "name": "Birbeck, University of London - Bengaluru campus",
+   "address": "5th Floor, Akash Block\n\nSattva Tech Park\n\nPattandur Agrahara Whitefield,\n\nBengaluru, Karnataka – 560066, India"
   },
   {
    "state": "Maharashtra",
