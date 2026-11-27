@@ -19,5 +19,20 @@
   "at": "2026-11-26T21:40:39+00:00",
   "type": "UGC list: now lists University of London",
   "detail": "Seed stage: Application / state talks"
+ },
+ {
+  "at": "2026-11-27T21:26:11+00:00",
+  "type": "UGC list: campus ADDED",
+  "detail": "Birkbeck, University of London - Bengaluru campus"
+ },
+ {
+  "at": "2026-11-27T21:26:11+00:00",
+  "type": "UGC list: campus REMOVED",
+  "detail": "Birbeck, University of London - Bengaluru campus"
+ },
+ {
+  "at": "2026-11-27T21:26:11+00:00",
+  "type": "UGC list: now lists Birkbeck, University of London",
+  "detail": "Seed stage: Approved (not yet on UGC list)"
  }
 ]
